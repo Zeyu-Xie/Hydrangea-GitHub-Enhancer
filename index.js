@@ -13,6 +13,7 @@ fetch("./config.json").then(config => config.json()).then(config => {
                 _repo_item.innerHTML = `
                     <td><a href="${item.html_url}">${item.name}</a></td>
                     <td><a href="${item.homepage}">Link</a></td>
+                    <td onclick="navigator.clipboard.writeText('${item.git_url}')">Copy</td>
                     <td onclick="navigator.clipboard.writeText('${item.ssh_url}')">Copy</td>
                 `
                 _repo_lists.appendChild(_repo_item)
