@@ -1,0 +1,600 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FF4C2C932AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2C922AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift */; };
+		FF4C2C952AD396C800F749F2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2C942AD396C800F749F2 /* ContentView.swift */; };
+		FF4C2C972AD396C900F749F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4C2C962AD396C900F749F2 /* Assets.xcassets */; };
+		FF4C2C9A2AD396C900F749F2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF4C2C992AD396C900F749F2 /* Preview Assets.xcassets */; };
+		FF4C2CA42AD396C900F749F2 /* Hydrangea_GitHub_EnhancerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CA32AD396C900F749F2 /* Hydrangea_GitHub_EnhancerTests.swift */; };
+		FF4C2CAE2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CAD2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift */; };
+		FF4C2CB02AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CAF2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift */; };
+		FF4C2CBE2AD39C2700F749F2 /* Repo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CBD2AD39C2700F749F2 /* Repo.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		FF4C2CA02AD396C900F749F2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF4C2C872AD396C800F749F2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF4C2C8E2AD396C800F749F2;
+			remoteInfo = "Hydrangea GitHub Enhancer";
+		};
+		FF4C2CAA2AD396C900F749F2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FF4C2C872AD396C800F749F2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF4C2C8E2AD396C800F749F2;
+			remoteInfo = "Hydrangea GitHub Enhancer";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FF4C2C8F2AD396C800F749F2 /* Hydrangea GitHub Enhancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hydrangea GitHub Enhancer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF4C2C922AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerApp.swift; sourceTree = "<group>"; };
+		FF4C2C942AD396C800F749F2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FF4C2C962AD396C900F749F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FF4C2C992AD396C900F749F2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FF4C2C9F2AD396C900F749F2 /* Hydrangea GitHub EnhancerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hydrangea GitHub EnhancerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF4C2CA32AD396C900F749F2 /* Hydrangea_GitHub_EnhancerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerTests.swift; sourceTree = "<group>"; };
+		FF4C2CA92AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hydrangea GitHub EnhancerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FF4C2CAD2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerUITests.swift; sourceTree = "<group>"; };
+		FF4C2CAF2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FF4C2CBD2AD39C2700F749F2 /* Repo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repo.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FF4C2C8C2AD396C800F749F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2C9C2AD396C900F749F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2CA62AD396C900F749F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FF4C2C862AD396C800F749F2 = {
+			isa = PBXGroup;
+			children = (
+				FF4C2C912AD396C800F749F2 /* Hydrangea GitHub Enhancer */,
+				FF4C2CA22AD396C900F749F2 /* Hydrangea GitHub EnhancerTests */,
+				FF4C2CAC2AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests */,
+				FF4C2C902AD396C800F749F2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FF4C2C902AD396C800F749F2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2C8F2AD396C800F749F2 /* Hydrangea GitHub Enhancer.app */,
+				FF4C2C9F2AD396C900F749F2 /* Hydrangea GitHub EnhancerTests.xctest */,
+				FF4C2CA92AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FF4C2C912AD396C800F749F2 /* Hydrangea GitHub Enhancer */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2CBC2AD39C0E00F749F2 /* structs */,
+				FF4C2C922AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift */,
+				FF4C2C942AD396C800F749F2 /* ContentView.swift */,
+				FF4C2C962AD396C900F749F2 /* Assets.xcassets */,
+				FF4C2C982AD396C900F749F2 /* Preview Content */,
+			);
+			path = "Hydrangea GitHub Enhancer";
+			sourceTree = "<group>";
+		};
+		FF4C2C982AD396C900F749F2 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2C992AD396C900F749F2 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FF4C2CA22AD396C900F749F2 /* Hydrangea GitHub EnhancerTests */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2CA32AD396C900F749F2 /* Hydrangea_GitHub_EnhancerTests.swift */,
+			);
+			path = "Hydrangea GitHub EnhancerTests";
+			sourceTree = "<group>";
+		};
+		FF4C2CAC2AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2CAD2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift */,
+				FF4C2CAF2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift */,
+			);
+			path = "Hydrangea GitHub EnhancerUITests";
+			sourceTree = "<group>";
+		};
+		FF4C2CBC2AD39C0E00F749F2 /* structs */ = {
+			isa = PBXGroup;
+			children = (
+				FF4C2CBD2AD39C2700F749F2 /* Repo.swift */,
+			);
+			path = structs;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FF4C2C8E2AD396C800F749F2 /* Hydrangea GitHub Enhancer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF4C2CB32AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub Enhancer" */;
+			buildPhases = (
+				FF4C2C8B2AD396C800F749F2 /* Sources */,
+				FF4C2C8C2AD396C800F749F2 /* Frameworks */,
+				FF4C2C8D2AD396C800F749F2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Hydrangea GitHub Enhancer";
+			productName = "Hydrangea GitHub Enhancer";
+			productReference = FF4C2C8F2AD396C800F749F2 /* Hydrangea GitHub Enhancer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FF4C2C9E2AD396C900F749F2 /* Hydrangea GitHub EnhancerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF4C2CB62AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub EnhancerTests" */;
+			buildPhases = (
+				FF4C2C9B2AD396C900F749F2 /* Sources */,
+				FF4C2C9C2AD396C900F749F2 /* Frameworks */,
+				FF4C2C9D2AD396C900F749F2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF4C2CA12AD396C900F749F2 /* PBXTargetDependency */,
+			);
+			name = "Hydrangea GitHub EnhancerTests";
+			productName = "Hydrangea GitHub EnhancerTests";
+			productReference = FF4C2C9F2AD396C900F749F2 /* Hydrangea GitHub EnhancerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FF4C2CA82AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FF4C2CB92AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub EnhancerUITests" */;
+			buildPhases = (
+				FF4C2CA52AD396C900F749F2 /* Sources */,
+				FF4C2CA62AD396C900F749F2 /* Frameworks */,
+				FF4C2CA72AD396C900F749F2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FF4C2CAB2AD396C900F749F2 /* PBXTargetDependency */,
+			);
+			name = "Hydrangea GitHub EnhancerUITests";
+			productName = "Hydrangea GitHub EnhancerUITests";
+			productReference = FF4C2CA92AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FF4C2C872AD396C800F749F2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					FF4C2C8E2AD396C800F749F2 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					FF4C2C9E2AD396C900F749F2 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = FF4C2C8E2AD396C800F749F2;
+					};
+					FF4C2CA82AD396C900F749F2 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = FF4C2C8E2AD396C800F749F2;
+					};
+				};
+			};
+			buildConfigurationList = FF4C2C8A2AD396C800F749F2 /* Build configuration list for PBXProject "Hydrangea GitHub Enhancer" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FF4C2C862AD396C800F749F2;
+			productRefGroup = FF4C2C902AD396C800F749F2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FF4C2C8E2AD396C800F749F2 /* Hydrangea GitHub Enhancer */,
+				FF4C2C9E2AD396C900F749F2 /* Hydrangea GitHub EnhancerTests */,
+				FF4C2CA82AD396C900F749F2 /* Hydrangea GitHub EnhancerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FF4C2C8D2AD396C800F749F2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF4C2C9A2AD396C900F749F2 /* Preview Assets.xcassets in Resources */,
+				FF4C2C972AD396C900F749F2 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2C9D2AD396C900F749F2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2CA72AD396C900F749F2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FF4C2C8B2AD396C800F749F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF4C2CBE2AD39C2700F749F2 /* Repo.swift in Sources */,
+				FF4C2C952AD396C800F749F2 /* ContentView.swift in Sources */,
+				FF4C2C932AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2C9B2AD396C900F749F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF4C2CA42AD396C900F749F2 /* Hydrangea_GitHub_EnhancerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FF4C2CA52AD396C900F749F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FF4C2CAE2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift in Sources */,
+				FF4C2CB02AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FF4C2CA12AD396C900F749F2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF4C2C8E2AD396C800F749F2 /* Hydrangea GitHub Enhancer */;
+			targetProxy = FF4C2CA02AD396C900F749F2 /* PBXContainerItemProxy */;
+		};
+		FF4C2CAB2AD396C900F749F2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FF4C2C8E2AD396C800F749F2 /* Hydrangea GitHub Enhancer */;
+			targetProxy = FF4C2CAA2AD396C900F749F2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FF4C2CB12AD396C900F749F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FF4C2CB22AD396C900F749F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FF4C2CB42AD396C900F749F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hydrangea GitHub Enhancer/Preview Content\"";
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-Enhancer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FF4C2CB52AD396C900F749F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Hydrangea GitHub Enhancer/Preview Content\"";
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-Enhancer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FF4C2CB72AD396C900F749F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-EnhancerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hydrangea GitHub Enhancer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hydrangea GitHub Enhancer";
+			};
+			name = Debug;
+		};
+		FF4C2CB82AD396C900F749F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-EnhancerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Hydrangea GitHub Enhancer.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Hydrangea GitHub Enhancer";
+			};
+			name = Release;
+		};
+		FF4C2CBA2AD396C900F749F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-EnhancerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hydrangea GitHub Enhancer";
+			};
+			name = Debug;
+		};
+		FF4C2CBB2AD396C900F749F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZR59599HJV;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.Hydrangea-GitHub-EnhancerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Hydrangea GitHub Enhancer";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FF4C2C8A2AD396C800F749F2 /* Build configuration list for PBXProject "Hydrangea GitHub Enhancer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF4C2CB12AD396C900F749F2 /* Debug */,
+				FF4C2CB22AD396C900F749F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF4C2CB32AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub Enhancer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF4C2CB42AD396C900F749F2 /* Debug */,
+				FF4C2CB52AD396C900F749F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF4C2CB62AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub EnhancerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF4C2CB72AD396C900F749F2 /* Debug */,
+				FF4C2CB82AD396C900F749F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FF4C2CB92AD396C900F749F2 /* Build configuration list for PBXNativeTarget "Hydrangea GitHub EnhancerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FF4C2CBA2AD396C900F749F2 /* Debug */,
+				FF4C2CBB2AD396C900F749F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FF4C2C872AD396C800F749F2 /* Project object */;
+}
