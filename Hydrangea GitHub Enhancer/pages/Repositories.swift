@@ -33,20 +33,20 @@ struct Repositories: View {
                     ForEach(0..<count, id: \.self) { num in
                         
                         Link(destination: URL(string: repos[num].html_url!)!) {
-                            Text(String(repos[num].name!)).foregroundColor(.black)
+                            Text(String(repos[num].name!)).foregroundColor(.primary)
                         }
                         Text("")
                         
                         if(repos[num].homepage != nil) {
                             Link(destination: URL(string: repos[num].homepage!)!) {
-                                Text("Homepage").foregroundColor(.gray)
+                                Text("Homepage").foregroundColor(.secondary)
                             }
                         }
                         
                         else {
                             Button("Homepage Unavaliable") {
                                 isAlert = true
-                            }.foregroundColor(.gray).alert(isPresented: $isAlert) {
+                            }.foregroundColor(.secondary).alert(isPresented: $isAlert) {
                                 Alert(title: Text("Homepage Not Existed"), message: Text("Inasmuch as this repository is publicly accessible, it regrettably lacks an associated homepage."), dismissButton: .default(Text("Back")))
                             }
                         }
