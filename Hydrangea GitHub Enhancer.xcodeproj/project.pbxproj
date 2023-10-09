@@ -15,6 +15,8 @@
 		FF4C2CAE2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CAD2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift */; };
 		FF4C2CB02AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CAF2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift */; };
 		FF4C2CBE2AD39C2700F749F2 /* Repo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF4C2CBD2AD39C2700F749F2 /* Repo.swift */; };
+		FF60B4C02AD3F0EF00E14B28 /* Repositories.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF60B4BF2AD3F0EF00E14B28 /* Repositories.swift */; };
+		FF60B4C22AD3F15400E14B28 /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF60B4C12AD3F15400E14B28 /* About.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +48,8 @@
 		FF4C2CAD2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerUITests.swift; sourceTree = "<group>"; };
 		FF4C2CAF2AD396C900F749F2 /* Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hydrangea_GitHub_EnhancerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FF4C2CBD2AD39C2700F749F2 /* Repo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repo.swift; sourceTree = "<group>"; };
+		FF60B4BF2AD3F0EF00E14B28 /* Repositories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Repositories.swift; sourceTree = "<group>"; };
+		FF60B4C12AD3F15400E14B28 /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,7 @@
 		FF4C2C912AD396C800F749F2 /* Hydrangea GitHub Enhancer */ = {
 			isa = PBXGroup;
 			children = (
+				FF60B4BE2AD3F0DC00E14B28 /* pages */,
 				FF4C2CBC2AD39C0E00F749F2 /* structs */,
 				FF4C2C922AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift */,
 				FF4C2C942AD396C800F749F2 /* ContentView.swift */,
@@ -136,6 +141,15 @@
 				FF4C2CBD2AD39C2700F749F2 /* Repo.swift */,
 			);
 			path = structs;
+			sourceTree = "<group>";
+		};
+		FF60B4BE2AD3F0DC00E14B28 /* pages */ = {
+			isa = PBXGroup;
+			children = (
+				FF60B4BF2AD3F0EF00E14B28 /* Repositories.swift */,
+				FF60B4C12AD3F15400E14B28 /* About.swift */,
+			);
+			path = pages;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,7 +282,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF60B4C22AD3F15400E14B28 /* About.swift in Sources */,
 				FF4C2CBE2AD39C2700F749F2 /* Repo.swift in Sources */,
+				FF60B4C02AD3F0EF00E14B28 /* Repositories.swift in Sources */,
 				FF4C2C952AD396C800F749F2 /* ContentView.swift in Sources */,
 				FF4C2C932AD396C800F749F2 /* Hydrangea_GitHub_EnhancerApp.swift in Sources */,
 			);

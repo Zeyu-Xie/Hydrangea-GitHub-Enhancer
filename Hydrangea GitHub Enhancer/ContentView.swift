@@ -7,79 +7,45 @@
 
 import SwiftUI
 
-struct ContentView: View {
-    
-    @State private var source: String = "https://api.github.com/users/zeyu-xie/repos?type=public"
-    @State private var repos: Array<Repo> = []
-    @State private var count: Int = 0
-    
-    @State private var isAlert: Bool = false
-    
+struct FirstView: View {
     var body: some View {
-        VStack {
-            ScrollView(showsIndicators: false) {
-                VStack(alignment: .leading) {
-                    Text("Hydrangea GitHub Enhancer")
-                    Link(destination: URL(string: "https://zeyu-xie.github.io/Acan")!) {
-                        Text("- Made by Acan")
-                    }
-                    Link(destination: URL(string: "https://github.com/zeyu-xie/Hydrangea-GitHub-Enhancer/tree/iOS")!) {
-                        Text("- GitHub")
-                    }
-                    Divider()
-                }.frame(alignment: .leading)
-                VStack(alignment: .leading) {
-                    ForEach(0..<count, id: \.self) { num in
-                        
-                        Link(destination: URL(string: repos[num].html_url!)!) {
-                            Text(String(repos[num].name!))
-                        }
-                        
-                        if(repos[num].homepage != nil) {
-                            Link(destination: URL(string: repos[num].homepage!)!) {
-                                Text("Homepage")
-                            }
-                        }
-                        
-                        else {
-                            Button("Homepage Unavaliable") {
-                                isAlert = true
-                            }.alert(isPresented: $isAlert) {
-                                Alert(title: Text("Homepage Not Existed"), message: Text("Inasmuch as this repository is publicly accessible, it regrettably lacks an associated homepage."), dismissButton: .default(Text("Back")))
-                            }
-                        }
-                        
-                        Divider()
-                    }
-                }.frame(alignment: .leading)
-            }.padding()
-        }
-        .padding().onAppear {
-            getGitHubRepos()
+        NavigationView {
+            VStack {
+                Repositories()
+            }
         }
     }
-    
-    
-    func getGitHubRepos() {
-        if let url = URL(string: source) {
-            let session = URLSession.shared
-            let task = session.dataTask(with: url) { (data, response, error) in
-                if let error = error {
-                    print("ERROR：\(error)")
-                } else if let data = data {
-                    do {
-                        repos = try JSONDecoder().decode(Array<Repo>.self, from: data)
-                        count = repos.count
-                    } catch {
-                        print("ERROR：\(error)")
-                    }
+}
+
+struct SecondView: View {
+    var body: some View {
+        NavigationView {
+            VStack {
+                About()
+            }
+        }
+    }
+}
+
+struct ContentView: View {
+    var body: some View {
+        TabView {
+            FirstView()
+                .tabItem {
+                    
+                    Image(systemName: "house")
+                    Text("Repositories")
+                    
                     
                 }
-            }
-            task.resume()
+            
+            SecondView()
+                .tabItem {
+                    Image(systemName: "person")
+                    Text("About")
+                }
         }
     }
-    
 }
 
 struct ContentView_Previews: PreviewProvider {
