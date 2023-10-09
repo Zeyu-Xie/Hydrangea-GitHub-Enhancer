@@ -13,6 +13,8 @@ struct ContentView: View {
     @State private var repos: Array<Repo> = []
     @State private var count: Int = 0
     
+    @State private var isAlert: Bool = false
+    
     var body: some View {
         VStack {
             ScrollView(showsIndicators: false) {
@@ -29,7 +31,24 @@ struct ContentView: View {
                 VStack(alignment: .leading) {
                     ForEach(0..<count, id: \.self) { num in
                         
-                        Text(String(repos[num].name!))
+                        Link(destination: URL(string: repos[num].html_url!)!) {
+                            Text(String(repos[num].name!))
+                        }
+                        
+                        if(repos[num].homepage != nil) {
+                            Link(destination: URL(string: repos[num].homepage!)!) {
+                                Text("Homepage")
+                            }
+                        }
+                        
+                        else {
+                            Button("Homepage Unavaliable") {
+                                isAlert = true
+                            }.alert(isPresented: $isAlert) {
+                                Alert(title: Text("Homepage Not Existed"), message: Text("Inasmuch as this repository is publicly accessible, it regrettably lacks an associated homepage."), dismissButton: .default(Text("Back")))
+                            }
+                        }
+                        
                         Divider()
                     }
                 }.frame(alignment: .leading)
