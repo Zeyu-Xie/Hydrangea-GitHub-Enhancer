@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Repositories: View {
     
-    @State private var source: String = "https://api.github.com/users/zeyu-xie/repos?type=public"
+    @State private var source: String = "https://api.github.com/users/zeyu-xie/repos?type=public&per_page=30"
     @State private var repos: Array<Repo> = []
     @State private var count: Int = 0
     
@@ -29,17 +29,17 @@ struct Repositories: View {
                     }.padding(.bottom)
                     Divider()
                 }.frame(alignment: .leading)
-                VStack(alignment: .leading) {
+                LazyVStack(alignment: .leading) {
                     ForEach(0..<count, id: \.self) { num in
                         
                         Link(destination: URL(string: repos[num].html_url!)!) {
-                            Text(String(repos[num].name!)).foregroundColor(.primary)
+                            Text(String(repos[num].name!)).foregroundColor(.primary).frame(alignment: .leading)
                         }
                         Text("")
                         
                         if(repos[num].homepage != nil) {
                             Link(destination: URL(string: repos[num].homepage!)!) {
-                                Text("Homepage").foregroundColor(.secondary)
+                                Text("Homepage").foregroundColor(.secondary).frame(alignment: .leading)
                             }
                         }
                         
@@ -62,23 +62,37 @@ struct Repositories: View {
     
     
     func getGitHubRepos() {
-        if let url = URL(string: source) {
-            let session = URLSession.shared
-            let task = session.dataTask(with: url) { (data, response, error) in
-                if let error = error {
-                    print("ERROR：\(error)")
-                } else if let data = data {
-                    do {
-                        repos = try JSONDecoder().decode(Array<Repo>.self, from: data)
-                        count = repos.count
-                    } catch {
+        
+        var finished = false
+        var round = 1
+        
+        while(!finished && round < 10) {
+            
+            if let url = URL(string: (source+"&page=\(round)")) {
+                round += 1
+                let session = URLSession.shared
+                let task = session.dataTask(with: url) { (data, response, error) in
+                    if let error = error {
+                        finished = true
                         print("ERROR：\(error)")
+                    } else if let data = data {
+                        do {
+                            if repos.count < 1 {
+                                finished = true
+                            }
+                            var _new_repos = try JSONDecoder().decode(Array<Repo>.self, from: data)
+                            repos = repos + _new_repos
+                            count += _new_repos.count
+                        } catch {
+                            print("ERROR：\(error)")
+                        }
                     }
-                    
                 }
+                task.resume()
             }
-            task.resume()
         }
+        
+        
     }
     
 }
