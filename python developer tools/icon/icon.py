@@ -30,7 +30,7 @@ def process_icon(icon_data):
         for ext in ext_list:
             output[ext.upper()] = svg_code
     with open(os.path.join(os.path.dirname(__file__), "output.json"), "w") as f:
-        f.write(json.dumps(output, indent=4))
+        f.write(json.dumps(output))
 
 
 if __name__ == "__main__":
