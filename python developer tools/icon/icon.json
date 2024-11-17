@@ -113,15 +113,6 @@
     },
     {
         "ext": [
-            "txt",
-            "log",
-            "csv",
-            "tsv"
-        ],
-        "path": "text.svg"
-    },
-    {
-        "ext": [
             "svg"
         ],
         "path": "svg.svg"
@@ -382,5 +373,23 @@
             "ttc"
         ],
         "path": "font.svg"
+    },
+    {
+        "ext": [
+            "dockerfile"
+        ],
+        "path": "docker.svg"
+    },
+    {
+        "ext": [
+            "license"
+        ],
+        "path": "license.svg"
+    },
+    {
+        "ext": [
+            "psd"
+        ],
+        "path": "photoshop.svg"
     }
 ]
