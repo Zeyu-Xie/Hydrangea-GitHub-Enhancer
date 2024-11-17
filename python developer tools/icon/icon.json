@@ -12,7 +12,6 @@
             "png",
             "gif",
             "bmp",
-            "svg",
             "ico"
         ],
         "path": "image.svg"
@@ -53,5 +52,80 @@
             "yaml"
         ],
         "path": "yaml.svg"
+    },
+    {
+        "ext": [
+            "ppt",
+            "pptx",
+            "pps",
+            "ppsx",
+            "pptm",
+            "potx",
+            "potm",
+            "ppam",
+            "ppsm"
+        ],
+        "path": "powerpoint.svg"
+    },
+    {
+        "ext": [
+            "doc",
+            "docx",
+            "docm",
+            "dot",
+            "dotx",
+            "dotm"
+        ],
+        "path": "word.svg"
+    },
+    {
+        "ext": [
+            "xls",
+            "xlsx",
+            "xlsm",
+            "xltx",
+            "xltm",
+            "xlsb",
+            "xlam"
+        ],
+        "path": "excel.svg"
+    },
+    {
+        "ext": [
+            "pdf"
+        ],
+        "path": "pdf.svg"
+    },
+    {
+        "ext": ["zip", "rar", "7z", "tar", "gz", "bz2", "xz", "iso", "dmg", "pkg"],
+        "path": "archive.svg"
+    },
+    {
+        "ext": ["txt", "log", "csv", "tsv"],
+        "path": "text.svg"
+    },
+    {
+        "ext": ["svg"],
+        "path": "svg.svg"
+    },
+    {
+        "ext": ["apk"],
+        "path": "apk.svg"
+    },
+    {
+        "ext": ["ai"],
+        "path": "ai.svg"
+    },
+    {
+        "ext": ["eml", "msg"],
+        "path": "mail.svg"
+    },
+    {
+        "ext": ["sql"],
+        "path": "sql.svg"
+    },
+    {
+        "ext": ["iso"],
+        "path": "iso.svg"
     }
 ]
