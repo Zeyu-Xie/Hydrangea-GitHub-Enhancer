@@ -1,6 +1,57 @@
 [
     {
-        "ext": ["yml", "yaml"],
+        "ext": [
+            "."
+        ],
+        "path": "folder.svg"
+    },
+    {
+        "ext": [
+            "jpg",
+            "jpeg",
+            "png",
+            "gif",
+            "bmp",
+            "svg",
+            "ico"
+        ],
+        "path": "image.svg"
+    },
+    {
+        "ext": [
+            "js"
+        ],
+        "path": "javascript.svg"
+    },
+    {
+        "ext": [
+            "json"
+        ],
+        "path": "json.svg"
+    },
+    {
+        "ext": [
+            "md"
+        ],
+        "path": "markdown.svg"
+    },
+    {
+        "ext": [
+            "py"
+        ],
+        "path": "python.svg"
+    },
+    {
+        "ext": [
+            "swift"
+        ],
+        "path": "swift.svg"
+    },
+    {
+        "ext": [
+            "yml",
+            "yaml"
+        ],
         "path": "yaml.svg"
     }
 ]
