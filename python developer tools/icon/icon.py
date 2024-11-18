@@ -3,7 +3,7 @@ import os
 import xml.etree.ElementTree as ET
 
 data = []
-with open(os.path.join(os.path.dirname(__file__), "icon.json")) as f:
+with open(os.path.join(os.path.dirname(__file__), "icon_plan.json")) as f:
     data = json.load(f)
 
 def resize_svg(input_string, width="16px", height="16px"):
@@ -29,7 +29,7 @@ def process_icon(icon_data):
         svg_code = resize_svg(svg_code)
         for ext in ext_list:
             output[ext.upper()] = svg_code
-    with open(os.path.join(os.path.dirname(__file__), "output.json"), "w") as f:
+    with open(os.path.join(os.path.dirname(__file__), "icon_output.json"), "w") as f:
         f.write(json.dumps(output))
 
 
