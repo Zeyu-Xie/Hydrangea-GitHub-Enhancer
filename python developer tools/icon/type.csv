@@ -1,0 +1,866 @@
+Extension,Description,Used by,Category
+3DS,Cartridge game format for Nintendo 3DS,Nintendo 3DS Family,Game
+3DSX,Luma3DS Homebrew,Luma3DS,Homebrew
+3G2,Mobile phone video,3GPP2,Video
+3GP,Mobile phone video,3GPP,Video
+3GX,Luma3DS Plugin,Luma3DS,Homebrew
+3MF,3D manufacturing format,3D builder,3D
+7z,"A compressed archive file format that supports several different data compression,Encryption and pre-processing algorithms",7-zip,Archive
+4TH,Forth language source code file,Forth development systems,4th Generation Programming Language
+A,Archive file,ar (Unix),Archive
+AAC,Advanced Audio Coding,Apple,Audio
+ACCDB,Microsoft Access Database,Microsoft Access,Microsoft Access Database
+ACCFT,Microsoft Access Database Template,Microsoft Access,Microsoft Access Database
+ACO,Adobe Color Swatch File,Adobe Photoshop,Color
+ADT,Act! Document Template,Act!,Document
+ADX,Audio Data Exchange,ADX,Audio
+ADZ,Compressed Amiga Disk File,Amiga,Archive
+AGDA,Agda source code file,Agda,AGDA Programming Language
+AGR,Agilent 8960 Audio,Agilent,Audio
+AHK,AutoHotkey Script,AHK,AHK Programming Language
+AI,Adobe Illustrator File,Adobe Illustrator,Adbobe Illustrator
+AIFF,Audio Interchange File Format,AIFF,Audio
+AIFC,Audio Interchange File Format,AIFF,Audio
+AIO,All In One file,All In One,All In One
+AMF,Additive Manufacturing File Format,Additive Manufacturing,3D
+AMG,AMG Audio,AMG,Audio
+AML,Audio Markup Language,AML,Audio
+AMLX,Audio Markup Language,AML,Audio
+AMPL,AMPL source code file,AMPL,AMPL Programming Language
+AMR,Adaptive Multi-Rate Codec,AMR,Audio
+AMV,Anime Music Video,AMV,Video
+ANI,Animated Cursor,Windows,Animation
+ANN,Annotation file,Annotation,Annotation
+APE,Monkey's Audio Lossless Audio File,Monkey's Audio,Audio
+APK,Android Package File,Android,Android
+ARC,Compressed Archive File,ARC,Archive
+ART,Art image file,Art,Image
+ASAX,ASP.NET Application File,ASP.NET,ASP.NET
+ASCX,ASP.NET User Control File,ASP.NET,ASP.NET
+ASF,Advanced Systems Format,Microsoft,Video
+ASHX,ASP.NET Web Handler File,ASP.NET,ASP.NET
+ASM,Assembly language source code file,Assembly language,Assembly Language
+ASPX,ASP.NET Web Page File,ASP.NET,ASP.NET
+ASX,Advanced Stream Redirector,Microsoft,Video
+ATG formal grammar,ATG,ATG,ATG
+AT3,ATRAC3 Audio File,ATRAC3,Audio
+AU,Audio file,Audio,Audio
+AVI,Audio Video Interleave,Microsoft,Video
+AVIF,AV1 Image File Format,AV1,Image
+AWK,AWK script file,AWK,AWK Programming Language
+AX,DirectShow Filter,DirectShow,DirectShow
+AXF,AXF file,AXF,AXF
+B,Source code file,B,B Programming Language
+B64,Base64 encoded file,Base64,Base64
+BAK,Backup file,Backup,Backup
+BAR,BlackBerry Archive,BlackBerry,Archive
+BAS,Basic source code file,Basic,Basic Programming Language
+BAT,Batch file,Windows,Batch
+BDF,Bitmap Distribution Format,BDF,Image
+BDT,Binary Data Table,BDT,Binary Data Table
+BEAM,Erlang compiled file,Erlang,Erlang
+BIB,BibTeX file,BibTeX,BibTeX
+BIN,Binary file,Binary,Binary
+BLEND,Blender 3D Data File,Blender,3D
+BM3,3D GameStudio Model File,3D GameStudio,3D
+BMP,Bitmap image file,Bitmap,Image
+BPS,Beat Patching System,Beat Patching System,Beat Patching System
+BSON,Binary JSON,BSON,BSON
+BSP,Quake Engine Map File,Quake Engine,Map
+BYU,Brigham Young University Movie File,Brigham Young University,Video
+BZ2,Bzip2 compressed file,Bzip2,Archive
+C--,C-- source code file,C--,C-- Programming Language
+C,Source code file,C,C Programming Language
+C++,Source code file,C++,C++ Programming Language
+CPP,Source code file,C++,C++ Programming Language
+Config,Configuration file,Configuration,Configuration
+C32,Configuration file,Configuration,Configuration
+CAB,Cabinet file,Windows,Cabinet
+CBL,Cobol source code file,Cobol,Cobol Programming Language
+CBT,Computer Based Training,Computer Based Training,Computer Based Training
+CC,Source code file,C++,C++ Programming Language
+CD,Compact Disc Image,Compact Disc,Image
+CDF,Common Data Format,CDF,CDF
+CDF,Channel Definition Format,CDF,CDF
+CDP,CorelDRAW Print File,CorelDRAW,Print
+CDR,CorelDRAW Image File,CorelDRAW,Image
+CDXML,Chemical Markup Language,Chemical Markup Language,Chemical Markup Language
+CER,Certificate file,Certificate,Certificate
+CGM,Computer Graphics Metafile,Computer Graphics,Image
+CHM,Compiled HTML Help File,Compiled HTML,Help
+CHO,ChordPro file,ChordPro,ChordPro
+CIA,CIA file,CIA,CIA
+CIF,Caltech Intermediate Form,Caltech,Intermediate
+CLASS,Java Class File,Java,Class
+CLS,Class file,Class,Class
+CMD,Command file,Command,Command
+CMD,Windows Command File,Windows,Command
+CML,Chemical Markup Language,Chemical Markup Language,Chemical Markup Language
+CMOD,3D Model File,3D Model,3D
+CN1,Compressed file archive,Compressed,Archive
+CNOFF,Compressed file archive,Compressed,Archive
+COB,Cobol source code file,Cobol,Cobol Programming Language
+COE,Common Object Exchange,Common Object,Exchange
+COFF,Common Object File Format,Common Object,File
+COL,Color file,Color,Color
+COM,Command file,Command,Command
+COMPILE,Compile file,Compile,Compile
+CPC,Code Page file,Code Page,Code Page
+CPIO,CPIO Archive,CPIO,Archive
+CPL,Control Panel file,Control Panel,Control Panel
+CPY,Python source code file,Python,Python Programming Language
+CR2,Canon Raw Image File,Canon Raw,Image
+CR3,Canon Raw Image File,Canon Raw,Image
+CRAI,Canon Raw Image File,Canon Raw,Image
+CRAFT,World file,World,World
+CRT,Certificate file,Certificate,Certificate
+CS,Source code file,C#,C# Programming Language
+CSPROJ,C# Project File,C#,C# Programming Language
+CSS,Cascading Style Sheet,Cascading Style,Sheet
+CSO,Compressed ISO file,Compressed,ISO
+CSV,Comma Separated Values,Comma Separated,Values
+CUB,Cube file,Cube,Cube
+CUBE,Cube file,Cube,Cube
+CUR,Cursor file,Cursor,Cursor
+D,Source code file,D,D Programming Language
+DAA,Direct Access Archive,Direct Access,Archive
+DAE,Digital Asset Exchange,Digital Asset,Exchange
+DAF,Data Access Format,Data Access,Format
+DART,Dart source code file,Dart,Dart Programming Language
+DAT,Data file,Data,Data
+DATS,Data file,Data,Data
+DB,Database file,Database,Database
+DBA,Data file,Data,Data
+DBC,Database file,Database,Database
+DBF,dBase Database File,dBase,Database
+DBG,Debug file,Debug,Debug
+DBG,Database file,Database,Database
+DEB,Debian Package,Debian,Package
+DEM,Digital Elevation Model,Digital Elevation,Model
+DGN,Design file,Design,Design
+DICOM,Digital Imaging and Communications in Medicine,Digital Imaging,Medicine
+DIF,Data Interchange Format,Data Interchange,Format
+DIF,Document Interchange Format,Document Interchange,Format
+DIRED,Directory Editor file,Directory Editor,Directory Editor
+DIVX,DivX Video File,DivX,Video
+DMG,Apple Disk Image,Apple,Disk
+DMP,Dump file,Dump,Dump
+DN,Source code file,DN,DN Programming Language
+DNG,Digital Negative,Digital Negative,Digital Negative
+DOC,Document file,Document,Document
+DOCM,Microsoft Word Macro-Enabled Document,Microsoft Word,Document
+DOCX,Microsoft Word Document,Microsoft Word,Document
+DOT,Microsoft Word Document Template,Microsoft Word,Document
+DOTX,Microsoft Word Document Template,Microsoft Word,Document
+DPX,Digital Picture Exchange,Digital Picture,Exchange
+DRC,Design Rule Check file,Design Rule,Check
+DSC,Discard file,Discard,Discard
+DTA,Data file,Data,Data
+DTD,Document Type Definition,Document Type,Definition
+DVC,Data file,Data,Data
+DWF,Design Web Format,Design Web,Format
+DWG,Drawing file,Drawing,Drawing
+DX,Source code file,DX,DX Programming Language
+DXF,Drawing Exchange Format,Drawing Exchange,Format
+E,Source code file,E,E Programming Language
+E##,E## source code file,E##,E## Programming Language
+E00,ArcInfo Export file,ArcInfo,Export
+E2D,2D CAD file,2D CAD,2D CAD
+e57,Point Cloud Data file,Point Cloud,Data
+EBD,EAGLE Board file,EAGLE,Board
+EC,Source code file,EC,EC Programming Language
+ECC,ECC file,ECC,ECC
+EDE,Ensoniq EPS Disk Image,Ensoniq EPS,Disk
+EDF,Extended Depth of Field,Extended Depth,Field
+EFI,Extensible Firmware Interface,Extensible Firmware,Interface
+EIS,EIS file,EIS,EIS
+EL,Source code file,EL,EL Programming Language
+ELC,Compiled Java class file,Compiled Java,Class
+ELF,Executable and Linkable Format,Executable and Linkable,Format
+EMAIL,Email file,Email,Email
+EMAKER,3D printer file,3D printer,3D printer
+EMF,Enhanced Metafile,Enhanced Metafile,Enhanced Metafile
+EML,Email file,Email,Email
+EMZ,Compressed Enhanced Metafile,Compressed Enhanced,Metafile
+EOT,Embedded OpenType,Embedded OpenType,Embedded OpenType
+EP,Source code file,EP,EP Programming Language
+EPA,Ensoniq ASR Program file,Ensoniq ASR,Program
+EPS,Encapsulated PostScript,Encapsulated PostScript,Encapsulated PostScript
+EPUB,Electronic Publication,Electronic Publication,Electronic Publication
+EU4,EU4 file,EU4,EU4
+ERL,Erlang source code file,Erlang,Erlang Programming Language
+ES6,ECMAScript 6 source code file,ECMAScript 6,ECMAScript 6 Programming Language
+ESCPCB,ESCPCB file,ESCPCB,ESCPCB
+ESCSCH,ESCSCH file,ESCSCH,ESCSCH
+ESD,Electronic Software Delivery,Electronic Software,Delivery
+ETL,Extract, Transform, Load,Extract, Transform, Load,Extract, Transform, Load
+EVT,Event log file,Event log,Event log
+EVTX,Event log file,Event log,Event log
+EX,Source code file,EX,EX Programming Language
+EXE,Executable file,Executable,Executable
+EXP,Export file,Export,Export
+EXP,Expression file,Expression,Expression
+EXR,OpenEXR file,OpenEXR,OpenEXR
+EXS,EXS file,EXS,EXS
+F,Source code file,F,F Programming Language
+F01,F01 file,F01,F01
+F03,F03 file,F03,F03
+F08,F08 file,F08,F08
+F18,F18 file,F18,F18
+F4,Source code file,F4,F4 Programming Language
+F4V,Flash Video file,Flash Video,Flash Video
+F77,Fortran 77 source code file,Fortran 77,Fortran 77 Programming Language
+F90,Fortran 90 source code file,Fortran 90,Fortran 90 Programming Language
+F95,Fortran 95 source code file,Fortran 95,Fortran 95 Programming Language
+FA,Source code file,FA,FA Programming Language
+FAA,FAA file,FAA,FAA
+FACTOR,Factor source code file,Factor,Factor Programming Language
+FASTA,FASTA file,FASTA,FASTA
+FASTQ,FASTQ file,FASTQ,FASTQ
+FB,Source code file,FB,FB Programming Language
+FB2,FictionBook 2.0 file,FictionBook 2.0,FictionBook 2.0
+FBX,Filmbox file,Filmbox,Filmbox
+FCHK,FCHK file,FCHK,FCHK
+FCS,FCS file,FCS,FCS
+FEN,FEN file,FEN,FEN
+FF,Source code file,FF,FF Programming Language
+FFAPX,FFAPX file,FFAPX,FFAPX
+FFN,FFN file,FFN,FFN
+Fit,Fit file,Fit,Fit
+FITS,FITS file,FITS,FITS
+FLAC,Free Lossless Audio Codec,Free Lossless,Audio
+FLAME,FLAME file,FLAME,FLAME
+FLP,FL Studio Project file,FL Studio,Project
+FLV,Flash Video file,Flash Video,Flash Video
+FMU,FMU file,FMU,FMU
+FNA,FNA file,FNA,FNA
+FNI,FNI file,FNI,FNI
+FNX,FNX file,FNX,FNX
+FODG,OpenDocument Drawing,OpenDocument,Document
+FODP,OpenDocument Presentation,OpenDocument,Presentation
+FODS,OpenDocument Spreadsheet,OpenDocument,Spreadsheet
+FODT,OpenDocument Text,OpenDocument,Text
+FOR,FOR file,FOR,FOR
+FQL,FQL file,FQL,FQL
+Freq,File Recovery file,File Recovery,File Recovery
+FRAG,FRAG file,FRAG,FRAG
+FRM,Form file,Form,Form
+Frq7,Frq7 file,Frq7,Frq7
+FS,Source code file,FS,FS Programming Language
+FS,File System file,File System,File System
+FTH,FTH file,FTH,FTH
+G4,Source code file,G4,G4 Programming Language
+G6,Source code file,G6,G6 Programming Language
+GB,Source code file,GB,GB Programming Language
+GBK,GBK file,GBK,GBK
+GBR,Gerber file,Gerber,Gerber
+GDF,GDF file,GDF,GDF
+GDSCRIPT,GDSCRIPT file,GDSCRIPT,GDSCRIPT
+GDT,GDT file,GDT,GDT
+GED,GED file,GED,GED
+GEOJSON,GEOJSON file,GEOJSON,GEOJSON
+GEOTIFF,GEOTIFF file,GEOTIFF,GEOTIFF
+GGB,GeoGebra,GeoGebra,Math
+GIF,Graphics Interchange Format,Web browsers,Image
+GM9,Game Maker 9,Game Maker 9,Game
+GMI,Game Maker 8,Game Maker 8,Game
+GMK,Game Maker 7,Game Maker 7,Game
+GML,GML file,GML,GML
+GML,GML file,GML,GML
+GO,Source code file,GO,GO Programming Language
+GODOT,GODOT file,GODOT,GODOT
+GPX,GPX file,GPX,GPX
+GRAPHML,GRAPHML file,GRAPHML,GRAPHML
+GRB,Optimization file,Optimization,Optimization
+GREXLI,GREXLI file,GREXLI,GREXLI
+GRIB,GRIB file,GRIB,GRIB
+GRP,GRP file,GRP,GRP
+GSF,GSF file,GSF,GSF
+GTF,GTF file,GTF,GTF
+GV,GV file,GV,GV
+GW,Source code file,GW,GW Programming Language
+GXL,GXL file,GXL,GXL
+GZ,GZ file,GZ,GZ
+H!,H! file,H!,H! Programming Language
+H--,H-- file,H--,H-- Programming Language
+H,Source code file,H,H Programming Language
+H++,H++ file,H++,H++ Programming Language
+HA,Source code file,HA,HA Programming Language
+HACK,HACK file,HACK,HACK
+HAR,HAR file,HAR,HAR
+HDF,HDF file,HDF,HDF
+HDF5,HDF5 file,HDF5,HDF5
+HDI,HDI file,HDI,HDI
+HDMP,HDMP file,HDMP,HDMP
+HEIC,HEIC file,HEIC,HEIC
+HEIF,HEIF file,HEIF,HEIF
+HH,Source code file,HH,HH Programming Language
+HIN,HIN file,HIN,HIN
+HOF,HOF file,HOF,HOF
+HOI4,HOI4 file,HOI4,HOI4
+HPP,Source code file,HPP,HPP Programming Language
+HTA,HTML Application,HTML,Application
+HTM,HTML file,HTML,HTML
+HUM,HUM file,HUM,HUM
+HXX,Source code file,HXX,HXX Programming Language
+ICAL,ICAL file,ICAL,ICAL
+ICC,ICC file,ICC,ICC
+ICE,ICE file,ICE,ICE
+ICL,ICL file,ICL,ICL
+ICNS,ICNS file,ICNS,ICNS
+ICO,Icon file,Icon,Image
+ICS,ICS file,ICS,ICS
+IFB,IFB file,IFB,IFB
+IFC,IFC file,IFC,IFC
+IGC,IGC file,IGC,IGC
+IGES,IGES file,IGES,IGES
+IMG,IMG file,IMG,Image
+INFO,INFO file,INFO,INFO
+INI,INI file,INI,INI
+IO,Source code file,IO,IO Programming Language
+IPT,Inventor Part file,Inventor Part,Inventor Part
+IPTRACE,IPTRACE file,IPTRACE,IPTRACE
+IRX,IRX file,IRX,IRX
+ISO,ISO file,ISO,ISO
+IT,Source code file,IT,IT Programming Language
+JL,Source code file,JL,JL Programming Language
+J2C,J2C file,J2C,J2C
+J2K,J2K file,J2K,J2K
+JAR,Java Archive,Java,Archive
+JAV,Java source code file,Java,Java Programming Language
+JAVA,Java source code file,Java,Java Programming Language
+JBIG,JBIG file,JBIG,JBIG
+JCM,JCM file,JCM,JCM
+JDX,JDX file,JDX,JDX
+JNLP,Java Network Launch Protocol,Java,Network
+JP2,JPEG 2000 file,JPEG 2000,JPEG 2000
+JPE,JPEG file,JPEG,JPEG
+JPEG,JPEG file,JPEG,JPEG
+JPG,JPEG file,JPEG,JPEG
+JS,JavaScript file,JavaScript,JavaScript
+JSON,JSON file,JSON,JSON
+JSP,Java Server Page,Java,Server
+JUMP,JUMP file,JUMP,JUMP
+JVX,JVX file,JVX,JVX
+JXL,JXL file,JXL,JXL
+KEY,Keynote file,Keynote,Keynote
+KLC,KLC file,KLC,KLC
+KML,KML file,KML,KML
+KMZ,KMZ file,KMZ,KMZ
+KO,Source code file,KO,KO Programming Language
+KRA,KRA file,KRA,KRA
+KRABER,KRABER file,KRABER,KRABER
+KSH,KSH file,KSH,KSH
+KT,Source code file,KT,KT Programming Language
+KV,KV file,KV,KV
+LABEL,Label file,Label,Label
+LATEX,LATEX file,LATEX,LATEX
+LBR,LBR file,LBR,LBR
+LDB,LDB file,LDB,LDB
+LDB,LDB file,LDB,LDB
+LDT,LDT file,LDT,LDT
+LGR,LGR file,LGR,LGR
+LHA,LHA file,LHA,LHA
+LISP,LISP file,LISP,LISP
+LL,Source code file,LL,LL Programming Language
+LM,Source code file,LM,LM Programming Language
+LMD,LMD file,LMD,LMD
+LNK,Link file,Link,Link
+LOGICX,LOGICX file,LOGICX,LOGICX
+LRC,LRC file,LRC,LRC
+LUA,LUA file,LUA,LUA
+LWO,LWO file,LWO,LWO
+LZ,LZ file,LZ,LZ
+M,Source code file,M,M Programming Language
+M2TS,M2TS file,M2TS,M2TS
+M3U,M3U file,M3U,M3U
+M3U8,M3U8 file,M3U8,M3U8
+M3U,Media Playlist file,Media Playlist,Media Playlist
+M4A,M4A file,M4A,Audio
+M4P,M4P file,M4P,Audio
+M4R,M4R file,M4R,Audio
+M4V,M4V file,M4V,Video
+M64,M64 file,M64,M64
+MA,Ma file,Ma,Ma
+MAT,MAT file,MAT,MAT
+MBOX,MBOX file,MBOX,MBOX
+MCF,MCF file,MCF,MCF
+MD,Source code file,MD,MD Programming Language
+MDB,MDB file,MDB,MDB
+MDF,MDF file,MDF,MDF
+MDI,MDI file,MDI,MDI
+MDG,MDG file,MDG,MDG
+MDL,MDL file,MDL,MDL
+MDS,MDS file,MDS,MDS
+MEX,MEX file,MEX,MEX
+MGF,MGF file,MGF,MGF
+MGF,MGF file,MGF,MGF
+MHT,MHT file,MHT,MHT
+MID,MID file,MID,MID
+MKA,MKA file,MKA,MKA
+MKV,MKV file,MKV,MKV
+MM,Source code file,MM,MM Programming Language
+MML,MML file,MML,MML
+MNT,MNT file,MNT,MNT
+MO,Source code file,MO,MO Programming Language
+MOBI,MOBI file,MOBI,MOBI
+MOD,MOD file,MOD,MOD
+MODULES,MODULES file,MODULES,MODULES
+MOE,MOE file,MOE,MOE
+MOL,MOL file,MOL,MOL
+MOL2,MOL2 file,MOL2,MOL2
+MOP,Source code file,MOP,MOP Programming Language
+MOV,MOV file,MOV,Video
+MP2,MP2 file,MP2,Audio
+MP3,MP3 file,MP3,Audio
+MP4,MP4 file,MP4,Video
+MPA,MPA file,MPA,Audio
+MPC,MPC file,MPC,MPC
+MPD,MPD file,MPD,MPD
+MPEG,MPEG file,MPEG,Video
+MPG,MPG file,MPG,Video
+MPS,MPS file,MPS,MPS
+MSC,MSC file,MSC,MSC
+MSAV,MSAV file,MSAV,MSAV
+MSDL,MSDL file,MSDL,MSDL
+MSF,MSF file,MSF,MSF
+MSI,MSI file,MSI,MSI
+MSO,MSO file,MSO,MSO
+MSSTYLES,MSSTYLES file,MSSTYLES,MSSTYLES
+MSU,MSU file,MSU,MSU
+MTS,MTS file,MTS,MTS
+MX,Source code file,MX,MX Programming Language
+MXF,MXF file,MXF,MXF
+MYD,MYD file,MYD,MYD
+MYI,MYI file,MYI,MYI
+MR,Source code file,MR,MR Programming Language
+NB,NB file,NB,NB
+NC,Source code file,NC,NC Programming Language
+NC,NC file,NC,NC
+NC,NC file,NC,NC
+NCD,NCD file,NCD,NCD
+NDK,NDK file,NDK,NDK
+NDS,NDS file,NDS,NDS
+NEF,NEF file,NEF,NEF
+NET,NET file,NET,NET
+NEU,NEU file,NEU,NEU
+NEX,NEX file,NEX,NEX
+NF,NF file,NF,NF
+NFO,NFO file,NFO,NFO
+NIM,NIM file,NIM,NIM
+NMF,NMF file,NMF,NMF
+NOFF,NOFF file,NOFF,NOFF
+NPR,NPR file,NPR,NPR
+NRO,NRO file,NRO,NRO
+NRW,NRW file,NRW,NRW
+NRX,NRX file,NRX,NRX
+NS1,NS1 file,NS1,NS1
+NSA,NSA file,NSA,NSA
+NSF,NSF file,NSF,NSF
+NSV,NSV file,NSV,NSV
+NUMBERS,NUMBERS file,NUMBERS,NUMBERS
+"NWD, NWF",NWD, NWF file,NWD, NWF,NWD, NWF
+NXS,NXS file,NXS,NXS
+O,Source code file,O,O Programming Language
+OBJ,OBJ file,OBJ,OBJ
+OBS,OBS file,OBS,OBS
+OCX,OCX file,OCX,OCX
+ODB,ODB file,ODB,ODB
+ODF,ODF file,ODF,ODF
+ODG,ODG file,ODG,ODG
+ODP,ODP file,ODP,ODP
+ODS,ODS file,ODS,ODS
+ODT documents,ODT documents,ODT documents,Dcouments
+OFF,OFF file,OFF,OFF
+OGA,OGA file,OGA,OGA
+OGG,OGG file,OGG,Audio
+OGV,OGV file,OGV,Video
+OGX,OGX file,OGX,OGX
+OPUS,OPUS file,OPUS,OPUS
+ORG,ORG file,ORG,ORG
+ORG,ORG file,ORG,ORG
+OSC,OSC file,OSC,OSC
+OSK,OSK file,OSK,OSK
+OSM,OSM file,OSM,OSM
+OSM,OSM file,OSM,OSM
+OST,OST file,OST,OST
+OSZ,OSZ file,OSZ,OSZ
+OTB,OTB file,OTB,OTB
+OTF,OTF file,OTF,OTF
+OTL,OTL file,OTL,OTL
+OTF,OTF file,OTF,OTF
+OTG,OTG file,OTG,OTG
+OTP,OTP file,OTP,OTP
+OTS,OTS file,OTS,OTS
+OTT documents template,OTT documents template,OTT documents template,Documents
+OV2,OV2 file,OV2,OV2
+OWL file,OWL file,OWL file,OWL file
+OXT,OpenOffice Extension,OpenOffice,Extension
+P,Source code file,P,P Programming Language
+P8,P8 file,P8,P8
+P10,P10 file,P10,P10
+P12,P12 file,P12,P12
+PACK,PACK file,PACK,PACK
+PAK,PAK file,PAK,PAK
+PAL,PAL file,PAL,PAL
+PAM,PAM file,PAM,PAM
+PAPA,PAPA file,PAPA,PAPA
+PAR,PAR file,PAR,PAR
+PAR2,PAR2 file,PAR2,PAR2
+PARAMS,PARAMS file,PARAMS,PARAMS
+PAS,Pascal source code file,Pascal,Pascal Programming Language
+PAX,PAX file,PAX,PAX
+PBLIB,PBLIB file,PBLIB,PBLIB
+PBM,PBM file,PBM,PBM
+PBO,PBO file,PBO,PBO
+PCAP,PCAP file,PCAP,PCAP
+PCL,PCL file,PCL,PCL
+PCS,PCS file,PCS,PCS
+PCX,PCX file,PCX,PCX
+PDB,PDB file,PDB,PDB
+PDB,PDB file,PDB,PDB
+PDE,PDE file,PDE,PDE
+PDF,PDF file,PDF,PDF
+PDI,PDI file,PDI,PDI
+PDM,PDM file,PDM,PDM
+PDM,PDM file,PDM,PDM
+PDM,PDM file,PDM,PDM
+PDN,PDN file,PDN,PDN
+PDS,PDS file,PDS,PDS
+PDS,PDS file,PDS,PDS
+PEM,PEM file,PEM,PEM
+pet,pet file,pet,pet
+PFA,PFA file,PFA,PFA
+PFA,PFA file,PFA,PFA
+PFAM,PFAM file,PFAM,PFAM
+PFB,PFB file,PFB,PFB
+PFC,PFC file,PFC,PFC
+PFM,PFM file,PFM,PFM
+PFM,PFM file,PFM,PFM
+PGN,PGN file,PGN,PGN
+PFX,PFX file,PFX,PFX
+PHF,PHF file,PHF,PHF
+PHN,PHN file,PHN,PHN
+PHP,PHP file,PHP,PHP Programming Language
+PHP3,PHP3 file,PHP3,PHP3
+PHP4,PHP4 file,PHP4,PHP4
+PHR,PHR file,PHR,PHR
+PHY,PHY file,PHY,PHY
+PHZ,PHZ file,PHZ,PHZ
+PI2,,
+PIE,,
+PIR,,
+PIT,,
+PIT,,
+PK3,,
+PKL,,
+PKA,,
+PL,,
+PL,,
+PL,,
+PLI,,
+PLR,,
+PLS,,
+PM,,
+PMA,,
+PMP,,
+PNG,,
+POM,,
+PPEG,,
+PPTX,,
+PPSX,,
+PRJ,,
+PROPERTIES,,
+PROTO,,
+PRP,,
+PS,,
+PSD,,
+PSDC,,
+PSM1,,
+PSPPALETTE,,
+PST,,
+PS1,,
+PTF,,
+PTF,,
+PTS,,
+PTX,,
+PUB,,
+PUP,,
+PY,,
+QFX,,
+QIF,,
+QLC,,
+QOI,,
+QT,,
+QTVR,,
+QSS,,
+R,,
+R,,
+"R00, R01, ...",,
+R2D,,
+R3D,,
+R8P,,
+RAD,,
+RAD,,
+RAL,,
+RAM,,
+RAP,,
+RAR,,
+RAS,,
+RB,,
+RBXL,,
+RC,,
+RC,,
+RDP,,
+RDS,,
+RES,,
+"REX, REXX",,
+RKT,,
+RM,,
+RMD,,
+RMVB,,
+Rob,,
+ROL,,
+RPM,,
+RS,,
+RSA,,
+"RSL, RSLS, RSLF",,
+RST,,
+RTF,,
+RUA,,
+RUN,,
+RUN,,
+S,,
+S3M,,
+S7I,,
+SAIF,,
+SASS,,
+SAT,,
+SAV,,
+SB,,
+SB2,,
+SB3,,
+SBH,,
+SBV,,
+SBX,,
+SCALA,,
+SCM,,
+SCR,,
+SCSS,,
+SDF,,
+SD7,,
+SDS,,
+SDTS,,
+SEC,,
+SED,,
+SEQ,,
+SERIES,,
+SF,,
+SFB,,
+SFH,,
+SFX,,
+SH,,
+SHAR,,
+SHTM,,
+SHTML,,
+SHX,,
+SIC,,
+SIG,,
+SL,,
+SLDASM,,
+SLDPRT,,
+SM,,
+SMCLVL,,
+SMK,,
+SNO,,
+SO,,
+SPF,,
+SPIFF,,
+SPIN,,
+SPS,,
+SPT,,
+SPV,,
+SPX,,
+SPZ,,
+SQL,,
+SRT,,
+SRX,,
+SSC,,
+SSC,,
+ST,,
+ST,,
+STC,,
+STC,,
+STD,,
+STEP,,
+STI,,
+STK,,
+STL,,
+STM,,
+STO,,
+STORY,,
+STP,,
+STW,,
+STX,,
+SUR,,
+SVC,,
+SVELTE,,
+SVG,,
+SWF,,
+SWG,,
+SWIFT,,
+SWM,,
+SXC,,
+SXD,,
+SXG,,
+SXI,,
+SXM,,
+SXP,,
+SXW,,
+SYLK,,
+SYMBOLICLINK,,
+TAK,,
+TAR,,
+TAZ,,
+TB2,,
+TBZ,,
+TBZ2,,
+TC,,
+TER,,
+TGA,,
+TGT,,
+TGZ,,
+THM,,
+TIF,,
+TIFF,,
+TLB,,
+TLZ,,
+TMP,,
+TORRENT,,
+TS,,
+TS,,
+TSCN,,
+TSV,,
+TTC,,
+TTF,,
+TXZ,,
+TZ2,,
+TZST,,
+UI,,
+UI,,
+UMP,,
+UNV,,
+UOS,,
+UOT,,
+UPD,,
+UPS,,
+URL,,
+USDZ,,
+UST,,
+USTX,,
+UT!,,
+UXF,,
+V,,
+V,,
+V3,,
+V4P,,
+V64,,
+VB,,
+VBOX,,
+VBOX-EXTPACK,,
+VBPROJ,,
+VBR,,
+VBS,,
+VBX,,
+VC,,
+VC6,,
+VCLS,,
+VDA,,
+VDI,,
+VDW,,
+VDX,,
+VFD,,
+VI,,
+VMCZ,,
+VMDK,,
+VMG,,
+VOB,,
+VMX,,
+VPK,,
+VPM,,
+VPP,,
+VPR,,
+VQM,,
+VRB,,
+VRB,,
+VS,,
+VSD,,
+VSDX,,
+VSM,,
+VSQ,,
+VSQx,,
+VST,,
+VSTO,,
+VSVNBAK,,
+VTF,,
+VUE,,
+VVVVVV,,
+WAD,,
+WAD,,
+WAV,,
+WEBM,,
+WIN,,
+WITNESS_CAMPAIGN,,
+WK1,,
+WK3,,
+WKS,,
+WL,,
+WLMP,,
+WLS,,
+WMA,,
+WMDB,,
+WMF,,
+WMV,,
+WOS,,
+WPS,,
+WS,,
+WTX,,
+WUHB,,
+X,,
+X,,
+X3D,,
+XAR,,
+XAR,,
+XBRL,,
+XCF,,
+XDM,,
+XE,,
+XEX,,
+XLS,,
+XLSB,,
+XLSM,,
+XLSX,,
+XM,,
+XML,,
+XMF,,
+XP,,
+XPL,,
+XPS,,
+XSD,,
+XSF,,
+XSL,,
+XSLT,,
+XSN,,
+XSPF,,
+XX,,
+XXE,,
+XXX,,
+XYZ,,
+XZ,,
+Y,,
+YML,,
+YAML,,
+ZIP,,
+ZRX,,
+ZS,,
+ZST,,
