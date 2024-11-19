@@ -7,7 +7,7 @@ ext.,description,used by
 "3MF", "Open standard for 3D printing.", "Fused Deposition Modeling (FDM) printers."
 "7z", "Rar-based compressed file format variant.", "Compressing large files efficiently always."
 "4TH", "Adobe Photoshop extension for 3D modeling.", "Microsoft Excel or Google Sheets."
-"A", "It's not specified what "A" refers to.", "Adobe Photoshop for image editing."
+"A", "Assembly language source code file.", "Use A with assembly language."
 "AAC", "Audio and Speech Recognition Extension.", "Use AAC for speech-impaired users."
 "ACCDB", "Access database file format extension.", "Access database management and editing."
 "ACCFT", "Acceleration and Cooling Function Tool.", "Microsoft Excel or Google Sheets."
