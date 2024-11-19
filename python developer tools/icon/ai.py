@@ -39,23 +39,30 @@ def type_list():
     with open(path, "r") as file:
         return file.read().splitlines()
 
+def csv_list():
+    path = os.path.join(os.path.dirname(__file__), "icon_description.csv")
+    with open(path, "r") as file:
+        return file.read().splitlines()
 
 if __name__ == "__main__":
 
-    l = len(type_list())
+    tp_list = type_list()
+    c_list = csv_list()[1:]
+    l = len(tp_list)
 
-    pt = os.path.join(os.path.dirname(__file__), "result.csv")
+    pt = os.path.join(os.path.dirname(__file__), "newresult.csv")
     with open(pt, "w") as file:
         file.write("ext.,description,used by\n")
 
     for i in range(l):
 
-        tp = type_list()[i]
+        tp = tp_list[i]
+        c = c_list[i]
         model_name = "llama3.2"
-        prompt = f"Tell me the description of the extension \"{tp}\". Only tell me the answer, no more than 5 words."
+        prompt = f"Tell me the description of the extension \"{tp}\" according to the hint \"{c}\", no more than 5 words."
         r1 = query_ollama(model_name, prompt)
 
-        prompt = f"Tell me the software of situation to use the extension \"{tp}\". Only tell me the answer, no more than 5 words."
+        prompt = f"Tell me the software or situation to use the extension \"{tp}\" according to the hint \"{c}\", no more than 5 words."
         r2 = query_ollama(model_name, prompt)
 
         print(f"\"{tp}\", \"{r1}\", \"{r2}\"")
