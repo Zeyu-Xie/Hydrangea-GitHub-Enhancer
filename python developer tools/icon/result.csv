@@ -657,7 +657,7 @@ ext.,description,used by
 "RST", "Responsible Software Development Extension.", "Emacs mode for writing documentation."
 "RTF", "Rich Text Format document file.", "Rich Text Format (RTF) suitable for plain text documents, word processing, and formatting requirements that don't require advanced formatting capabilities."
 "RUA", "Adobe Rounded UI Font Extension.", "Google Chrome, Mozilla Firefox supported."
-"RUN", "Runs commands or scripts instantly.", "Use "RUN" with batch scripts."
+"RUN", "Runs commands or scripts instantly.", "Use RUN with batch scripts."
 "RUN", "Runs command from current directory.", "Use RUN for batch processing."
 "S", "Symbolic algebra system package.", "Use SQL for data storage."
 "S3M", "A music file format creator.", "Use S3M with AmigaOS or Delphi."
