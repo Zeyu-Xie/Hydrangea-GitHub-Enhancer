@@ -831,7 +831,7 @@ ext.,description,used by
 "VSQx", "Extension for Visual Studio Code.", "Visual Studio Code extensions."
 "VST", "Visual Studio Tool for development.", "Audioproduktion, Musikproduktion und Sounddesign."
 "VSTO", "Visual Studio Tools for Office.", "Office applications with COM interfaces."
-"VSVNBAK", "I couldn't find any information on the extension "VSVNBAK".", "I can't provide information on that."
+"VSVNBAK", "I couldn't find any information on the extension 'VSVNBAK'.", "I can't provide information on that."
 "VTF", "Video Tools For Flash animation.", "Adobe Photoshop or Illustrator."
 "VUE", "Vue.js is a JavaScript framework.", "Using VUE requires strong JavaScript knowledge."
 "VVVVVV", "Super Meat Boy speedrun mod.", "Chrome browser extensions only work."
