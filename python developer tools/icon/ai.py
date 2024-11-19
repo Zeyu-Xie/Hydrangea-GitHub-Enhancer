@@ -1,5 +1,6 @@
 import requests
 import json
+import os
 
 
 def query_ollama(model_name, prompt):
@@ -33,7 +34,30 @@ def query_ollama(model_name, prompt):
     return full_response
 
 
-model_name = "llama3.2"
-prompt = "What's the capital of France? Only tell me the answer."
-response = query_ollama(model_name, prompt)
-print(response)
+def type_list():
+    path = os.path.join(os.path.dirname(__file__), "type_list.txt")
+    with open(path, "r") as file:
+        return file.read().splitlines()
+
+
+if __name__ == "__main__":
+
+    l = len(type_list())
+
+    pt = os.path.join(os.path.dirname(__file__), "result.csv")
+    with open(pt, "w") as file:
+        file.write("ext.,description,used by\n")
+
+    for i in range(l):
+
+        tp = type_list()[i]
+        model_name = "llama3.2"
+        prompt = f"Tell me the description of the extension \"{tp}\". Only tell me the answer, no more than 5 words."
+        r1 = query_ollama(model_name, prompt)
+
+        prompt = f"Tell me the software of situation to use the extension \"{tp}\". Only tell me the answer, no more than 5 words."
+        r2 = query_ollama(model_name, prompt)
+
+        print(f"\"{tp}\", \"{r1}\", \"{r2}\"")
+        with open(pt, "a") as file:
+            file.write(f"\"{tp}\", \"{r1}\", \"{r2}\"\n")
