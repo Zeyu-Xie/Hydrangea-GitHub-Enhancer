@@ -703,7 +703,7 @@ ext.,description,used by
 "SMCLVL", "Supreme Master Config Level extension.", "Visual Studio Code and C#."
 "SMK", "Sends and Maps keyboard layout.", "Google Chrome is preferred."
 "SNO", "Shortcuts for Notepad++ actions.", "Adobe Acrobat Reader DC version 11.0 or later."
-"SO", "Short for "Stop Online", redirects.", "Use for Situation-Oriented Requirements Analysis."
+"SO", "Short for 'Stop Online' redirects.", "Use for Situation-Oriented Requirements Analysis."
 "SPF", "Sender Policy Framework for DNS.", "Email servers for sender verification."
 "SPIFF", "Small, Portable, Interfacing Framework for Python.", "For Firefox, Chrome, and Opera extensions."
 "SPIN", "Simple Portable In-Line Networking Extension.", "Use with spin lock detection."
