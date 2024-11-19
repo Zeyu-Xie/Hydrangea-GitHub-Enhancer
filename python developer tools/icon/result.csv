@@ -473,11 +473,7 @@ ext.,description,used by
 "NF", "Natural Language Processing Extension.", "Use NF with TCP/IP protocol."
 "NFO", "NetFront OS File format.", "Text analysis and data extraction."
 "NIM", "NIM editor for Vim users.", "Text-based interactive game implementation."
-"NMF", "Non-negative Matrix Factorization Extension.", "Non-negative Matrix Factorization (NMF) suitable for.
-
-Text clustering, image denoising, and.
-
-Sparse data, high-dimensional features analysis."
+"NMF", "Non-negative Matrix Factorization Extension.", "Non-negative Matrix Factorization (NMF) suitable for text clustering, image denoising, and sparse data, high-dimensional features analysis."
 "NOFF", "NOTIFICATION OF FINALITY FRAMEWORK", "Mozilla Firefox with add-on installed."
 "NPR", "News Reader Portable Reader Software.", "Google Chrome or Mozilla Firefox."
 "NRO", "Non-Radial Object extension for Excel.", "Use NRO with Unreal Engine."
