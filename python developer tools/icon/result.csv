@@ -887,7 +887,7 @@ ext.,description,used by
 "XXX", "Not enough information provided.", "Google Chrome browser extensions."
 "XYZ", "XYZ is a 3D model file format.", "3D modeling software applications."
 "XZ", "Compression file format for Unix.", "Compressing archives and files efficiently."
-"Y", "No information found on "Y"", "Google Chrome, Mozilla Firefox support Y-Combinator."
+"Y", "Yacc (Yet Another Compiler Compiler) extension.", "Use Y with Yacc"
 "YML", "MarkDown language markup syntax file.", "Open source project management and configuration."
 "YAML", "Human-readable data serialization format.", "Configuring or storing data formats."
 "ZIP", "Compressed archive file format standard.", "Compressing files and folders effectively."
