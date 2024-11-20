@@ -1,7 +1,7 @@
 ext.,description,used by,icon
-3DS, Format for Nintendo 3DS games., Use with Nintendo 3DS Emulator.,
+3DS, Format for Nintendo 3DS games., Use with Nintendo 3DS Emulator.,nintendo
 3DSX, Homebrew application for Nintendo 3DS., Use 3DSX for Nintendo Homebrew.,nintendo
-3G2, Three-GPP 2 Video File Format., Use 3G2 for mobile videos playback.,
+3G2, Three-GPP 2 Video File Format., Use 3G2 for mobile videos playback.,video
 3GP, 3GPP MMS video format file., Viewing 3GP mobile videos online.,video
 3GX, Luma3DS plugin for Nintendo 3DS., Use for 3DS console hacking.,nintendo
 3MF, Open standard for 3D printing., Use 3MF for additive manufacturing.,3d
@@ -12,10 +12,10 @@ AAC, Format for high-quality audio compression., Use AAC on Apple devices.,audio
 ACCDB, Microsoft Office Access Database Extension., Use ACCDB for Microsoft Access.,
 ACCFT, Data Type Template for Access., Use ACCFT for Microsoft Access.,access
 ACO, Adobe Color Palette Format file., Use with Adobe Photoshop.,photoshop
-ADT, German Standard for Medical Data., Use ADT for Healthcare Claims.,
+ADT, German Standard for Medical Data., Use ADT for Healthcare Claims.,/
 ADX, AXIS Data Exchange Format, Archetype Designer.,
-ADZ, File compression format for Amiga., Use with Amiga disk imaging tools.,
-AGDA, A formal verification programming language., Use AGDA for Agda development.,
+ADZ, File compression format for Amiga., Use with Amiga disk imaging tools.,archive
+AGDA, A formal verification programming language., Use AGDA for Agda development.,agda
 AGR, Geographic Information System (GIS) extension., ArcGIS with ASCII Grids Extension.,/
 AHK, Script file for AutoHotkey., Use for scripting automation tasks.,
 AI, Adobe Illustrator AI File Extension., Use Adobe Illustrator's AI Trace tool.,archive
@@ -26,10 +26,10 @@ AMF, Standard for Computer-Aided Design files., Use with CAD/CAE design software
 AMG, System Image File for ACTOR., AMG is used for SystemC.,
 AML, Automation Markup Language (AML) standard., Use AML for Automation and Testing.,aml
 AMLX, Automation Markup Language (AMLX) file., Use AMLX for compressed files automation.,amlx
-AMPL, Linear programming optimization software., Use for nonlinear optimization problems.,
+AMPL, Linear programming optimization software., Use for nonlinear optimization problems.,/
 AMR, Adaptive Multi-Rate (AMR) AudioCodec., Use AMR for VoIP streaming.,/
 AMV, Action Movie Video format., YouTube Video Player Extension.,video
-ANI, Animation Interface Animation Extension., Use ANI file with Windows.,
+ANI, Animation Interface Animation Extension., Use ANI file with Windows.,video
 ANN, Annotation Markup Neutral file format., Use ANN in Windows XP.,
 APE, Monkey's Audio lossless audio player., Use APE for lossless audio playback.,
 APK, File format for Android apps., Use APK to install Android apps.,android
@@ -49,15 +49,15 @@ AU, Audion file container format used., Use AU format for audio files.,
 AVI, Container format for compressed video., Use AVI for playing video files.,video
 AVIF, Audio Video Interleave Format., Use AVIF for efficient images.,image
 AWK, Scripting language for data processing., Use for data processing and manipulation.,
-AX, AX Audio/Video filter for DirectShow., Use in Microsoft DirectShow filters.,
+AX, AX Audio/Video filter for DirectShow., Use in Microsoft DirectShow filters.,/
 AXF, Lightweight geodatabase for ArcPad., Use AXF with ArcPad offline.,/
 B, Basic programming language compiler extension., Use BASIC interpreter for coding.,basic
 B, Bash completion for bc language., Use with Unix 'bc' command.,bc
 B64, Base64 text encoder and decoder., Encoding base64 binary files online.,
-BAK, Backup file format extension BAK., Use BAK for backup purposes.,
+BAK, Backup file format extension BAK., Use BAK for backup purposes.,/
 BAR, Compressed archive for IBM deployment., Use BAR for IBM app deployment.,archive
 BAS, BAS File Format for BASIC languages., Use for QuickBASIC or GW-BASIC.,basic
-BAT, Simple text editor for commands., Use BAT for MS-DOS commands.,
+BAT, Simple text editor for commands., Use BAT for MS-DOS commands.,bat
 BDF, Format for storing bitmap fonts., Use BDF with Adobe TypeManager.,
 BDT, German healthcare transfer protocol standard., Use BDT for medical data transfer.,/
 BEAM, Erlang virtual machine format., Use BEAM for Erlang programs.,erlang
@@ -66,7 +66,7 @@ BIN, Binary data storage format standard., Use BIN for binary files.,
 BLEND, Blender project file manager extension., Use BLEND for Blender projects.,
 BM3, Phone Backup Manager BM3 extension., Use BM3 with BlackBerry devices.,/
 BMP, Image file format with bitmap data., Use BMP for old graphics formats.,image
-BPS, Backup file format for Microsoft., Use BPS/WPS with Microsoft Works.,
+BPS, Backup file format for Microsoft., Use BPS/WPS with Microsoft Works.,/
 BSON, Binary Serialized Object Notation Format., Use with MongoDB databases only.,
 BSP, Binary Space Partitioning Tree data structure., Use BSP for game level division.,/
 BYU, Byutec CAD 3D Geometry Format., STL file import for CAD systems.,/
@@ -84,15 +84,15 @@ CC, C++ compiler and development tool., Compile C and C++ source files.,
 CD, Class Diagram File Format Extension., Class Diagram File Generator Tool.,/
 CDF, Binary format for scientific data., Use for exporting data formats.,database
 CDF, Mathematica's file format CDF package., Use CDF with Mathematica.,
-CDP, Content Dispatcher Pack in Trainz., Use with Trainz Railroad Simulator.,
+CDP, Content Dispatcher Pack in Trainz., Use with Trainz Railroad Simulator.,/
 CDR, CorelDRAW vector graphics file format., Use CDR for vector graphics.,
-CDXML, Chemical drawing file format extension., ChemDraw Chemical Structures Exporting.,
-CER, Trustworthy Certificate for Microsoft Windows., Use CER with Internet Explorer.,
+CDXML, Chemical drawing file format extension., ChemDraw Chemical Structures Exporting.,xml
+CER, Trustworthy Certificate for Microsoft Windows., Use CER with Internet Explorer.,/
 CGM, CGM is vector graphics format., Use CGM for vector graphics.,svg
-CHM, Help file for Microsoft products., Use CHM viewer for compiled help files on Microsoft Windows.,
+CHM, Help file for Microsoft products., Use CHM viewer for compiled help files on Microsoft Windows.,/
 CHO, Music notation editor extension., Use CHO for ChordPro files.,
-CIA, Homebrew CIA Emulator Cartridge System., Use CIP for ROM decryption.,
-CIF, Format for crystal structure data., Visualize crystal structures with RasMol/Jmol.,
+CIA, Homebrew CIA Emulator Cartridge System., Use CIP for ROM decryption.,/
+CIF, Format for crystal structure data., Visualize crystal structures with RasMol/Jmol.,/
 CLASS, Java Class File Format Specification., Use CLASS command for Java files.,
 CLS, Common Large Scale Object (CLS) format., Class file in ooRexx programming.,
 CMD, Microsoft Command-Line Interface (CLI) tool., Use for running batch files.,
@@ -125,7 +125,7 @@ CUB, Format for Electronic Structure Data., Quantum Chemistry and Molecular Mode
 CUBE, 3D object file format., Use CUBE for Autodesk 3ds Max modeling.,3d
 CUR, Standard System Cursor Extension., Replace ICO with CUR file.,/
 D, Dynamic Data Types D programming., Use DMD compiler for Dlang.,d
-D, Directory for Unix system config files., Use in Unix shell scripts.,
+D, Directory for Unix system config files., Use in Unix shell scripts.,/
 DAA, Digital Archival Asset storage system., Use DAA for ISO archives.,
 DAE, 3D Modeling File Format Extension., Use with Blender 3D modeling software.,3d
 DAF, Digital Anchor File Format Extension., Use DAF for maritime navigation.,/
@@ -134,31 +134,31 @@ DAT, Ampl Data File Format Extension., Use with AMPL optimization software.,/
 DAT, LDraw subpart file format., Use DAT file with LDraw model.,
 DAT, Network protocol used in RSNetWorx., Use with RSNetworx simulation software.,
 DAT, Text data file in ASCII, Use DAT for ASCII data files.,
-DAT, File format for Clarion databases., Use with Clarion database files.,
+DAT, File format for Clarion databases., Use with Clarion database files.,database
 DAT, Imaging data for disk partitioning., Use DAT for disk imaging.,/
-DAT, File format for optical discs., Use with cdrdao and burn at once.,
+DAT, File format for optical discs., Use with cdrdao and burn at once.,/
 DAT, Digital Audio Tracks for Video., Watch DAT files with VLC.,video
 DAT, Registry file extension format., Use DAT file for registry editing.,/
 DATS, Data Access Template System software, Use DATS for dynamic testing.,dataset
 DB, SQLite database management tool browser., Use DB Browser with SQLite files.,database
 DBA, Dark Basic Action Game Engine., Use DBA with Dark Basic.,
 DBC, AB Initio DBC file format., Use with Ab Initio Database.,database
-DBF, dBASE Database File Format Extension., Use DBF with dBASE applications.,
+DBF, dBASE Database File Format Extension., Use DBF with dBASE applications.,database
 DBG, Watcom Debugger Script Extension File., Watcom C/C++ Debugger extension for debugging code.,/
 DBG, Debugging symbol table for C., Use DBG with Microsoft C++.,c
 DEB, Debian Package Format Archive Extension., Use DEB for Debian-based distributions.,archive
 DEM, Global DEM formats included., Use DEM in GIS software.,
 DGN, AutoCAD file with DGN extension., Use DGN for CAD design.,
-DICOM, Standard for medical image exchange., Use XnView for DICOM images.,
+DICOM, Standard for medical image exchange., Use XnView for DICOM images.,/
 DIF, Simple text data interchange format., Use DIF for VisiCalc data.,/
 DIF, Diff output script format file., Use with Git diff output.,
 DIRED, Emacs Lisp Directory Listing Extension., Use DIRED for directory listings.,/
-DIVX, Digital Video Xpress format., Play DIVX files with DivX Player.,
+DIVX, Digital Video Xpress format., Play DIVX files with DivX Player.,video
 DMG, Container format for Apple image files., Use DMG for macOS disk images.,archive
 DMP, Program dumps system memory contents., WinDbg for Windows memory dumps.,
 DN, Adobe Dimension 3D modeling software., Use Adobe Dimension for 3D modeling.,3d
 DNG, Archival Digital Negative image format., Adobe Camera Raw (ACR).,image
-DOC, Text document file format extension., Use DOC for Microsoft Word documents.,
+DOC, Text document file format extension., Use DOC for Microsoft Word documents.,word
 DOCM, Macro-enabled Microsoft Word document., Use DOCM for restricted macros.,word
 DOCX, Microsoft Word Document File Format., Use DOCX for editing Word documents.,word
 DOT, Microsoft Word Document Template (DOT)., Use DOT for Microsoft Templates.,word
@@ -184,27 +184,27 @@ ECC, Redundant data for error correction., Use ECC for data backup systems.,
 EDE, Disks created by Ensoniq EPS., Use EDE for disk imaging.,
 EDF, Medical Timeseries Storage Files Format., Use EDF in medical research.,
 EFI, Standard for firmware interface protocols., BIOS replacement firmware interface.,/
-EIS, Spectrum Analyser Software Development Tool., Use EIS for Power System Analysis.,
+EIS, Spectrum Analyser Software Development Tool., Use EIS for Power System Analysis.,/
 EL, Emacs Lisp source code file., Use in Emacs Lisp development environment.,emacs
-ELC, Emacs Lisp Compiler Extension (ELEC)., ELC is Emacs compiled code.,
+ELC, Emacs Lisp Compiler Extension (ELEC)., ELC is Emacs compiled code.,emacs
 ELF, Executable and Linkable File Format., Use ELF viewer on Linux systems.,/
-EMAIL, Email client for message storage., Use EMAIL Extension for Email.,
+EMAIL, Email client for message storage., Use EMAIL Extension for Email.,email
 EMAKER, Editor for E language source code., Use EMaker for embedded C development.,
 EMF, Image format used by Microsoft., Use EMF for vector graphics.,image
 EML, EML stands for Email Message., Used for storing and viewing EML files.,
 EMZ, Zip file from Microsoft Office., Use EMZ in Microsoft Office.,
-EOT, Font format for embedded use., Use in Embedded Systems Development.,
-EP, Evolvus EP GUI design tool., Use EP Extension for Wireframes.,
-EPA, XnView Image Viewer Extension., Install EPA for Award BIOS protection.,
-EPS, Vector image file format extension., Use EPS for vector graphics.,
-EPUB, Format for electronic publications., Use EPUB with Calibre software.,
-EU4, Save Game File for EU4., Europa Universalis 4 save loader.,
+EOT, Font format for embedded use., Use in Embedded Systems Development.,/
+EP, Evolvus EP GUI design tool., Use EP Extension for Wireframes.,/
+EPA, XnView Image Viewer Extension., Install EPA for Award BIOS protection.,/
+EPS, Vector image file format extension., Use EPS for vector graphics.,svg
+EPUB, Format for electronic publications., Use EPUB with Calibre software.,book
+EU4, Save Game File for EU4., Europa Universalis 4 save loader.,/
 ERL, Erlang source code file extention., Use ERL with Erlang source files.,
 ES6, JS File Format Specification Standard., Use it in older files.,js
-ESCPCB, Extension for esCAD PCB software., Use ESCPCB with esCAD pcb.,
+ESCPCB, Extension for esCAD PCB software., Use ESCPCB with esCAD pcb.,/
 ESCSCH, Drawing tool for esCAD schematics., Use esCAD sch for schematics.,
-ESD, Windows Embedded System Disk image., Use ESD with DISM utility.,
-ETL, Event Trace Log (ETL) File., Use ETL for log analysis.,
+ESD, Windows Embedded System Disk image., Use ESD with DISM utility.,/
+ETL, Event Trace Log (ETL) File., Use ETL for log analysis.,text
 EVT, Windows Event Log File System., Windows Event Viewer (EVTC).,
 EVTX, Windows Event Log File Format., Use EVTX for Windows Event Logs.,/
 EX, Elixir source code file ext., Use EEX for BEAM bytecode files.,elixir
@@ -213,21 +213,21 @@ EXP, EXDRAWN vector graphics file format., Use EXP in CAD software.,svg
 EXP, Embroidery file format specification., Use EXP with Embroidermodder software.,/
 EXR, OpenEXR raster image format., OpenEXR image format extension.,image
 EXS, Elixir interactive development environment executable., Elixir interactive shell (IEx).,/
-F, Forth development environment and compiler., Install F-Script for Forth environment.,
-F, Fortran source code file extension., Use Fortran Editor in IDE.,
-F01, Fax scan correction software extension., Use F01 Fax Manager Extension.,
+F, Forth development environment and compiler., Install F-Script for Forth environment.,forth
+F, Fortran source code file extension., Use Fortran Editor in IDE.,fortran
+F01, Fax scan correction software extension., Use F01 Fax Manager Extension.,/
 F03, Fortran source code file format., Use F03 in IDEs supporting it,
-F08, F08 is Fortran 90 source code., Use F08 for Fortran source files.,
+F08, F08 is Fortran 90 source code., Use F08 for Fortran source files.,fortran
 F18, Fortran 18 compiler source file format., F18 Fortran Compiler for VS Code.,f18
-F4, Fortran Source Code File Extension, Use F4 with Fortran files.,
+F4, Fortran Source Code File Extension, Use F4 with Fortran files.,fortran
 F4V, Container format for Flash video., Use F4V for Adobe Flash.,video
 F77, Fortran source code file format., Use F77 with older Fortran compilers.,fortran
 F90, Fortran source code file extension., Use F90 with Fortran compiler.,fortran
 F95, Fortran source code file format., Emacs F95 mode for coding.,/
-FA, Format for genetic sequence data., Use with FASTA sequence files.,
+FA, Format for genetic sequence data., Use with FASTA sequence files.,/
 FAA, Sequence analysis file format standard., BLAST for protein sequence analysis.,/
 FACTOR, Factoring source code into modules., Factor graph analysis and transformation tool.,
-FASTA, Sequence data interchange format standard., Analyze DNA sequence data files.,
+FASTA, Sequence data interchange format standard., Analyze DNA sequence data files.,/
 FASTQ, Binary format for DNA sequences., Use FASTQ for sequencing data.,dna
 FB, Forth Development Tools Extension., Forth Development Tools for FB,/
 FB2, FictionBook e-book file format., Use FB2 for e-book conversion.,
@@ -249,15 +249,15 @@ FNA, Fasta file format for nucleic acids., Use FNA for nucleotide data,/
 FNI, FileNet document format standard., Use FNI with FileNet.,
 FNX, FeatherNote markdown note editor extension., Use FNX for note-taking formatting.,text
 FODG, Extension for OpenDocument Flat drawings., Use FODG with LibreOffice.,
-FODP, Flat XML presentation format standard., Use FODP with LibreOffice.,
+FODP, Flat XML presentation format standard., Use FODP with LibreOffice.,xml
 FODS, OpenDocument Format (ODF) Spreadsheet Extension., Use FODS with LibreOffice.,
 FODT, OpenDocument Flat XML Format., Use FODT for OpenDocument documents.,
 FOR, Extension for Fortran source files., Use in Fortran source files.,fortran
-FQL, Fauna Query Language source code., Fauna Database Query Language extension.,
+FQL, Fauna Query Language source code., Fauna Database Query Language extension.,fauna
 Freq, Format for Match-n-Freq software inputs., Use Freq with sequence alignment.,
 FRAG, Small executable fragment file., Use FRAG on MOVPKG files.,
 FRM, FRM is MySQL database metadata file., Use FRM for MySQL metadata.,database
-Frq7, Frequency response analysis software., I couldn't find information about that.,
+Frq7, Frequency response analysis software., I couldn't find information about that.,/
 FS, F# programming language compiler extension., F# compiler development and editing.,fs
 FS, Forth source code file extension., Use for Forth Development Systems.,forth
 FTH, Forth is an interpreted programming language., Use FTH for Forth source files.,forth
@@ -275,9 +275,9 @@ GEOTIFF, Data format for geospatial imagery., Use with Geographic Information Sy
 GGB, GeoGebra Interactive Math File Extension., Use GGB in GeoGebra environment.,geogebra
 GIF, Graphics Interchange Format extension., Use with old CompuServe systems.,image
 GM9, Scripting tool for GameMaker., GodMode9 Script Editor Extension.,
-GMI, Gemtext markup language for Gemini., Use GMI for Gemini chat protocol.,
+GMI, Gemtext markup language for Gemini., Use GMI for Gemini chat protocol.,text
 GMK, GameMaker Studio project file format., Use GMK with GameMaker Studio.,
-GML, Data format for geographical data., Use GML for Geographical Data.,
+GML, Data format for geographical data., Use GML for Geographical Data.,map
 GML, Graph Modeling Language specification., Graphviz Modeling Language (GML).,graphviz
 GO, Extension for Go Programming Language., IntelliSense for Go Programming Language.,
 GODOT, Open-source game engine framework software., Create games with Godot Engine.,
@@ -285,7 +285,7 @@ GPX, Open standard for GPS data., Use GPSX for GPS data exchange.,map
 GRAPHML, Graph Markup Language standard format., Use GRAPHML for graph data storage.,
 GRB, GRB: Numerical Weather Prediction format., GRIB format for numerical modeling.,/
 GREXLI, Compressed Windows executable file format., Use with Grexli files (uncompressed).,/
-GRIB, Gridded Binary Global Forecast Model., Use GRIB for weather data analysis.,
+GRIB, Gridded Binary Global Forecast Model., Use GRIB for weather data analysis.,/
 GRP, Data pack files for Duke Nukem 3D., DUKE NUKEM 3D game modding.,/
 GSF, Binary file format for bathymetry., Use GSF with ESRI ArcGIS.,/
 GTF, Gene Transfer Format specification standard., Use for gene sequence annotation.,
@@ -304,13 +304,13 @@ HAR, Web browser log storage format., Use HAR for browser logs analysis.,
 HDF, Multidimensional dataset storage format., Use HDF for scientific data storage.,database
 HDF5, Multidimensional dataset storage format., Use HDF5 for dataset storage.,/
 HDI, Hard Disk Image for PC-9800., Use HDI for PC-9800 emulation.,
-HDMP, Heap Dump File Extension., Debugging Heap Memory Problems Extension.,
+HDMP, Heap Dump File Extension., Debugging Heap Memory Problems Extension.,/
 HEIC, High Efficiency Image Compression Format., Use HEIC for Apple Images.,image
 HEIF, High Efficiency Image File Format., Use for iOS image files format.,image
 HH, Header file for Hailstone function., Header Guard (e.g.,/
 HIN, HyperCube Inc.'s HyperChem HIN format., Use HIN with HyperChem software.,/
 HOF, Basic configuration file for OMSI., Use HOF for OMSI config.,/
-HOI4, Mod for Hearts of Iron 4., Install HOI4 mod manager plugin.,
+HOI4, Mod for Hearts of Iron 4., Install HOI4 mod manager plugin.,/
 HPP, Header file for Watcom C++., Watcom C/C++ compiler or environment.,
 HTA, ActiveX HTML Application for Windows., Use HTA for HTML Applications.,html
 HTM, HyperText Markup Language syntax., Use HTM for HTML editing.,
@@ -358,7 +358,7 @@ JUMP, A Minecraft mod that extends features., Use JUMP for Beyond Save Files.,mi
 JVX, 3D Geometry Format File Type., Use JVX for 3D Geometry Visualization.,3d
 JXL, JPEG XR raster graphics file format., Use JXL for JPEG-XL compression.,image
 KEY, Apple Keynote presentation software extension., Use Keynote for presentations only.,ppt
-KLC, Microsoft Keyboard Layout Creator Extension., Use KLC for keyboard layout creation.,
+KLC, Microsoft Keyboard Layout Creator Extension., Use KLC for keyboard layout creation.,/
 KML, Binary file format for Google Earth., Use KML for Google Earth.,/
 KMZ, File format for Google Earth data., Use KMZ with Google Earth.,/
 KO, Kernel Object file in Linux., Kernel Object (ko) Linux module.,
@@ -371,26 +371,26 @@ LABEL, Imports Dymo label files easily., Use LABEL with Dymo Desktop software.,
 LATEX, Typesetting system for scientific documents., Use LATEX for academic writing.,latex
 LBR, LBR stands for Logical Boot Recorder, Use with CP/M and DOS archives.,/
 LDB, Leveldb data file storage library., Use LDB for efficient data storage.,
-LDB, LDB is Microsoft Access MDB file., Use LDB with Microsoft Access.,
+LDB, LDB is Microsoft Access MDB file., Use LDB with Microsoft Access.,access
 LDT, Laboratory Data Terminal Extension (LDT)., Use LDT for German Lab Orders.,/
 LGR, Graph data format standard., Use LGR for graph data storage.,image
 LHA, Compressed archive format LZW compression., Use LHA for archiving data.,archive
 LISP, Programming language with prefix notation., Use for Machine Learning Programming.,
 LL, LLVM Low-Level Language Assembler., Use for LLVM Assembly Language coding.,llvm
 LM, Contains information for language models., Use in Windows file association.,
-LMD, Molecular Biology Data Format., Use LMD for sequence alignment.,
-LNK, Shortcut to local file location., Use on local files shortcuts.,
+LMD, Molecular Biology Data Format., Use LMD for sequence alignment.,/
+LNK, Shortcut to local file location., Use on local files shortcuts.,/
 LOGICX, Logic Pro X file container format., Use LogicX with Logic Pro.,
-LRC, Lyrics file format standard used., Karaoke player with lyrics support.,
+LRC, Lyrics file format standard used., Karaoke player with lyrics support.,/
 LUA, Scripting Language for Game Development., Use Lua for game development.,
 LWO, LightWave Object file format., Use LWO with LightWave software.,
 LZ, Lossless data compression algorithm., Use with compressed archives only.,archive
 M, Mathematica package file format., Use Mathematica Package Manager (M).,mathematica
 M, MATLAB Script Editor Extension., MATLAB M-file editing and debugging tool.,matlab
-M, M: Mercury Source Code Editor Extension., Use with Mercury compiler for Assembly.,
+M, M: Mercury Source Code Editor Extension., Use with Mercury compiler for Assembly.,assembly
 M, Macros in Objective-C compiler., Use Mac's Terminal app Xcode.,
 M2TS, Digital multimedia container format., Use for M2TS video playback.,/
-M3U, Playlist file format for media., Playlists for media players.,
+M3U, Playlist file format for media., Playlists for media players.,video
 M3U8, Video playlist file format., Use M3U8 with media players.,video
 M3U, M3U is a playlist format., Play media playlist files with M3U.,
 M4A, Audio file format developed by Apple., iTunes for managing M4A files.,audio
@@ -398,31 +398,31 @@ M4P, Media container with digital rights management (DRM) for iTunes files., Use
 M4R, Converts iPhone ringtones and alerts., Use M4R for iPhone ringtones.,audio
 M4V, Video file format with DRM protection., Use M4V for iTunes playback.,
 M64, Mupen64++ emulator for gameplay recordings., Use M64 for Emulation Recording.,/
-MA, Autodesk Maya file extension., Use MA with Autodesk Maya.,
-MAT, Native binary file format for MATLAB., Use MAT files in MATLAB/Octave.,
+MA, Autodesk Maya file extension., Use MA with Autodesk Maya.,/
+MAT, Native binary file format for MATLAB., Use MAT files in MATLAB/Octave.,matlab
 MBOX, Unix mailbox file format standard., Thunderbird,email
 MCF, Container format for multimedia content., Matroska for video container encoding.,video
 MD, Plain text formatting markup language., Use MD with Markdown editor.,text
 MDB, Database file format for Microsoft Access., Use MDB for Microsoft Access databases.,
 MDF, Standardized database data file format., Use with Microsoft SQL Server.,database
-MDF, Binary format for automotive measurements., Use MDF in CAD design tools.,
+MDF, Binary format for automotive measurements., Use MDF in CAD design tools.,cad
 MDI, Optical Character Recognition (OCR) tool., Adobe Acrobat Reader DC.,/
 MDG, Digital geometry programmable CAD format., Use MDG with Autodesk Maya.,map
 MDL, MathWorks Model-Based Development Tool., Use with Simulink Modeling Tools.,mathworks
 MDS, Midi Sound Designer Extension., Use Musesinx with MIDI Session.,/
 MEX, MATLAB M-Files Extension Package., MATLAB MEX File Compiler Tool.,matlab
 MGF, Mathematica Graphics File Format., Use with Wolfram Mathematica graphics.,image
-MGF, Open standard for 3D geometry., Use MGF in CAD modeling.,
+MGF, Open standard for 3D geometry., Use MGF in CAD modeling.,3d
 MHT, Mime type for HTML archives., Save MHT files from web browsers.,
-MID, MIDI music file format standard., Use MID with Winamp and music synthesis.,
+MID, MIDI music file format standard., Use MID with Winamp and music synthesis.,audio
 MKA, Matroska audio video container format., Matroska audio format converter.,video
 MKV, Open standard video container format., Use MKV with Matroska player.,video
 MM, Mediblob++ is a C/C++ debugger., Emacs with MM Source Mode.,/
 MML, Mathematical Markup Language format., Use MML with MathML rendering.,mathematical
 MNT, Geospatial Map Representation Format Extension., Use MNT extension for 3D modeling.,
 MO, Modelica model file format., Use MO with Modelica models.,/
-MOBI, Digital book format specification standard., Use with eReaders and eBooks.,
-MOD, Ampl Model File Extension., Use MOD for AMPL modeling.,
+MOBI, Digital book format specification standard., Use with eReaders and eBooks.,book
+MOD, Ampl Model File Extension., Use MOD for AMPL modeling.,/
 MOD, Modula-2 programming language extension., Use Modula-3 compiler extension.,modula
 MOD, Clarion MOD file format specification., Use MOD for Modula-2 development.,
 MOD, Format used by Ultimate Soundtracker., Use MOD extension with Amiga tracker.,/
@@ -439,7 +439,7 @@ MP4, Multimedia file container format., Use MP4 for video playback.,
 MPA, Lossy audio file format standard., Use MPA for audio encoding.,audio
 MPC, Lossless audio compression format., Play Musepack audio files online.,audio
 MPD, MPCD: LDraw Multi-Part Data File Extension., Use MPD with LDraw models.,/
-MPEG, Digital multimedia container format standard., Use with multimedia content files.,
+MPEG, Digital multimedia container format standard., Use with multimedia content files.,video
 MPG, MPEG Audio Layer 3 compression., Use with video encoding software.,video
 MPS, Mathematical Programming System Format., Use MPS for Linear Programming.,
 MSC, Microsoft Management Console (MMC) extension., Use MSC for management consoles.,
@@ -448,11 +448,11 @@ MSDL, Language for describing MUSE scenes., Use MSDL for Manchester scene modeli
 MSF, Multiple Sequence Format specification., Use MSF for Multiple Sequence Alignment.,
 MSI, Windows Installer Package Files (.msi), Use MSI for Windows Installers.,msi
 MSO, Metadata storage for Microsoft attachments., MSO Standalone add-in for Microsoft Word.,
-MSSTYLES, Stores Microsoft Windows visual styles., Use MSSTYLES for theme changes.,
+MSSTYLES, Stores Microsoft Windows visual styles., Use MSSTYLES for theme changes.,/
 MSU, Windows update package installer., Use MSU for Microsoft updates.,/
 MTS, MPEG Transport Stream (video format)., Use with Media Center Software.,
 MX, Wolfram Language serialized package format., Use with Mathematica Wolfram Language.,wolfram
-MXF, Material Exchange Format standard., Use MXF for media asset exchange.,
+MXF, Material Exchange Format standard., Use MXF for media asset exchange.,/
 MYD, MyISAM data file format., Use MYD for spatial indexing.,
 MYI, Database index file format., Use on MySQL tables.,
 MR, Mission: Revenant engine simulator extension., MRO (Method Resolution Order) in Python.,/
@@ -462,12 +462,12 @@ NC, Camber and Runout measurement tool., Use in CNC machining processes.,/
 NC, National Center for Biotechnology Information., Use NC for numerical control.,
 NCD, Standard for printed circuit holes., Use with Excellon format files.,/
 NDK, Standardized seismic event data format., Seismologist's seismic data storage format.,/
-NDS, File format for Nintendo DS., NDS Shell for Nintendo DS Emulation.,
+NDS, File format for Nintendo DS., NDS Shell for Nintendo DS Emulation.,nintendo
 NEF, Nikon RAW image file format., Use NEF with Nikon cameras.,image
 NET, The NET extension represents a graph data format, specifically designed for the Pajek network analysis software and commonly used as an exchange format for graphs.,/
-NEU, Neutral data exchange format standard., Use NEU with Pro/E Software.,
+NEU, Neutral data exchange format standard., Use NEU with Pro/E Software.,/
 NEX, phylogenetic file format extension NEX., Use NEX with Nexus software.,
-NF, NC Milling Machine Instruction Manual, Use NF with TRUMPF machines.,
+NF, NC Milling Machine Instruction Manual, Use NF with TRUMPF machines.,/
 NFO, Information file for media metadata., Use NFO with media players.,/
 NIM, Nim compiler front-end development tool., Use Nim compiler for Nim programming language.,
 NMF, Software for Non-negative Matrix Factorization., Non-negative Matrix Factorization (NMF) algorithm.,
@@ -479,12 +479,12 @@ NRX, NetRexx Scripting Language Extension., Use NetRexx for scripting purposes.,
 NS1, NetStumbler wireless network scanner software., Use NS1 for DNS lookups.,
 NSF, NES Sound Format files., NES Music Format Converter Extension.,audio
 NSV, Nullsoft Streaming Video (NSV) extension., Use NSV for Nullsoft Streaming.,
-NUMBERS, Apple's spreadsheet application program., Use Numbers for spreadsheet tasks.,
-"NWD, NWF", Autodesk Navisworks drawing file format., Use Navisworks for BIM collaboration.,
-NXS, File format for phylogenetic trees., Use Nexus for phylogenetic analysis.,
-O, Atari Object File Extension., Use in GCC compiler options.,
+NUMBERS, Apple's spreadsheet application program., Use Numbers for spreadsheet tasks.,/
+"NWD, NWF", Autodesk Navisworks drawing file format., Use Navisworks for BIM collaboration.,/
+NXS, File format for phylogenetic trees., Use Nexus for phylogenetic analysis.,/
+O, Atari Object File Extension., Use in GCC compiler options.,c
 OBJ, Object file format for assembly., Use with 3D modeling software.,
-OBJ, Intel Object File Format Module., Use with Intel C/C++ compilers.,
+OBJ, Intel Object File Format Module., Use with Intel C/C++ compilers.,cpp
 OBJ, 3D model file format standard., Use with Blender for 3D modeling.,
 OBS, Open Broadcasting Software is used., Screen recording and live streaming software.,obs
 OCX, ActiveX Control Extension Component., Use OCX for OLE Controls.,
@@ -495,7 +495,7 @@ ODP, OpenDocument Presentation Format Specification., Use ODP for LibreOffice pr
 ODS, OpenDocument Spreadsheet Format Standard., Use ODS for LibreOffice collaboration.,/
 ODT, OpenDocument text document format extension., Use LibreOffice for ODT document editing.,text
 OFF, Standard format for 3D models., Storing and exchanging 3D models.,3d
-OGA, Ogg Audio File Container Format., Use OGA with VLC Media Player.,
+OGA, Ogg Audio File Container Format., Use OGA with VLC Media Player.,audio
 OGG, Vorbis audio file format., Use with Vorbis audio codec.,audio
 OGV, Ogg Video file container format., Use with FFmpeg for video processing.,video
 OGX, Ogg Multiplexing Audio Profile Extension., Use with OGG audio files.,audio
@@ -510,12 +510,12 @@ OST, File format for Microsoft email., Use with Microsoft Outlook 2007.,email
 OSZ, Osu! Beatmap Extension Format file., Osu! Beatmap editor software.,osu
 OTB, Over-the-air bitmap graphics editor., Use OTB for Over-the-Air Graphics.,image
 OTF, OpenType font file format., Use OTF for OpenType fonts.,font
-OTL, Vim plugin for outliner functionality., Vim Outliner (OTL) plugin usage.,
+OTL, Vim plugin for outliner functionality., Vim Outliner (OTL) plugin usage.,/
 OTF, OpenDocument Text File Format Extension., Use OTF in LibreOffice.,
 OTG, OpenDocument Format for drawings templates., Use OTG with LibreOffice Online.,image
-OTP, OpenDocument Presentation Template Format Extension., Use in LibreOffice Writer.,
+OTP, OpenDocument Presentation Template Format Extension., Use in LibreOffice Writer.,/
 OTS, OpenDocument Spreadsheet Template Format., Use LibreOffice for OpenDocument files.,excel
-OTT, OpenDocument Text Document Template Format., Use LibreOffice Writer for OTT.,
+OTT, OpenDocument Text Document Template Format., Use LibreOffice Writer for OTT.,font
 OV2, File format for TomTom POIs., Use OV2 with TomTom software.,/
 OWL, Description: Semantic Web Ontology Language., Use OWL for ontology creation.,
 OXT, OpenOffice and LibreOffice extension., Use OXT for OpenOffice extensions.,/
@@ -526,19 +526,19 @@ P8, P8 is Pico-8's Game Format., Use PICO-8 Game Creator.,
 P10, Microsoft Exchange Certificate Request Extension., Use in Adobe Acrobat Reader.,
 P12, Exchange of Personal Identity Documents., Use P12 for certificate exchange.,/
 PACK, Java Archive (JAR) file format., Use PACK for Java Packaging.,
-PAGES, Apple Pages document editing software., Use Pages for PDF editing.,
+PAGES, Apple Pages document editing software., Use Pages for PDF editing.,word
 PAK, Pak file archive format., Use PAK on compressed archives.,archive
-PAL, File format for graphics editing., Use PAL with image editing.,
+PAL, File format for graphics editing., Use PAL with image editing.,image
 PAM, Portable Arbitrary Map graphics format., Use PAM for image processing.,
 PAPA, PAPA extension for Flipline Studio., Use PAPA with Flipline games.,/
 PAR, Linux file system archive format., Binary data verification and correction.,archive
-PAR2, Open-source checksum file verification tool., Recovering corrupted compressed file archives.,
+PAR2, Open-source checksum file verification tool., Recovering corrupted compressed file archives.,/
 PARAMS, MXNet net representation format., MXNet Net Representation Format Extension,
 PAS, Pascal Source Code Extension File., Use PAS in Borland IDE.,pascal
 PAX, Compression and encryption utility software., Use PAX with GNU Tar.,
-PBLIB, PowerBASIC library for Power Users., Use for PowerBasic programming needs.,
+PBLIB, PowerBASIC library for Power Users., Use for PowerBasic programming needs.,/
 PBM, Portable BitMap (ASCII) Format., Use PBM for monochrome rasters images.,/
-PBO, Bohemia Interactive Package Archive File., Use PBO in Arma 3 game.,
+PBO, Bohemia Interactive Package Archive File., Use PBO in Arma 3 game.,/
 PCAP, Captured network packet capture format., Use PCAP for network packet capture analysis.,/
 PCL, Printer Command Language (PCL) format., Use with HP printers only.,pcl
 PCS, File format for land survey data., Use for PC survey and mapping.,
@@ -546,7 +546,7 @@ PCX, Paintbrush graphics editor file format., Use with PC Paintbrush software.,p
 PDB, Debugging data file for Windows., Use PDB with Visual Studio debugging.,/
 PDB, Repository for three-dimensional protein structures., Use PDB for protein structure analysis.,/
 PDE, Processing Development Environment Extension., Use PDE in Processing IDE.,
-PDF, Standard file format for documents., Use PDF for viewing documents.,
+PDF, Standard file format for documents., Use PDF for viewing documents.,pdf
 PDI, Portable Database Interchange format., Use with Access databases only.,database
 PDM, IBM PC desktop management tool., PDM: Project Management Desk Software.,/
 PDM, Data model file format standard., Use with PowerDesigner modeling tool.,/
@@ -563,8 +563,8 @@ PFB, Adobe PostScript Font Format., Adobe Type Manager postscript extension.,
 PFC, AOL PFC is a profile manager., Use PFC with AOL clients.,/
 PFM, Font metric file format used., Use PFM with Adobe Acrobat.,
 PFM, Type 1 Font Metric File., Use with Adobe Illustrator fonts.,font
-PGN, Standardized text notation for chess., Use PGN in Chess Software.,
-PFX, Microsoft Encrypted Certificate File Extension., Use PFX for digital certificates.,
+PGN, Standardized text notation for chess., Use PGN in Chess Software.,chess
+PFX, Microsoft Encrypted Certificate File Extension., Use PFX for digital certificates.,/
 PHF, Donarius Database File Format Specification., Use PHF with Donarius database.,database
 PHN, 3D physics simulation engine plugin., Use PHN with Blender.,
 PHP, Server-side scripting language., File inclusion vulnerability scanner tool.,php
@@ -581,7 +581,7 @@ PIT, Tool for Odin Android Partition., Use PIT with Odin 3 Samsung.,
 PK3, Game data file format Quake III., Use PK3 with Quake III game.,/
 PKL, Python Object Serialization Format., Use with Python,
 PKA, Adobe Acrobat PDF Archive Extension., Use PKA with Microsoft Outlook.,
-PL, Plain text programming language file., Use Perl interpreter in PL mode.,
+PL, Plain text programming language file., Use Perl interpreter in PL mode.,pl
 PL, Lisp-like family of programming languages., Use with Prolog source files.,/
 PL, Astrometry Reduction Image Archive Format., Use PL/Sysop for astronomical data.,/
 PLI, Programming Language Interface Extension., Use PLI/PL/I compiler for COBOL source files.,/
@@ -597,7 +597,7 @@ PPTX, PowerPoint presentation file format., Use PPTX for Microsoft PowerPoint.,p
 PPSX, PowerPoint Show file format., Use PPSX for MS PowerPoint presentations.,
 PRJ, Extracts and imports SVN project information., Use with Unix-based development environments.,
 PROPERTIES, Java Properties File Format., Properties files (.properties),java
-PROTO, Protocol Buffer Message Specification Language., Use PROTO for protocol buffer definition.,
+PROTO, Protocol Buffer Message Specification Language., Use PROTO for protocol buffer definition.,/
 PRP, Plasma Registration and Documentation System., Use PRP in Adobe Photoshop.,photoshop
 PS, Digital document format PS file., Use PS with Adobe Illustrator.,
 PSD, Native Adobe Photoshop image format., Use PSD with Adobe Photoshop.,photoshop
@@ -631,7 +631,7 @@ RAL, Terminal Emulation Protocol Language File., Use RAL for remote access.,/
 RAM, Compression filter for RealAudio files., Use RAMPlayer for RealAudio playback.,audio
 RAP, Visual programming language for Rapid Prototyping, Use RAP for Business Process Modeling.,rap
 RAR, File compression archive format., Extracting compressed archive files with RAR.,archive
-RAS, Sun Raster Graphics file format., Use with graphics applications SUN.,
+RAS, Sun Raster Graphics file format., Use with graphics applications SUN.,image
 RB, Ruby Script File Extension, Use with Ruby on Rails.,
 RBXL, Roblox XLS file format., Use RBXL for Roblox development.,xml
 RC, Remote Configuration File Editor, RCE.,
@@ -642,12 +642,12 @@ RES,  Compiled executable file format., Use RES with compiled resources.,
 "REX, REXX", IBM mainframe scripting language variant., Use for batch scripting and legacy systems.,mainframe
 RKT, Software extension for Racket programming., Use with Racket programming language.,/
 RM, RealMedia format used by RealPlayer., Use RM with RealPlayer for RealMedia files.,video
-RMD_, R Studio R Markdown Extension., Use RStudio for R Markdown.,
+RMD_, R Studio R Markdown Extension., Use RStudio for R Markdown.,r
 RMVB, Video codec for RealPlayer., Viewing RMVB files with RealPlayer.,
 Rob, Robot Arena input file format., Use Rob for RobotSim Toolkit.,/
 ROL, ROL is an AdLib plugin., Use ROL with AdLib plugins.,/
 RPM, Red Hat Package Manager software., Use RPM for Red Hat Linux.,archive
-RS, Language Server Protocol for Rust., Use Rust compiler flag -R.,
+RS, Language Server Protocol for Rust., Use Rust compiler flag -R.,/
 RSA, Harwell-Boeing matrix format., HSL/PAStoR (Harwell Sparse Matrix Library),
 "RSL, RSLS, RSLF", Resilio Sync file placeholders version., Use with Resilio Sync files.,
 RST, Documentation format for Python reStructuredText., Use RST with Sphinx documentation.,
@@ -678,7 +678,7 @@ SDS, Hyperdimensional data structure technique., Spatial Data Structures (SDS) s
 SDTS, Format for exchanging spatial data., Use SDTS for GIS data transfer.,/
 SEC, Pretty Good Privacy RSA File., Use RSA with Secret Key.,
 SED, IExpress file format specification., Use for self-extracting archives files.,archive
-SEQ, Tiertex Video Sequence Format., Use SEQ for Tiertex video sequences.,
+SEQ, Tiertex Video Sequence Format., Use SEQ for Tiertex video sequences.,video
 SERIES, Series Distiller encryption library module., Series Distiller for encrypted data.,
 SF, Java Application Signing Extension., Use SF for JAR file signing.,
 SFB, Emacs SFB Configuration File Handler., Use for Emacs Configuration Files.,emacs
@@ -690,7 +690,7 @@ SHTM, Server-Side Included HTML Template File., Use SHTM with Server Side Includ
 SHTML, HTML file with server-side includes., Use with SSI (Server Side Includes) enabled files on a web server.,html
 SHX, AutoCAD Shape Entity File Format., Use SHX for AutoCAD shapes.,
 SIC, Symbolic Instruction Code for Assembly., Use SIC for 8-bit assembly languages.,assembly
-SIG, GPG signature verification tool plugin., Use with GPG for secure signing.,
+SIG, GPG signature verification tool plugin., Use with GPG for secure signing.,/
 SL, Source language for S-Lang scripts., S-Lang is used for scripting.,slang
 SLDASM, SolidWorks Assembly Viewer Extension., Use SLDASM for SolidWorks assemblies.,
 SLDPRT, SolidWorks Part Property Template Extension., Use SLDPRT in SolidWorks.,
@@ -705,51 +705,51 @@ SPIN, Parallax Propeller Microcontroller Development Tool., Use SPIN for Propell
 SPS, Statistical Package for Social Sciences., Use PSPP for statistical analysis.,/
 SPT, Spitbol Programming Language Source File., Use SPT for SPITBOL source.,spitbol
 SPV, Spiral-Vulkan executable file format standard., Use SPV with Vulkan GPU driver.,/
-SPX, Audio codec from Xiph.Org Foundation., Use Speex Audio Codec Extension.,
-SPZ, Crestron SIMPL Windows application executable., Use SPZ for Crestron SimplView.,
-SQL, Standard language for databases., Use in any relational databases.,
+SPX, Audio codec from Xiph.Org Foundation., Use Speex Audio Codec Extension.,audio
+SPZ, Crestron SIMPL Windows application executable., Use SPZ for Crestron SimplView.,/
+SQL, Standard language for databases., Use in any relational databases.,database
 SRT, SubRip subtitle format extension., Use SRT with most media players.,
 SRX, Series Distiller XML file format., Series Distiller Update File Manager.,
 SSC, Celestia Solar System Database File., Use with Celestia Space Simulator.,
-SSC, Script for Stellarium planet simulations., Use SSC with Stellarium astronomy.,
+SSC, Script for Stellarium planet simulations., Use SSC with Stellarium astronomy.,/
 ST, Smalltalk source code file extension., Use ST for Smalltalk development.,
 ST, Structured Text file extension., Use with IBM z/OS MVS.,
 STC, File format for Celestia catalogs., Celestia Plugin for Celestia Software.,/
 STC, OpenOffice Calc spreadsheet template file., Use STC with OpenOffice Calc.,/
-STD, Template file for OpenOffice Draw., Use OpenOffice Draw extension.,
+STD, Template file for OpenOffice Draw., Use OpenOffice Draw extension.,/
 STEP, ISO standard for product data exchange., Use STEP for CAD data exchange.,cad
 STI, Template for OpenOffice Impress presentations., Use STI with OpenOffice Impress.,ppt
 STK, Software for biosequence multiple alignment., Use STK for multiple sequence alignment.,/
 STL, Standardized Tool Language for 3D modeling., Use STL for 3D printing models.,stl
 STM, Template for Server-Side Inclusion., Use with SSI (Server-Side Includes) files.,
-STO, Multiple Sequence Alignment Tool Extension., Use STO for Bioinformatics multiple alignment.,
+STO, Multiple Sequence Alignment Tool Extension., Use STO for Bioinformatics multiple alignment.,/
 STORY, AOL Instant Messenger Story Filter Extension., Use STORY for data anonymization.,/
 STP, Data exchange standard for CAD., Use STP with CAD software.,
 STW, Template for OpenOffice Writer documents., Use STW add-on in OpenOffice Writer.,
 STX, XML-based script for Story Distiller., Adobe Story (formerly known as StoryDistiller).,
-SUR, Digital elevation model terrain dataset., Use SUR in QGIS Terrain.,
+SUR, Digital elevation model terrain dataset., Use SUR in QGIS Terrain.,dataset
 SVC, ServiceHost process identifier., Use with IIS (Internet Services).,/
 SVELTE, Svelte: A Svelte compiler extension., Use SVELTE for Svelte Source Code.,svelte
 SVG, Two-dimensional graphics vector format., Use for vector graphics design.,svg
 SWF, Portable file format for animations., Use SWF for Flash files.,video
-SWG, Software Development with Interface Generator., Generate C++ interface from SWIG.,
+SWG, Software Development with Interface Generator., Generate C++ interface from SWIG.,/
 SWIFT, Programming Language for Apple Devices, Use SWIFT for Apple development.,swift
 SWM, Windows Imaging Format (WIM) file system., Use SWM for Windows Imaging Format.,image
-SXC, OpenOffice org XML spreadsheet file., Use SXC with OpenOffice Calc.,
+SXC, OpenOffice org XML spreadsheet file., Use SXC with OpenOffice Calc.,/
 SXD, OpenOffice Draw file extension., Use SXD with OpenOffice Draw.,
-SXG, OpenOffice.org Master Document Format., Use SXG with OpenOffice.,
+SXG, OpenOffice.org Master Document Format., Use SXG with OpenOffice.,/
 SXI, OpenOffice Presentation Format Extension., Use SXI with OpenOffice.,ppt
 SXM, OpenOffice Calc formula extension., Use SXM for OpenOffice formulas.,/
 SXP, 3ds Max Scene File Extension., Use with Autodesk 3ds Max.,
 SXW, OpenOffice Writer text document., Use SXW for OpenOffice documents.,
 SYLK, SYLK is a Windows file format., Use SYLK for Windows links.,/
-SYMBOLICLINK, Replaces files with symbolic links., Use on Unix-like operating systems.,
+SYMBOLICLINK, Replaces files with symbolic links., Use on Unix-like operating systems.,/
 TAK, TAK Audio Codec Lossless Format, Use TAK with Winamp or foobar2000.,audio
 TAR, Tarball file archive manager software., Use TAR with Unix-like systems.,archive
 TAZ, Archive file system extension TAZ., Use for .tar.gz archives only.,archive
 TB2, TB2: tarball format for Bzip2., Use TB2 for Bzip2 archives.,archive
 TBZ, The file extension TBZ is RAR archive., Use TBZ for ZIP archives.,archive
-TBZ2, The TBZ2 format is archive., Use on Mozilla Firefox browser.,
+TBZ2, The TBZ2 format is archive., Use on Mozilla Firefox browser.,archive
 TC, Saturn CMS theme color settings., Use TC for Saturn CMS theme.,/
 TER, Open-source terragen scenery generator., Terragen Scenery Generator Extension.,/
 TGA, Truevision TGA raster graphics format., Use with graphics editing software.,image
@@ -769,9 +769,9 @@ TSV, Text file format for tabbed data., Use TSV for tab-separated data.,
 TTC, TrueType Collection Editor Extension., Use with TrueType fonts editor.,font
 TTF, TrueType Font File Format., Adobe Illustrator or InDesign.,font
 TXZ, Compression format for tar archives., Use TXZ for bzip2 archives.,archive
-TZ2, Short for Telex Transmission Zone., TZ2 stands for TallyBot Zone 2,
+TZ2, Short for Telex Transmission Zone., TZ2 stands for TallyBot Zone 2,/
 TZST, Compressed tar file format., Use with tar archives compressed Zstd.,archive
-UI, GeoWorks UI Compiler Source File., Geoworks UI Compiler for Geos.,
+UI, GeoWorks UI Compiler Source File., Geoworks UI Compiler for Geos.,/
 UI, XML file for user interface., Use UI file in Qt Designer.,xml
 UMP, Standardized UML programming language format., Use Umple for UML coding.,
 UNV, UNV is a neutral format., ASPERA or similar CAD systems.,cad
@@ -784,13 +784,13 @@ USDZ, 3D model file for AR scenes., Use USDZ for AR modeling.,3d
 UST, Utatune song format for Utau., Use UST with UTau software.,/
 USTX, OpenUtau vocal synthesis tracks., Use USTX with OpenUtau.,/
 UT!, uTorrent data file extention indicator., Use with uTorrent on PC.,torrent
-UXF, UML Extension for Formal Modeling., Use for UML diagram exchange.,
+UXF, UML Extension for Formal Modeling., Use for UML diagram exchange.,/
 V, Vista Coq source language compiler., Use V in Coq proof.,coq
 V, Verilog source code editor extension., Use for Verilog source files.,verilog
-V3, Victoria III Save Game Importer Extension., Victoria 3 Save Game Converter.,
+V3, Victoria III Save Game Importer Extension., Victoria 3 Save Game Converter.,/
 V4P, Visual4Players, mod for Half-Life 2.,/
 V64, N64 ROM image emulator software., Use with Project 64 emulator.,image
-VB, Files compiled with Visual Basic .NET compiler., Use it for VB.NET source code.,
+VB, Files compiled with Visual Basic .NET compiler., Use it for VB.NET source code.,basic
 VBOX, VirtualBox configuration XML file extension., Use VBOX for Virtual Machines.,
 VBOX-EXTPACK, VirtualBox Extension Package for Virtualization., Use VBOX-EXTPACK for VirtualBox extensions.,/
 VBPROJ, Visual Basic .Net project file., Use for converting VB.NET projects.,net
@@ -812,14 +812,14 @@ VMG, Nokia Text Message Editor Format., Use VMG with Nokia messages.,/
 VOB, Container format for DVD video., Use VOB for DVD playback.,/
 VMX, VMX is VMware virtualization config file., Use VMX with VMware virtual machines.,vmware
 VPK, Valve Package for Source Games., Use VPK with Source Engine games.,
-VPM, Garmin VPM Voice Processing Module., Garmin Vivosport GPS Watch Unit.,
-VPP, Visual Paradigm Project for UML., Use VPP for UML modeling.,
+VPM, Garmin VPM Voice Processing Module., Garmin Vivosport GPS Watch Unit.,/
+VPP, Visual Paradigm Project for UML., Use VPP for UML modeling.,/
 VPR, Vocal Synthesizer Track Format., Ardorable VPR plugin for Vocaloid.,/
 VQM, VHDL-like hardware description language., Use VQM for FPGA design verification.,/
 VRB, Beamer document with verbatim., Use in LaTeX document editor.,latex
 VRB, Veeam Backup and Replication., Use VRB with Veeam Backup.,/
 VS, Computer-aided design and drafting software., Use Ashlar-Vellum for architectural rendering.,
-VSD, Microsoft Visio Stencil Format., Use VSD with Microsoft Visio.,
+VSD, Microsoft Visio Stencil Format., Use VSD with Microsoft Visio.,/
 VSDX, Visual Studio Extension for Visio., Use VSDX for Microsoft Visio designs.,
 VSM, Visual Simulation Modeling Software., Use VisSim for digital twin modeling.,
 VSQ, Vocal Synth Track Format File., Use VSQ for Vocaloid tracks.,
@@ -847,7 +847,7 @@ WMDB, Extends Windows Media Database functionality., Use WMDB for Windows Media.
 WMF, Vector Graphics File Format., Use WMF with Adobe Illustrator.,ai
 WMV, Windows Media Video file format., Use with Windows Media Player.,video
 WOS, WoS (Web of Science) bibliographic reference., Use WOS for citation management.,
-WPS, Aroma Environnement Wii U plugin., Use WPS on Wii U Console.,
+WPS, Aroma Environnement Wii U plugin., Use WPS on Wii U Console.,/
 WS, Whitespace is a minimal language., Use in WhiteSpace text editor.,whitespace
 WTX, WTX: Text-based Graphics Format Extension., Use with Visual Studio Code.,image
 WUHB, Homebrew bundle for Wii U., Use with Wii U Hacking.,
@@ -856,7 +856,7 @@ X, Xbasic Editor Extension for Visual Studio Code., Use Xbasic for MS-DOS system
 X3D, X3D is an XML format., Use X3D for 3D Modeling.,xml
 XAR, XAR graphics files from Xara software., Use XAR with Xara design software.,
 XAR, Zip file archive format standard., Use XAR for ZIP archives.,archive
-XBRL,  XBRL is a financial reporting format., Use XBRL for financial reporting.,
+XBRL,  XBRL is a financial reporting format., Use XBRL for financial reporting.,/
 XCF, GIMP image file format extension., Use XCF with GIMP,image
 XDM, Legacy utility for directory manipulation., Use XDM for low-level debugging.,/
 XE, Software extension for Ashlar-Vellum., Ashlar-Vellum,/
@@ -887,5 +887,5 @@ YML, YAML: Domain-specific markup language output., Use YML for configuration fi
 YAML, Data serialization scripting language tool., Use YAML for data serialization.,
 ZIP, Compressed file archive format standard., Compressing and uncompressing files securely.,archive
 ZRX, Rexx scripting language for ZOC., Use ZRX with IBM ZOC.,/
-ZS, Scripting language for Minecraft mods., Use ZS with MineTweaker scripts.,
+ZS, Scripting language for Minecraft mods., Use ZS with MineTweaker scripts.,minecraft
 ZST, Lossless data compression file format., Use zstd for lossless compression.,archive
