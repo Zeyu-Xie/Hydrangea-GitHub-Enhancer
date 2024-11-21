@@ -367,7 +367,7 @@ KRABER, Kraber is a programming language., Use KRABER for Assembly Language.,kra
 KSH, Bourne shell-like Unix scripting language., Use KornShell for scripting tasks.,
 KT, Kotlin source code file extension., Use in IntelliJ IDEA Kotlin plugin.,kotlin
 KV, Kivy Virtual Extensions Framework., Use KV for Kivy UI design.,kivy
-LABEL, Imports Dymo label files easily., Use LABEL with Dymo Desktop software.,;
+LABEL, Imports Dymo label files easily., Use LABEL with Dymo Desktop software.,/
 LATEX, Typesetting system for scientific documents., Use LATEX for academic writing.,latex
 LBR, LBR stands for Logical Boot Recorder, Use with CP/M and DOS archives.,/
 LDB, Leveldb data file storage library., Use LDB for efficient data storage.,
