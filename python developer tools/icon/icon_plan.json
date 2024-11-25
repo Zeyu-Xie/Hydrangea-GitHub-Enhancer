@@ -1,0 +1,395 @@
+[
+    {
+        "ext": [
+            "."
+        ],
+        "path": "folder.svg"
+    },
+    {
+        "ext": [
+            "jpg",
+            "jpeg",
+            "png",
+            "gif",
+            "bmp",
+            "ico"
+        ],
+        "path": "image.svg"
+    },
+    {
+        "ext": [
+            "js"
+        ],
+        "path": "javascript.svg"
+    },
+    {
+        "ext": [
+            "json"
+        ],
+        "path": "json.svg"
+    },
+    {
+        "ext": [
+            "md"
+        ],
+        "path": "markdown.svg"
+    },
+    {
+        "ext": [
+            "py"
+        ],
+        "path": "python.svg"
+    },
+    {
+        "ext": [
+            "swift"
+        ],
+        "path": "swift.svg"
+    },
+    {
+        "ext": [
+            "yml",
+            "yaml"
+        ],
+        "path": "yaml.svg"
+    },
+    {
+        "ext": [
+            "ppt",
+            "pptx",
+            "pps",
+            "ppsx",
+            "pptm",
+            "potx",
+            "potm",
+            "ppam",
+            "ppsm"
+        ],
+        "path": "powerpoint.svg"
+    },
+    {
+        "ext": [
+            "doc",
+            "docx",
+            "docm",
+            "dot",
+            "dotx",
+            "dotm"
+        ],
+        "path": "word.svg"
+    },
+    {
+        "ext": [
+            "xls",
+            "xlsx",
+            "xlsm",
+            "xltx",
+            "xltm",
+            "xlsb",
+            "xlam"
+        ],
+        "path": "excel.svg"
+    },
+    {
+        "ext": [
+            "pdf"
+        ],
+        "path": "pdf.svg"
+    },
+    {
+        "ext": [
+            "zip",
+            "rar",
+            "7z",
+            "tar",
+            "gz",
+            "bz2",
+            "xz",
+            "iso",
+            "dmg",
+            "pkg"
+        ],
+        "path": "archive.svg"
+    },
+    {
+        "ext": [
+            "svg"
+        ],
+        "path": "svg.svg"
+    },
+    {
+        "ext": [
+            "apk"
+        ],
+        "path": "apk.svg"
+    },
+    {
+        "ext": [
+            "ai"
+        ],
+        "path": "ai.svg"
+    },
+    {
+        "ext": [
+            "eml",
+            "msg"
+        ],
+        "path": "mail.svg"
+    },
+    {
+        "ext": [
+            "sql"
+        ],
+        "path": "sql.svg"
+    },
+    {
+        "ext": [
+            "iso"
+        ],
+        "path": "iso.svg"
+    },
+    {
+        "ext": [
+            "r"
+        ],
+        "path": "r.svg"
+    },
+    {
+        "ext": [
+            "gitignore",
+            "gitattributes",
+            "gitmodules",
+            "gitconfig",
+            "gitkeep",
+            "git"
+        ],
+        "path": "git.svg"
+    },
+    {
+        "ext": [
+            "html",
+            "htm",
+            "xhtml",
+            "xml"
+        ],
+        "path": "html.svg"
+    },
+    {
+        "ext": [
+            "css",
+            "scss",
+            "sass",
+            "less"
+        ],
+        "path": "css.svg"
+    },
+    {
+        "ext": [
+            "mp3",
+            "wav",
+            "flac",
+            "aac",
+            "ogg",
+            "wma",
+            "aiff",
+            "alac",
+            "m4a"
+        ],
+        "path": "audio.svg"
+    },
+    {
+        "ext": [
+            "mp4",
+            "mkv",
+            "webm",
+            "avi",
+            "mov",
+            "flv",
+            "wmv",
+            "vob",
+            "3gp",
+            "3g2",
+            "ogg",
+            "ogv",
+            "mpg",
+            "mpeg",
+            "m4v",
+            "m2v",
+            "m2ts",
+            "ts"
+        ],
+        "path": "video.svg"
+    },
+    {
+        "ext": [
+            "c",
+            "h"
+        ],
+        "path": "c.svg"
+    },
+    {
+        "ext": [
+            "cpp",
+            "hpp",
+            "cc",
+            "hh",
+            "cxx",
+            "hxx",
+            "c++",
+            "h++",
+            "inl"
+        ],
+        "path": "cpp.svg"
+    },
+    {
+        "ext": [
+            "cs",
+            "csx"
+        ],
+        "path": "c-sharp.svg"
+    },
+    {
+        "ext": [
+            "java",
+            "jar",
+            "jsp",
+            "jspx",
+            "wss",
+            "do",
+            "action",
+            "class",
+            "war",
+            "ear"
+        ],
+        "path": "java.svg"
+    },
+    {
+        "ext": [
+            "php",
+            "php3",
+            "php4",
+            "php5",
+            "php7",
+            "phps",
+            "phtml",
+            "inc",
+            "phar"
+        ],
+        "path": "php.svg"
+    },
+    {
+        "ext": [
+            "rb",
+            "rhtml",
+            "rjs",
+            "rxml",
+            "erb",
+            "rake",
+            "spec",
+            "gemspec",
+            "ru",
+            "thor",
+            "irb",
+            "builder",
+            "jbuilder",
+            "fcgi",
+            "cgi",
+            "fastcgi",
+            "fcgi",
+            "gemfile",
+            "gemfile.lock",
+            "ru"
+        ],
+        "path": "ruby.svg"
+    },
+    {
+        "ext": [
+            "sh",
+            "bash",
+            "zsh",
+            "fish",
+            "bashrc",
+            "bash_profile",
+            "bash_aliases",
+            "bash_functions",
+            "bash_login",
+            "bash_logout",
+            "profile",
+            "bash_history"
+        ],
+        "path": "shell.svg"
+    },
+    {
+        "ext": [
+            "ts",
+            "tsx"
+        ],
+        "path": "typescript.svg"
+    },
+    {
+        "ext": [
+            "tex",
+            "sty",
+            "cls",
+            "bib",
+            "aux",
+            "bbl",
+            "blg",
+            "dtx",
+            "ins",
+            "lbx",
+            "ltx",
+            "mkii",
+            "mkiv",
+            "mkvi",
+            "mkix",
+            "mkxi",
+            "mkxii",
+            "mkx",
+            "mk",
+            "pdf",
+            "sty",
+            "texi",
+            "texinfo",
+            "tikz",
+            "toc",
+            "tpm",
+            "vrb",
+            "xmpi",
+            "xmpdata"
+        ],
+        "path": "latex.svg"
+    },
+    {
+        "ext": [
+            "ttf",
+            "otf",
+            "woff",
+            "woff2",
+            "eot",
+            "sfnt",
+            "pfm",
+            "afm",
+            "ttc"
+        ],
+        "path": "font.svg"
+    },
+    {
+        "ext": [
+            "dockerfile"
+        ],
+        "path": "docker.svg"
+    },
+    {
+        "ext": [
+            "license"
+        ],
+        "path": "license.svg"
+    },
+    {
+        "ext": [
+            "psd"
+        ],
+        "path": "photoshop.svg"
+    }
+]

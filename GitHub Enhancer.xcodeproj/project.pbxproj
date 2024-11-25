@@ -1,0 +1,906 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		937A60A92CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 937A60A82CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		937A60B32CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 937A60B22CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		937A60AA2CEA7CB900E0AB58 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 937A606E2CEA7CB700E0AB58 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 937A60A72CEA7CB900E0AB58;
+			remoteInfo = "GitHub Enhancer Extension (iOS)";
+		};
+		937A60B42CEA7CB900E0AB58 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 937A606E2CEA7CB700E0AB58 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 937A60B12CEA7CB900E0AB58;
+			remoteInfo = "GitHub Enhancer Extension (macOS)";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		937A60DC2CEA7CB900E0AB58 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				937A60A92CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60E62CEA7CB900E0AB58 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				937A60B32CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		937A608A2CEA7CB900E0AB58 /* GitHub Enhancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Enhancer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		937A609C2CEA7CB900E0AB58 /* GitHub Enhancer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Enhancer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		937A60A82CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "GitHub Enhancer Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		937A60B22CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "GitHub Enhancer Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		937A60D72CEA7CB900E0AB58 /* Exceptions for "Shared (App)" folder in "GitHub Enhancer (iOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: Resources/Main.html",
+				Assets.xcassets,
+				Resources/Icon.png,
+				Resources/Script.js,
+				Resources/Style.css,
+				ViewController.swift,
+			);
+			target = 937A60892CEA7CB900E0AB58 /* GitHub Enhancer (iOS) */;
+		};
+		937A60DB2CEA7CB900E0AB58 /* Exceptions for "iOS (Extension)" folder in "GitHub Enhancer Extension (iOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 937A60A72CEA7CB900E0AB58 /* GitHub Enhancer Extension (iOS) */;
+		};
+		937A60E02CEA7CB900E0AB58 /* Exceptions for "iOS (App)" folder in "GitHub Enhancer (iOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 937A60892CEA7CB900E0AB58 /* GitHub Enhancer (iOS) */;
+		};
+		937A60E12CEA7CB900E0AB58 /* Exceptions for "Shared (App)" folder in "GitHub Enhancer (macOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"/Localized: Resources/Main.html",
+				Assets.xcassets,
+				Resources/Icon.png,
+				Resources/Script.js,
+				Resources/Style.css,
+				ViewController.swift,
+			);
+			target = 937A609B2CEA7CB900E0AB58 /* GitHub Enhancer (macOS) */;
+		};
+		937A60E52CEA7CB900E0AB58 /* Exceptions for "macOS (Extension)" folder in "GitHub Enhancer Extension (macOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 937A60B12CEA7CB900E0AB58 /* GitHub Enhancer Extension (macOS) */;
+		};
+		937A60EA2CEA7CB900E0AB58 /* Exceptions for "Shared (Extension)" folder in "GitHub Enhancer Extension (iOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Resources/_locales,
+				Resources/background.js,
+				Resources/content.js,
+				Resources/data,
+				Resources/images,
+				Resources/manifest.json,
+				Resources/popup.css,
+				Resources/popup.html,
+				Resources/popup.js,
+				SafariWebExtensionHandler.swift,
+			);
+			target = 937A60A72CEA7CB900E0AB58 /* GitHub Enhancer Extension (iOS) */;
+		};
+		937A60EB2CEA7CB900E0AB58 /* Exceptions for "Shared (Extension)" folder in "GitHub Enhancer Extension (macOS)" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Resources/_locales,
+				Resources/background.js,
+				Resources/content.js,
+				Resources/data,
+				Resources/images,
+				Resources/manifest.json,
+				Resources/popup.css,
+				Resources/popup.html,
+				Resources/popup.js,
+				SafariWebExtensionHandler.swift,
+			);
+			target = 937A60B12CEA7CB900E0AB58 /* GitHub Enhancer Extension (macOS) */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		937A60722CEA7CB800E0AB58 /* Shared (App) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				937A60D72CEA7CB900E0AB58 /* Exceptions for "Shared (App)" folder in "GitHub Enhancer (iOS)" target */,
+				937A60E12CEA7CB900E0AB58 /* Exceptions for "Shared (App)" folder in "GitHub Enhancer (macOS)" target */,
+			);
+			path = "Shared (App)";
+			sourceTree = "<group>";
+		};
+		937A607B2CEA7CB900E0AB58 /* Shared (Extension) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				937A60EA2CEA7CB900E0AB58 /* Exceptions for "Shared (Extension)" folder in "GitHub Enhancer Extension (iOS)" target */,
+				937A60EB2CEA7CB900E0AB58 /* Exceptions for "Shared (Extension)" folder in "GitHub Enhancer Extension (macOS)" target */,
+			);
+			explicitFolders = (
+				Resources/_locales,
+				Resources/data,
+				Resources/images,
+			);
+			path = "Shared (Extension)";
+			sourceTree = "<group>";
+		};
+		937A608C2CEA7CB900E0AB58 /* iOS (App) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				937A60E02CEA7CB900E0AB58 /* Exceptions for "iOS (App)" folder in "GitHub Enhancer (iOS)" target */,
+			);
+			path = "iOS (App)";
+			sourceTree = "<group>";
+		};
+		937A609D2CEA7CB900E0AB58 /* macOS (App) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "macOS (App)";
+			sourceTree = "<group>";
+		};
+		937A60AC2CEA7CB900E0AB58 /* iOS (Extension) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				937A60DB2CEA7CB900E0AB58 /* Exceptions for "iOS (Extension)" folder in "GitHub Enhancer Extension (iOS)" target */,
+			);
+			path = "iOS (Extension)";
+			sourceTree = "<group>";
+		};
+		937A60B62CEA7CB900E0AB58 /* macOS (Extension) */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				937A60E52CEA7CB900E0AB58 /* Exceptions for "macOS (Extension)" folder in "GitHub Enhancer Extension (macOS)" target */,
+			);
+			path = "macOS (Extension)";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		937A60872CEA7CB900E0AB58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60992CEA7CB900E0AB58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60A52CEA7CB900E0AB58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60AF2CEA7CB900E0AB58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		937A606D2CEA7CB700E0AB58 = {
+			isa = PBXGroup;
+			children = (
+				937A60722CEA7CB800E0AB58 /* Shared (App) */,
+				937A607B2CEA7CB900E0AB58 /* Shared (Extension) */,
+				937A608C2CEA7CB900E0AB58 /* iOS (App) */,
+				937A609D2CEA7CB900E0AB58 /* macOS (App) */,
+				937A60AC2CEA7CB900E0AB58 /* iOS (Extension) */,
+				937A60B62CEA7CB900E0AB58 /* macOS (Extension) */,
+				937A608B2CEA7CB900E0AB58 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		937A608B2CEA7CB900E0AB58 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				937A608A2CEA7CB900E0AB58 /* GitHub Enhancer.app */,
+				937A609C2CEA7CB900E0AB58 /* GitHub Enhancer.app */,
+				937A60A82CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */,
+				937A60B22CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		937A60892CEA7CB900E0AB58 /* GitHub Enhancer (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 937A60DD2CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer (iOS)" */;
+			buildPhases = (
+				937A60862CEA7CB900E0AB58 /* Sources */,
+				937A60872CEA7CB900E0AB58 /* Frameworks */,
+				937A60882CEA7CB900E0AB58 /* Resources */,
+				937A60DC2CEA7CB900E0AB58 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				937A60AB2CEA7CB900E0AB58 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				937A608C2CEA7CB900E0AB58 /* iOS (App) */,
+			);
+			name = "GitHub Enhancer (iOS)";
+			packageProductDependencies = (
+			);
+			productName = "GitHub Enhancer (iOS)";
+			productReference = 937A608A2CEA7CB900E0AB58 /* GitHub Enhancer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		937A609B2CEA7CB900E0AB58 /* GitHub Enhancer (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 937A60E72CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer (macOS)" */;
+			buildPhases = (
+				937A60982CEA7CB900E0AB58 /* Sources */,
+				937A60992CEA7CB900E0AB58 /* Frameworks */,
+				937A609A2CEA7CB900E0AB58 /* Resources */,
+				937A60E62CEA7CB900E0AB58 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				937A60B52CEA7CB900E0AB58 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				937A609D2CEA7CB900E0AB58 /* macOS (App) */,
+			);
+			name = "GitHub Enhancer (macOS)";
+			packageProductDependencies = (
+			);
+			productName = "GitHub Enhancer (macOS)";
+			productReference = 937A609C2CEA7CB900E0AB58 /* GitHub Enhancer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		937A60A72CEA7CB900E0AB58 /* GitHub Enhancer Extension (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 937A60D82CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer Extension (iOS)" */;
+			buildPhases = (
+				937A60A42CEA7CB900E0AB58 /* Sources */,
+				937A60A52CEA7CB900E0AB58 /* Frameworks */,
+				937A60A62CEA7CB900E0AB58 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				937A60AC2CEA7CB900E0AB58 /* iOS (Extension) */,
+			);
+			name = "GitHub Enhancer Extension (iOS)";
+			packageProductDependencies = (
+			);
+			productName = "GitHub Enhancer Extension (iOS)";
+			productReference = 937A60A82CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+		937A60B12CEA7CB900E0AB58 /* GitHub Enhancer Extension (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 937A60E22CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer Extension (macOS)" */;
+			buildPhases = (
+				937A60AE2CEA7CB900E0AB58 /* Sources */,
+				937A60AF2CEA7CB900E0AB58 /* Frameworks */,
+				937A60B02CEA7CB900E0AB58 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				937A60B62CEA7CB900E0AB58 /* macOS (Extension) */,
+			);
+			name = "GitHub Enhancer Extension (macOS)";
+			packageProductDependencies = (
+			);
+			productName = "GitHub Enhancer Extension (macOS)";
+			productReference = 937A60B22CEA7CB900E0AB58 /* GitHub Enhancer Extension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		937A606E2CEA7CB700E0AB58 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					937A60892CEA7CB900E0AB58 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					937A609B2CEA7CB900E0AB58 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					937A60A72CEA7CB900E0AB58 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					937A60B12CEA7CB900E0AB58 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+				};
+			};
+			buildConfigurationList = 937A60712CEA7CB700E0AB58 /* Build configuration list for PBXProject "GitHub Enhancer" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 937A606D2CEA7CB700E0AB58;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 937A608B2CEA7CB900E0AB58 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				937A60892CEA7CB900E0AB58 /* GitHub Enhancer (iOS) */,
+				937A609B2CEA7CB900E0AB58 /* GitHub Enhancer (macOS) */,
+				937A60A72CEA7CB900E0AB58 /* GitHub Enhancer Extension (iOS) */,
+				937A60B12CEA7CB900E0AB58 /* GitHub Enhancer Extension (macOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		937A60882CEA7CB900E0AB58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A609A2CEA7CB900E0AB58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60A62CEA7CB900E0AB58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60B02CEA7CB900E0AB58 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		937A60862CEA7CB900E0AB58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60982CEA7CB900E0AB58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60A42CEA7CB900E0AB58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		937A60AE2CEA7CB900E0AB58 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		937A60AB2CEA7CB900E0AB58 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 937A60A72CEA7CB900E0AB58 /* GitHub Enhancer Extension (iOS) */;
+			targetProxy = 937A60AA2CEA7CB900E0AB58 /* PBXContainerItemProxy */;
+		};
+		937A60B52CEA7CB900E0AB58 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 937A60B12CEA7CB900E0AB58 /* GitHub Enhancer Extension (macOS) */;
+			targetProxy = 937A60B42CEA7CB900E0AB58 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		937A60D92CEA7CB900E0AB58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer.Extension";
+				PRODUCT_NAME = "GitHub Enhancer Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		937A60DA2CEA7CB900E0AB58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer.Extension";
+				PRODUCT_NAME = "GitHub Enhancer Extension";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		937A60DE2CEA7CB900E0AB58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer";
+				PRODUCT_NAME = "GitHub Enhancer";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		937A60DF2CEA7CB900E0AB58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "iOS (App)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer";
+				PRODUCT_NAME = "GitHub Enhancer";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		937A60E32CEA7CB900E0AB58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/GitHub Enhancer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer.Extension";
+				PRODUCT_NAME = "GitHub Enhancer Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		937A60E42CEA7CB900E0AB58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "macOS (Extension)/GitHub Enhancer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "macOS (Extension)/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer Extension";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@executable_path/../../../../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer.Extension";
+				PRODUCT_NAME = "GitHub Enhancer Extension";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		937A60E82CEA7CB900E0AB58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/GitHub Enhancer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer";
+				PRODUCT_NAME = "GitHub Enhancer";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		937A60E92CEA7CB900E0AB58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "macOS (App)/GitHub Enhancer.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = SAR93BUHA2;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "GitHub Enhancer";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-framework",
+					SafariServices,
+					"-framework",
+					WebKit,
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Zeyu-Xie.GitHub-Enhancer";
+				PRODUCT_NAME = "GitHub Enhancer";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		937A60EC2CEA7CB900E0AB58 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		937A60ED2CEA7CB900E0AB58 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		937A60712CEA7CB700E0AB58 /* Build configuration list for PBXProject "GitHub Enhancer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				937A60EC2CEA7CB900E0AB58 /* Debug */,
+				937A60ED2CEA7CB900E0AB58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		937A60D82CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer Extension (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				937A60D92CEA7CB900E0AB58 /* Debug */,
+				937A60DA2CEA7CB900E0AB58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		937A60DD2CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				937A60DE2CEA7CB900E0AB58 /* Debug */,
+				937A60DF2CEA7CB900E0AB58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		937A60E22CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer Extension (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				937A60E32CEA7CB900E0AB58 /* Debug */,
+				937A60E42CEA7CB900E0AB58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		937A60E72CEA7CB900E0AB58 /* Build configuration list for PBXNativeTarget "GitHub Enhancer (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				937A60E82CEA7CB900E0AB58 /* Debug */,
+				937A60E92CEA7CB900E0AB58 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 937A606E2CEA7CB700E0AB58 /* Project object */;
+}
