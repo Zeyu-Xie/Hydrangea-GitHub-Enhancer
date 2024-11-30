@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1707 1707">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 36px;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Page-1">
+    <g id="Group">
+      <rect id="white-background" class="st1" x="-4787.5" y="-4784" width="45624" height="78038"/>
+      <g id="black-logotypes">
+        <g id="logotype">
+          <g id="logo">
+            <circle id="left-eye" cx="452.5" cy="489" r="27"/>
+            <circle id="right-eye" cx="552.5" cy="489" r="27"/>
+            <path id="wing" class="st0" d="M1212.5,219l-400,400"/>
+            <path id="tail-middle" class="st0" d="M1412.5,319l-200,200"/>
+            <path id="tail-top" class="st0" d="M1412.5,219l-200,200"/>
+            <path id="head-middle" class="st0" d="M712.5,219l-200,200"/>
+            <path id="head-right" class="st0" d="M812.5,219l-200,200"/>
+            <path id="body" class="st0" d="M612.5,219l-400,400h200v200c0,220,180,400,400,400s400-180,400-400v-200l200-200"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

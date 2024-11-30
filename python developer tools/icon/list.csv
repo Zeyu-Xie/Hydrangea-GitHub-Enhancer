@@ -15,17 +15,17 @@ ACO, Adobe Color Palette Format file., Use with Adobe Photoshop.,photoshop
 ADT, German Standard for Medical Data., Use ADT for Healthcare Claims.,/
 ADX, AXIS Data Exchange Format, Archetype Designer.,/
 ADZ, File compression format for Amiga., Use with Amiga disk imaging tools.,archive
-AGDA, A formal verification programming language., Use AGDA for Agda development.,agda
+AGDA, A formal verification programming language., Use AGDA for Agda development.,/
 AGR, Geographic Information System (GIS) extension., ArcGIS with ASCII Grids Extension.,/
-AHK, Script file for AutoHotkey., Use for scripting automation tasks.,ahk
+AHK, Script file for AutoHotkey., Use for scripting automation tasks.,/
 AI, Adobe Illustrator AI File Extension., Use Adobe Illustrator's AI Trace tool.,archive
 AIFF, Professional audio file format standard., Use AIFF in professional recording.,audio
 AIFC, Portable audio file format standard., Use AIFC for audio compression.,audio
 AIO, American International File Format., APL/800 file transfer protocol.,/
 AMF, Standard for Computer-Aided Design files., Use with CAD/CAE design software.,/
 AMG, System Image File for ACTOR., AMG is used for SystemC.,/
-AML, Automation Markup Language (AML) standard., Use AML for Automation and Testing.,aml
-AMLX, Automation Markup Language (AMLX) file., Use AMLX for compressed files automation.,amlx
+AML, Automation Markup Language (AML) standard., Use AML for Automation and Testing.,/
+AMLX, Automation Markup Language (AMLX) file., Use AMLX for compressed files automation.,/
 AMPL, Linear programming optimization software., Use for nonlinear optimization problems.,/
 AMR, Adaptive Multi-Rate (AMR) AudioCodec., Use AMR for VoIP streaming.,/
 AMV, Action Movie Video format., YouTube Video Player Extension.,video
@@ -33,14 +33,14 @@ ANI, Animation Interface Animation Extension., Use ANI file with Windows.,video
 ANN, Annotation Markup Neutral file format., Use ANN in Windows XP.,/
 APE, Monkey's Audio lossless audio player., Use APE for lossless audio playback.,audio
 APK, File format for Android apps., Use APK to install Android apps.,android
-APK, Linux package file format type., Use APK Manager on Alpine Linux.,apk
+APK, Linux package file format type., Use APK Manager on Alpine Linux.,android
 ARC, A proprietary file format software., Use ARC for Mac archives.,archive
 ART, Gerber file format editor extension., Use ART for Cadence Allegro.,/
 ASAX, Global.asax is ASP.NET's main file., Use with ASP.NET web applications.,net
 ASCX, Advanced Server Components User Control., Use ASP.NET ASCX User Control.,/
 ASF, Digital container for compressed media., Use with Microsoft Windows Media Player.,video
 ASHX, ASP.NET Handler File Extension., Use with ASP.NET handler files.,net
-ASM, Assembly languages programming syntax guide., Use NASM for low-level programming.,assembly
+ASM, Assembly languages programming syntax guide., Use NASM for low-level programming.,/
 ASPX, Active Server Page template file., Use for ASP.NET web development projects.,net
 ASX, Redirects files to ASVF format., Use ASX forASF audio playback.,/
 ATG, Coco/R ATG parser generator., Use for parsing Coco/R grammars.,/
@@ -48,11 +48,11 @@ AT3, Atrac 3 audio codec extension., Use AT3 on ATRAC3 files.,audio
 AU, Audion file container format used., Use AU format for audio files.,audio
 AVI, Container format for compressed video., Use AVI for playing video files.,video
 AVIF, Audio Video Interleave Format., Use AVIF for efficient images.,image
-AWK, Scripting language for data processing., Use for data processing and manipulation.,awk
+AWK, Scripting language for data processing., Use for data processing and manipulation.,/
 AX, AX Audio/Video filter for DirectShow., Use in Microsoft DirectShow filters.,/
 AXF, Lightweight geodatabase for ArcPad., Use AXF with ArcPad offline.,/
 B, Basic programming language compiler extension., Use BASIC interpreter for coding.,basic
-B, Bash completion for bc language., Use with Unix 'bc' command.,bc
+B, Bash completion for bc language., Use with Unix 'bc' command.,/
 B64, Base64 text encoder and decoder., Encoding base64 binary files online.,base64
 BAK, Backup file format extension BAK., Use BAK for backup purposes.,/
 BAR, Compressed archive for IBM deployment., Use BAR for IBM app deployment.,archive
@@ -78,7 +78,7 @@ CPP, Compiles C++ Source Code Extensions., Use CPP in C/C++.,cpp
 Config, Stores application configuration settings., Use Config for configuration management.,/
 C32, C32 is SYSLINUX executable format., Use for booting 32-bit executables.,/
 CAB, File archiver for CAB files., Use CAB for Windows archives.,archive
-CBL, Common Business Language specification format., COBOL compiler for CBL extension.,cobol
+CBL, Common Business Language specification format., COBOL compiler for CBL extension.,/
 CBT, Bootable ISO for CBT boot., Use CBT for SYSLINUX installation.,/
 CC, C++ compiler and development tool., Compile C and C++ source files.,c
 CD, Class Diagram File Format Extension., Class Diagram File Generator Tool.,/
@@ -101,7 +101,7 @@ CML, Standard for exchanging chemical data., Use CML for cheminformatics.,/
 CMOD, Celestia model file format extension., Use CMOD for Celestia Models.,/
 CN1, CN1 is an IALX specification., Use CN1 for MITRE ATT&CK analysis.,/
 CNOFF, No-Off File Format for 3D objects., Use CNOFF for 3D model data.,3d
-COB, Old COBOL programming language compiler., Use GnuCOBOL for COBOL development.,cobol
+COB, Old COBOL programming language compiler., Use GnuCOBOL for COBOL development.,/
 COE, Xilinx COE coefficient file format., Xilinx ISE Coefficient File Editor.,/
 COFF, 3D object file format (.OFF), Use it with 3D modeling software.,3d
 COL, Graph data format COL DIMACS., Use COL for graph analysis tools.,image
@@ -213,16 +213,16 @@ EXP, EXDRAWN vector graphics file format., Use EXP in CAD software.,svg
 EXP, Embroidery file format specification., Use EXP with Embroidermodder software.,/
 EXR, OpenEXR raster image format., OpenEXR image format extension.,image
 EXS, Elixir interactive development environment executable., Elixir interactive shell (IEx).,/
-F, Forth development environment and compiler., Install F-Script for Forth environment.,forth
-F, Fortran source code file extension., Use Fortran Editor in IDE.,fortran
+F, Forth development environment and compiler., Install F-Script for Forth environment.,/
+F, Fortran source code file extension., Use Fortran Editor in IDE.,/
 F01, Fax scan correction software extension., Use F01 Fax Manager Extension.,/
 F03, Fortran source code file format., Use F03 in IDEs supporting it,/
-F08, F08 is Fortran 90 source code., Use F08 for Fortran source files.,fortran
-F18, Fortran 18 compiler source file format., F18 Fortran Compiler for VS Code.,f18
-F4, Fortran Source Code File Extension, Use F4 with Fortran files.,fortran
+F08, F08 is Fortran 90 source code., Use F08 for Fortran source files.,/
+F18, Fortran 18 compiler source file format., F18 Fortran Compiler for VS Code.,/
+F4, Fortran Source Code File Extension, Use F4 with Fortran files.,/
 F4V, Container format for Flash video., Use F4V for Adobe Flash.,video
-F77, Fortran source code file format., Use F77 with older Fortran compilers.,fortran
-F90, Fortran source code file extension., Use F90 with Fortran compiler.,fortran
+F77, Fortran source code file format., Use F77 with older Fortran compilers.,/
+F90, Fortran source code file extension., Use F90 with Fortran compiler.,/
 F95, Fortran source code file format., Emacs F95 mode for coding.,/
 FA, Format for genetic sequence data., Use with FASTA sequence files.,/
 FAA, Sequence analysis file format standard., BLAST for protein sequence analysis.,/
@@ -252,7 +252,7 @@ FODG, Extension for OpenDocument Flat drawings., Use FODG with LibreOffice.,imag
 FODP, Flat XML presentation format standard., Use FODP with LibreOffice.,xml
 FODS, OpenDocument Format (ODF) Spreadsheet Extension., Use FODS with LibreOffice.,/
 FODT, OpenDocument Flat XML Format., Use FODT for OpenDocument documents.,xml
-FOR, Extension for Fortran source files., Use in Fortran source files.,fortran
+FOR, Extension for Fortran source files., Use in Fortran source files.,/
 FQL, Fauna Query Language source code., Fauna Database Query Language extension.,fauna
 Freq, Format for Match-n-Freq software inputs., Use Freq with sequence alignment.,/
 FRAG, Small executable fragment file., Use FRAG on MOVPKG files.,/
@@ -387,7 +387,7 @@ LWO, LightWave Object file format., Use LWO with LightWave software.,/
 LZ, Lossless data compression algorithm., Use with compressed archives only.,archive
 M, Mathematica package file format., Use Mathematica Package Manager (M).,mathematica
 M, MATLAB Script Editor Extension., MATLAB M-file editing and debugging tool.,matlab
-M, M: Mercury Source Code Editor Extension., Use with Mercury compiler for Assembly.,assembly
+M, M: Mercury Source Code Editor Extension., Use with Mercury compiler for Assembly.,/
 M, Macros in Objective-C compiler., Use Mac's Terminal app Xcode.,objectivec
 M2TS, Digital multimedia container format., Use for M2TS video playback.,/
 M3U, Playlist file format for media., Playlists for media players.,video
@@ -655,7 +655,7 @@ RTF, Rich Text Format document., Use RTF for document formatting.,text
 RUA, RSA algorithm variant implementation., Use RUA for encryption purposes.,/
 RUN, Runs Ampl script files command., Ampl run statement for execution.,/
 RUN, Self-extracting archive tool runner., 7-Zip's RUN command for extraction.,archive
-S, File extension for Assembler code., S is typically used for NASM.,assembler
+S, File extension for Assembler code., S is typically used for NASM.,/
 S3M, Modular tracker music format software., Use S3M with Scream Tracker.,audio
 S7I, Seed7 compiler and interpreter tool., Use Seed7 with S7I Extension.,/
 SAIF, Digital format for geographic archives., Use SAIF for spatial data exchange.,archive
@@ -689,7 +689,7 @@ SHAR, Self-extracting archives with Unix support., Use SHAR for Unix archives.,a
 SHTM, Server-Side Included HTML Template File., Use SHTM with Server Side Includes.,html
 SHTML, HTML file with server-side includes., Use with SSI (Server Side Includes) enabled files on a web server.,html
 SHX, AutoCAD Shape Entity File Format., Use SHX for AutoCAD shapes.,cad
-SIC, Symbolic Instruction Code for Assembly., Use SIC for 8-bit assembly languages.,assembly
+SIC, Symbolic Instruction Code for Assembly., Use SIC for 8-bit assembly languages.,/
 SIG, GPG signature verification tool plugin., Use with GPG for secure signing.,/
 SL, Source language for S-Lang scripts., S-Lang is used for scripting.,slang
 SLDASM, SolidWorks Assembly Viewer Extension., Use SLDASM for SolidWorks assemblies.,solidworks
