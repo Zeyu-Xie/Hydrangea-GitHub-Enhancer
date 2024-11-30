@@ -57,7 +57,7 @@ B64, Base64 text encoder and decoder., Encoding base64 binary files online.,base
 BAK, Backup file format extension BAK., Use BAK for backup purposes.,/
 BAR, Compressed archive for IBM deployment., Use BAR for IBM app deployment.,archive
 BAS, BAS File Format for BASIC languages., Use for QuickBASIC or GW-BASIC.,basic
-BAT, Simple text editor for commands., Use BAT for MS-DOS commands.,bat
+BAT, Simple text editor for commands., Use BAT for MS-DOS commands.,shell
 BDF, Format for storing bitmap fonts., Use BDF with Adobe TypeManager.,font
 BDT, German healthcare transfer protocol standard., Use BDT for medical data transfer.,/
 BEAM, Erlang virtual machine format., Use BEAM for Erlang programs.,erlang
@@ -95,8 +95,8 @@ CIA, Homebrew CIA Emulator Cartridge System., Use CIP for ROM decryption.,/
 CIF, Format for crystal structure data., Visualize crystal structures with RasMol/Jmol.,/
 CLASS, Java Class File Format Specification., Use CLASS command for Java files.,java
 CLS, Common Large Scale Object (CLS) format., Class file in ooRexx programming.,/
-CMD, Microsoft Command-Line Interface (CLI) tool., Use for running batch files.,cli
-CMD, Command-Line Monitor for CP/M-86., Use CMD on CP/M-86 systems.,cmd
+CMD, Microsoft Command-Line Interface (CLI) tool., Use for running batch files.,shell
+CMD, Command-Line Monitor for CP/M-86., Use CMD on CP/M-86 systems.,shell
 CML, Standard for exchanging chemical data., Use CML for cheminformatics.,/
 CMOD, Celestia model file format extension., Use CMOD for Celestia Models.,/
 CN1, CN1 is an IALX specification., Use CN1 for MITRE ATT&CK analysis.,/
@@ -124,7 +124,7 @@ CSV, Text File Format for Data., Use CSV for data import/export.,text
 CUB, Format for Electronic Structure Data., Quantum Chemistry and Molecular Modeling.,/
 CUBE, 3D object file format., Use CUBE for Autodesk 3ds Max modeling.,3d
 CUR, Standard System Cursor Extension., Replace ICO with CUR file.,/
-D, Dynamic Data Types D programming., Use DMD compiler for Dlang.,d
+D, Dynamic Data Types D programming., Use DMD compiler for Dlang.,/
 D, Directory for Unix system config files., Use in Unix shell scripts.,/
 DAA, Digital Archival Asset storage system., Use DAA for ISO archives.,archive
 DAE, 3D Modeling File Format Extension., Use with Blender 3D modeling software.,3d
@@ -139,7 +139,7 @@ DAT, Imaging data for disk partitioning., Use DAT for disk imaging.,/
 DAT, File format for optical discs., Use with cdrdao and burn at once.,/
 DAT, Digital Audio Tracks for Video., Watch DAT files with VLC.,video
 DAT, Registry file extension format., Use DAT file for registry editing.,/
-DATS, Data Access Template System software, Use DATS for dynamic testing.,dataset
+DATS, Data Access Template System software, Use DATS for dynamic testing.,database
 DB, SQLite database management tool browser., Use DB Browser with SQLite files.,database
 DBA, Dark Basic Action Game Engine., Use DBA with Dark Basic.,/
 DBC, AB Initio DBC file format., Use with Ab Initio Database.,database
@@ -173,8 +173,8 @@ DWF, Autodesk Design Web Format (.dwf), Use DWF for Autodesk designs.,/
 DWG, Drawing file format standard vector., Use DWG for AutoCAD files.,cad
 DX, DirectX is Microsoft graphics API., Use DX for J2ME games.,/
 DXF, Standard file format for CAD drawings., Use with CAD software applications.,cad
-E, ELisp programming language dialect.,  Emacs is the recommended solution.,elisp
-E##, EnCase Evidence File chunk format., Use EnCase Forensics with E##,encase
+E, ELisp programming language dialect.,  Emacs is the recommended solution.,/
+E##, EnCase Evidence File chunk format., Use EnCase Forensics with E##,/
 E00, ArcGIS exchange format file., ArcGIS Pro file format (.gpx).,/
 E2D, File format used by JFire., Use with JFire game engine.,/
 e57, ASCII 3D Point Cloud Format., e57 file format by Autodesk.,3d
@@ -185,8 +185,8 @@ EDE, Disks created by Ensoniq EPS., Use EDE for disk imaging.,/
 EDF, Medical Timeseries Storage Files Format., Use EDF in medical research.,/
 EFI, Standard for firmware interface protocols., BIOS replacement firmware interface.,/
 EIS, Spectrum Analyser Software Development Tool., Use EIS for Power System Analysis.,/
-EL, Emacs Lisp source code file., Use in Emacs Lisp development environment.,emacs
-ELC, Emacs Lisp Compiler Extension (ELEC)., ELC is Emacs compiled code.,emacs
+EL, Emacs Lisp source code file., Use in Emacs Lisp development environment.,/
+ELC, Emacs Lisp Compiler Extension (ELEC)., ELC is Emacs compiled code.,/
 ELF, Executable and Linkable File Format., Use ELF viewer on Linux systems.,/
 EMAIL, Email client for message storage., Use EMAIL Extension for Email.,email
 EMAKER, Editor for E language source code., Use EMaker for embedded C development.,e
@@ -207,7 +207,7 @@ ESD, Windows Embedded System Disk image., Use ESD with DISM utility.,/
 ETL, Event Trace Log (ETL) File., Use ETL for log analysis.,text
 EVT, Windows Event Log File System., Windows Event Viewer (EVTC).,/
 EVTX, Windows Event Log File Format., Use EVTX for Windows Event Logs.,/
-EX, Elixir source code file ext., Use EEX for BEAM bytecode files.,elixir
+EX, Elixir source code file ext., Use EEX for BEAM bytecode files.,/
 EXE, File format for standalone programs., Use with Microsoft Windows systems.,binary
 EXP, EXDRAWN vector graphics file format., Use EXP in CAD software.,svg
 EXP, Embroidery file format specification., Use EXP with Embroidermodder software.,/
@@ -238,11 +238,11 @@ FEN, Standard notation for chess positions., Use FEN in Chess software.,chess
 FF, Farbfeld is a color palette., Farbfeld (Palm OS) image viewer.,image
 FFAPX, FrontFace digital signage software plugin., Use for digital signage playback.,/
 FFN, FASTA format for nucleotides., Use FFN with FASTA parser.,/
-Fit, CurvFit input and output format., Use for CurvFit software compatibility.,curvfit
+Fit, CurvFit input and output format., Use for CurvFit software compatibility.,/
 FITS, Astronomical image processing and transfer., Use Fits for astronomical data.,/
 FLAC, Lossless audio compression and encoding., Use FLAC for audio compression.,audio
 FLAME, Apophysis fractal image editor extension., Use FLAME for Apophysis fractals.,image
-FLP, File format for FL Studio projects., Use FL Studio with FLP files.,flp
+FLP, File format for FL Studio projects., Use FL Studio with FLP files.,/
 FLV, Container format for Flash video., Use FLV for playing Flash videos.,video
 FMU, Standard for model exchange interfaces., Model Exchange and Co-Simulation.,/
 FNA, Fasta file format for nucleic acids., Use FNA for nucleotide data,/
@@ -253,15 +253,15 @@ FODP, Flat XML presentation format standard., Use FODP with LibreOffice.,xml
 FODS, OpenDocument Format (ODF) Spreadsheet Extension., Use FODS with LibreOffice.,/
 FODT, OpenDocument Flat XML Format., Use FODT for OpenDocument documents.,xml
 FOR, Extension for Fortran source files., Use in Fortran source files.,/
-FQL, Fauna Query Language source code., Fauna Database Query Language extension.,fauna
+FQL, Fauna Query Language source code., Fauna Database Query Language extension.,/
 Freq, Format for Match-n-Freq software inputs., Use Freq with sequence alignment.,/
 FRAG, Small executable fragment file., Use FRAG on MOVPKG files.,/
 FRM, FRM is MySQL database metadata file., Use FRM for MySQL metadata.,database
 Frq7, Frequency response analysis software., I couldn't find information about that.,/
-FS, F# programming language compiler extension., F# compiler development and editing.,fs
+FS, F# programming language compiler extension., F# compiler development and editing.,/
 FS, Forth source code file extension., Use for Forth Development Systems.,forth
 FTH, Forth is an interpreted programming language., Use FTH for Forth source files.,forth
-G4, Grammar for ANTLR4 language model., Use for ANTLR4 grammar validation.,antlr4
+G4, Grammar for ANTLR4 language model., Use for ANTLR4 grammar validation.,/
 G6, Graph data storage format G6., Graph6 (G6) for graph data.,image
 GB, Format for molecular biology data., Use in bioinformatics database workbench.,database
 GBK, GBK encoding for Chinese characters., Chinese input method for Windows.,gbk
@@ -681,7 +681,7 @@ SED, IExpress file format specification., Use for self-extracting archives files
 SEQ, Tiertex Video Sequence Format., Use SEQ for Tiertex video sequences.,video
 SERIES, Series Distiller encryption library module., Series Distiller for encrypted data.,/
 SF, Java Application Signing Extension., Use SF for JAR file signing.,java
-SFB, Emacs SFB Configuration File Handler., Use for Emacs Configuration Files.,emacs
+SFB, Emacs SFB Configuration File Handler., Use for Emacs Configuration Files.,/
 SFH, Backup file for Strike Force Heroes., Use SFH for Strike Force Heroes.,/
 SFX, Self-extracting archive and compression tool., Extract RAR and ZIP files.,archive
 SH, Scripting language for Unix systems., Use in Unix Shell Scripting.,shell
@@ -727,7 +727,7 @@ STORY, AOL Instant Messenger Story Filter Extension., Use STORY for data anonymi
 STP, Data exchange standard for CAD., Use STP with CAD software.,cad
 STW, Template for OpenOffice Writer documents., Use STW add-on in OpenOffice Writer.,/
 STX, XML-based script for Story Distiller., Adobe Story (formerly known as StoryDistiller).,xml
-SUR, Digital elevation model terrain dataset., Use SUR in QGIS Terrain.,dataset
+SUR, Digital elevation model terrain dataset., Use SUR in QGIS Terrain.,database
 SVC, ServiceHost process identifier., Use with IIS (Internet Services).,/
 SVELTE, Svelte: A Svelte compiler extension., Use SVELTE for Svelte Source Code.,svelte
 SVG, Two-dimensional graphics vector format., Use for vector graphics design.,svg
