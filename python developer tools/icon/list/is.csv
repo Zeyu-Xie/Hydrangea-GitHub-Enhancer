@@ -752,6 +752,7 @@ TBZ, The file extension TBZ is RAR archive., Use TBZ for ZIP archives.,archive
 TBZ2, The TBZ2 format is archive., Use on Mozilla Firefox browser.,archive
 TC, Saturn CMS theme color settings., Use TC for Saturn CMS theme.,/
 TER, Open-source terragen scenery generator., Terragen Scenery Generator Extension.,/
+TEX, LaTeX document file format., Use TEX with LaTeX documents.,latex
 TGA, Truevision TGA raster graphics format., Use with graphics editing software.,image
 TGT, Windows Defender Target Configuration File., Use TGT with Symantec Endpoint.,/
 TGZ, compressed tarball file format., Use TGZ for Compressed Archives.,archive

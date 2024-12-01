@@ -6,11 +6,12 @@ const config = {
 // Functions
 const getFileType = (fileName, isDir) => {
     
+    // This function needs upgrading, according to the GitHub repos issue.
+    
     if (isDir) {
         return "FOLDER"
     }
     
-//    const spec = ["DOCKERFILE", "LICENSE", "MAKEFILE"]
     const spec = ["DOCKERFILE"]
     if (fileName.toUpperCase() in spec) {
         return fileName
