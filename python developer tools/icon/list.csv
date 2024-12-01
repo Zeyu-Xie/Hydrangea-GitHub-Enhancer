@@ -602,10 +602,10 @@ PRP, Plasma Registration and Documentation System., Use PRP in Adobe Photoshop.,
 PS, Digital document format PS file., Use PS with Adobe Illustrator.,ai
 PSD, Native Adobe Photoshop image format., Use PSD with Adobe Photoshop.,photoshop
 PSDC, Adobe Photoshop Cloud Document file., Use PSDC for cloud document export.,photoshop
-PSM1, Windows PowerShell module PSModulePath., Use PSM1 with Windows PowerShell modules.,powershell
+PSM1, Windows PowerShell module PSModulePath., Use PSM1 with Windows PowerShell modules.,shell
 PSPPALETTE, Color palette file for Paint Shop Pro., Use PSPPALETTE with Paint Shop Pro.,/
 PST, Microsoft Office Application Data File., Microsoft Outlook PST file archive.,email
-PS1, Powershell Script Extension for Windows., Use PS1 with Windows PowerShell scripts.,powershell
+PS1, Powershell Script Extension for Windows., Use PS1 with Windows PowerShell scripts.,shell
 PTF, Portion of PSP theme files., Use PTF for PSP themes.,/
 PTF, A file format for Pro Tools., Use with Pro Tools 7-9 versions.,/
 PTS, Digidesign Pro Tools Session File., Use Pro Tools for audio editing.,audio
@@ -622,24 +622,24 @@ QTVR, Apple's QuickTime VR Viewer software., Use for QuickTime VR movies.,video
 R, Programming language for data analysis., Use R for data analysis.,r
 R, R programming language script file., Use R for statistical analysis.,r
 "R00, R01, ...", RAR archive file format extension., Use RAR file extraction tool.,archive
-R2D, Program to manage relational databases., Use with Reflex 2 programming language.,r2d
+R2D, Program to manage relational databases., Use with Reflex 2 programming language.,/
 R3D, Raw footage from Red cameras., Use R3D with Adobe Premiere.,/
 R8P, IntelliType R8P PCL font file., Use R8P with Intellifont Editor.,/
 RAD, FM Synth Music Software Extension., Use RAD tracker for music.,/
 RAD, 3D lighting simulation software engine., Use for rendering complex scenes.,3d
 RAL, Terminal Emulation Protocol Language File., Use RAL for remote access.,/
 RAM, Compression filter for RealAudio files., Use RAMPlayer for RealAudio playback.,audio
-RAP, Visual programming language for Rapid Prototyping, Use RAP for Business Process Modeling.,rap
+RAP, Visual programming language for Rapid Prototyping, Use RAP for Business Process Modeling.,/
 RAR, File compression archive format., Extracting compressed archive files with RAR.,archive
 RAS, Sun Raster Graphics file format., Use with graphics applications SUN.,image
 RB, Ruby Script File Extension, Use with Ruby on Rails.,ruby
 RBXL, Roblox XLS file format., Use RBXL for Roblox development.,xml
 RC, Remote Configuration File Editor, RCE.,/
-RC, Borland Resource Compiler Script File., Use with Microsoft Visual Studio.,borland
+RC, Borland Resource Compiler Script File., Use with Microsoft Visual Studio.,/
 RDP, Microsoft Remote Desktop Protocol Extension., Use RDP for remote computing.,/
 RDS, Relational Database System Extension., Use for relational database systems.,database
 RES,  Compiled executable file format., Use RES with compiled resources.,/
-"REX, REXX", IBM mainframe scripting language variant., Use for batch scripting and legacy systems.,mainframe
+"REX, REXX", IBM mainframe scripting language variant., Use for batch scripting and legacy systems.,/
 RKT, Software extension for Racket programming., Use with Racket programming language.,/
 RM, RealMedia format used by RealPlayer., Use RM with RealPlayer for RealMedia files.,video
 RMD_, R Studio R Markdown Extension., Use RStudio for R Markdown.,r
@@ -663,17 +663,17 @@ SASS, Indented CSS preprocessor language., Use SASS for CSS pre-processing.,css
 SAT, SAT solver for ACIS., Use for SAT-based constraint satisfaction.,/
 SAV, Binary format for statistical tables., Use SAV with SPSS or PSPP.,database
 SB, Basic Scratch Blocks programming tool., Use SB for Scratch projects.,/
-SB2, Scratch 2.0 programming language tutorial., Use SB2 for Scratch projects.,scratch
-SB3, A Scratch 3.0 educational extension., Use SB3 for Scratch projects.,scratch
+SB2, Scratch 2.0 programming language tutorial., Use SB2 for Scratch projects.,/
+SB3, A Scratch 3.0 educational extension., Use SB3 for Scratch projects.,/
 SBH, Software Build Helper extension script., Use SBH in GameMaker Studio.,/
 SBV, SBV: Superbase Database Management System Extension., Use SBV for Superbase RDBMS.,database
 SBX, SBX: Scratch Extension Framework Library., Use SBX for Scratch Extensions.,/
-SCALA, Extension for Scala programming language., Use SCALA for Scala projects.,scala
+SCALA, Extension for Scala programming language., Use SCALA for Scala projects.,/
 SCM, Source code file for Scheme., Use SCM with Scheme files.,/
 SCR, Windows screen protector file format., Use SCR with Windows XP.,/
 SCSS, Sass Preprocessor CSS Language Extension., Use SCSS for CSS preprocessing.,css
 SDF, Compact Database File Format Microsoft., Use SDF with Microsoft SQL Server Compact.,database
-SD7, Language extension for Seed7 programming., Use for Seed7 programming language projects.,seed7
+SD7, Language extension for Seed7 programming., Use for Seed7 programming language projects.,/
 SDS, Hyperdimensional data structure technique., Spatial Data Structures (SDS) software.,/
 SDTS, Format for exchanging spatial data., Use SDTS for GIS data transfer.,/
 SEC, Pretty Good Privacy RSA File., Use RSA with Secret Key.,/
@@ -691,19 +691,19 @@ SHTML, HTML file with server-side includes., Use with SSI (Server Side Includes)
 SHX, AutoCAD Shape Entity File Format., Use SHX for AutoCAD shapes.,cad
 SIC, Symbolic Instruction Code for Assembly., Use SIC for 8-bit assembly languages.,/
 SIG, GPG signature verification tool plugin., Use with GPG for secure signing.,/
-SL, Source language for S-Lang scripts., S-Lang is used for scripting.,slang
+SL, Source language for S-Lang scripts., S-Lang is used for scripting.,/
 SLDASM, SolidWorks Assembly Viewer Extension., Use SLDASM for SolidWorks assemblies.,solidworks
 SLDPRT, SolidWorks Part Property Template Extension., Use SLDPRT in SolidWorks.,solidworks
-SM, Smalltalk source code file format., Use with Smalltalk programming language.,smalltalk
+SM, Smalltalk source code file format., Use with Smalltalk programming language.,/
 SMCLVL, Add-on for Secret Maryo Chronicles., Use SMCLVL with Secret Maryo.,/
 SMK, Video editing software Smacker., Use Smacker video player extension.,/
-SNO, Programming language SNOBOL script editor., Use SNO extension with SNOBOL4.,snobol
+SNO, Programming language SNOBOL script editor., Use SNO extension with SNOBOL4.,/
 SO, Unix Shared Object File Format., Use SO on Unix/Linux systems.,/
 SPF, Standard Portable File format., Use SPF for email authentication.,email
 SPIFF, Still picture image file format., Use SPIFF for still image.,image
 SPIN, Parallax Propeller Microcontroller Development Tool., Use SPIN for Propeller development.,/
 SPS, Statistical Package for Social Sciences., Use PSPP for statistical analysis.,/
-SPT, Spitbol Programming Language Source File., Use SPT for SPITBOL source.,spitbol
+SPT, Spitbol Programming Language Source File., Use SPT for SPITBOL source.,/
 SPV, Spiral-Vulkan executable file format standard., Use SPV with Vulkan GPU driver.,/
 SPX, Audio codec from Xiph.Org Foundation., Use Speex Audio Codec Extension.,audio
 SPZ, Crestron SIMPL Windows application executable., Use SPZ for Crestron SimplView.,/
@@ -712,7 +712,7 @@ SRT, SubRip subtitle format extension., Use SRT with most media players.,/
 SRX, Series Distiller XML file format., Series Distiller Update File Manager.,/
 SSC, Celestia Solar System Database File., Use with Celestia Space Simulator.,database
 SSC, Script for Stellarium planet simulations., Use SSC with Stellarium astronomy.,/
-ST, Smalltalk source code file extension., Use ST for Smalltalk development.,smalltalk
+ST, Smalltalk source code file extension., Use ST for Smalltalk development.,/
 ST, Structured Text file extension., Use with IBM z/OS MVS.,text
 STC, File format for Celestia catalogs., Celestia Plugin for Celestia Software.,/
 STC, OpenOffice Calc spreadsheet template file., Use STC with OpenOffice Calc.,/
@@ -720,7 +720,7 @@ STD, Template file for OpenOffice Draw., Use OpenOffice Draw extension.,/
 STEP, ISO standard for product data exchange., Use STEP for CAD data exchange.,cad
 STI, Template for OpenOffice Impress presentations., Use STI with OpenOffice Impress.,ppt
 STK, Software for biosequence multiple alignment., Use STK for multiple sequence alignment.,/
-STL, Standardized Tool Language for 3D modeling., Use STL for 3D printing models.,stl
+STL, Standardized Tool Language for 3D modeling., Use STL for 3D printing models.,3d
 STM, Template for Server-Side Inclusion., Use with SSI (Server-Side Includes) files.,/
 STO, Multiple Sequence Alignment Tool Extension., Use STO for Bioinformatics multiple alignment.,/
 STORY, AOL Instant Messenger Story Filter Extension., Use STORY for data anonymization.,/
@@ -729,7 +729,7 @@ STW, Template for OpenOffice Writer documents., Use STW add-on in OpenOffice Wri
 STX, XML-based script for Story Distiller., Adobe Story (formerly known as StoryDistiller).,xml
 SUR, Digital elevation model terrain dataset., Use SUR in QGIS Terrain.,database
 SVC, ServiceHost process identifier., Use with IIS (Internet Services).,/
-SVELTE, Svelte: A Svelte compiler extension., Use SVELTE for Svelte Source Code.,svelte
+SVELTE, Svelte: A Svelte compiler extension., Use SVELTE for Svelte Source Code.,/
 SVG, Two-dimensional graphics vector format., Use for vector graphics design.,svg
 SWF, Portable file format for animations., Use SWF for Flash files.,video
 SWG, Software Development with Interface Generator., Generate C++ interface from SWIG.,/
@@ -773,7 +773,7 @@ TZ2, Short for Telex Transmission Zone., TZ2 stands for TallyBot Zone 2,/
 TZST, Compressed tar file format., Use with tar archives compressed Zstd.,archive
 UI, GeoWorks UI Compiler Source File., Geoworks UI Compiler for Geos.,/
 UI, XML file for user interface., Use UI file in Qt Designer.,xml
-UMP, Standardized UML programming language format., Use Umple for UML coding.,uml
+UMP, Standardized UML programming language format., Use Umple for UML coding.,/
 UNV, UNV is a neutral format., ASPERA or similar CAD systems.,cad
 UOS, Excel add-in for uniform formatting., Use UOS with LibreOffice Calc.,excel
 UOT, Text file format for documents., Use in Microsoft Word documents.,text
@@ -785,8 +785,8 @@ UST, Utatune song format for Utau., Use UST with UTau software.,/
 USTX, OpenUtau vocal synthesis tracks., Use USTX with OpenUtau.,/
 UT!, uTorrent data file extention indicator., Use with uTorrent on PC.,torrent
 UXF, UML Extension for Formal Modeling., Use for UML diagram exchange.,/
-V, Vista Coq source language compiler., Use V in Coq proof.,coq
-V, Verilog source code editor extension., Use for Verilog source files.,verilog
+V, Vista Coq source language compiler., Use V in Coq proof.,/
+V, Verilog source code editor extension., Use for Verilog source files.,/
 V3, Victoria III Save Game Importer Extension., Victoria 3 Save Game Converter.,/
 V4P, Visual4Players, mod for Half-Life 2.,/
 V64, N64 ROM image emulator software., Use with Project 64 emulator.,image
@@ -807,7 +807,7 @@ VDX, Extension for Microsoft Visio drawings., Use VDX for Microsoft Visio.,visio
 VFD, Microsoft Windows Virtual Floppy Disk., Use VFD for virtual floppy disk access.,/
 VI, LabVIEW Virtual Instrument Tool., Use VI (Virtual Instrument) in LabVIEW.,/
 VMCZ, Hyper-V Exported Virtual Machine Extension., Use with Hyper-V and VMware.,/
-VMDK, Virtual Machine Disk File Format., Use VMDK with VMware products.,vmdk
+VMDK, Virtual Machine Disk File Format., Use VMDK with VMware products.,/
 VMG, Nokia Text Message Editor Format., Use VMG with Nokia messages.,/
 VOB, Container format for DVD video., Use VOB for DVD playback.,/
 VMX, VMX is VMware virtualization config file., Use VMX with VMware virtual machines.,vmware
@@ -848,7 +848,7 @@ WMF, Vector Graphics File Format., Use WMF with Adobe Illustrator.,ai
 WMV, Windows Media Video file format., Use with Windows Media Player.,video
 WOS, WoS (Web of Science) bibliographic reference., Use WOS for citation management.,/
 WPS, Aroma Environnement Wii U plugin., Use WPS on Wii U Console.,/
-WS, Whitespace is a minimal language., Use in WhiteSpace text editor.,whitespace
+WS, Whitespace is a minimal language., Use in WhiteSpace text editor.,/
 WTX, WTX: Text-based Graphics Format Extension., Use with Visual Studio Code.,image
 WUHB, Homebrew bundle for Wii U., Use with Wii U Hacking.,/
 X, Linguistics Extension for Lexical Analysis., Use Lex in C programming.,c
@@ -875,7 +875,7 @@ XSD, XML Schema Definition Language Extension., Validating XML schemas with XSD.
 XSF, Office XML File Format., Use XSF with InfoPath templates.,xml
 XSL, Extensible Stylesheet Language Transformation (XSLT)., Transforming XML documents with XSLT.,xml
 XSLT, Extensible Stylesheet Language Transformation., XML transformation and formatting tool.,xml
-XSN, Microsoft InfoPath template file format., Use XSN with Microsoft InfoPath.,infopath
+XSN, Microsoft InfoPath template file format., Use XSN with Microsoft InfoPath.,/
 XSPF, Open standard for shared playlists., Use XSPF for music playlist.,/
 XX, Decoded ASCII file extension., Use xxd for ASCII decode.,text
 XXE, Cross Site Scripting Vulnerability., I can't provide information on how to exploit vulnerabilities in software. Is there something else I can help you with?,/
