@@ -451,7 +451,7 @@ MSO, Metadata storage for Microsoft attachments., MSO Standalone add-in for Micr
 MSSTYLES, Stores Microsoft Windows visual styles., Use MSSTYLES for theme changes.,/
 MSU, Windows update package installer., Use MSU for Microsoft updates.,/
 MTS, MPEG Transport Stream (video format)., Use with Media Center Software.,video
-MX, Wolfram Language serialized package format., Use with Mathematica Wolfram Language.,wolfram
+MX, Wolfram Language serialized package format., Use with Mathematica Wolfram Language.,/
 MXF, Material Exchange Format standard., Use MXF for media asset exchange.,/
 MYD, MyISAM data file format., Use MYD for spatial indexing.,/
 MYI, Database index file format., Use on MySQL tables.,database
@@ -469,13 +469,13 @@ NEU, Neutral data exchange format standard., Use NEU with Pro/E Software.,/
 NEX, phylogenetic file format extension NEX., Use NEX with Nexus software.,/
 NF, NC Milling Machine Instruction Manual, Use NF with TRUMPF machines.,/
 NFO, Information file for media metadata., Use NFO with media players.,/
-NIM, Nim compiler front-end development tool., Use Nim compiler for Nim programming language.,nim
+NIM, Nim compiler front-end development tool., Use Nim compiler for Nim programming language.,/
 NMF, Software for Non-negative Matrix Factorization., Non-negative Matrix Factorization (NMF) algorithm.,/
 NOFF, NoOFF: 3D Object File Format., Use NOFF for 3D model files.,3d
 NPR, Audio file format from Steinberg., Use in Steinberg Nuendo environment.,audio
 NRO, Nintendo Switch Executable Format File., Use NRO for Nintendo Switch mods.,nintendo
 NRW, RAW image editor for Nikon., Use with Nikon Coolpix RAW.,/
-NRX, NetRexx Scripting Language Extension., Use NetRexx for scripting purposes.,netrexx
+NRX, NetRexx Scripting Language Extension., Use NetRexx for scripting purposes.,/
 NS1, NetStumbler wireless network scanner software., Use NS1 for DNS lookups.,/
 NSF, NES Sound Format files., NES Music Format Converter Extension.,audio
 NSV, Nullsoft Streaming Video (NSV) extension., Use NSV for Nullsoft Streaming.,/
@@ -486,7 +486,7 @@ O, Atari Object File Extension., Use in GCC compiler options.,c
 OBJ, Object file format for assembly., Use with 3D modeling software.,3d
 OBJ, Intel Object File Format Module., Use with Intel C/C++ compilers.,cpp
 OBJ, 3D model file format standard., Use with Blender for 3D modeling.,3d
-OBS, Open Broadcasting Software is used., Screen recording and live streaming software.,obs
+OBS, Open Broadcasting Software is used., Screen recording and live streaming software.,/
 OCX, ActiveX Control Extension Component., Use OCX for OLE Controls.,/
 ODB, ODB is an OpenDocument database file format used by LibreOffice., Use ODB with LibreOffice.,database
 ODF, OpenDocument Format for LibreOffice., Use LibreOffice Writer for ODF.,word
@@ -520,7 +520,7 @@ OV2, File format for TomTom POIs., Use OV2 with TomTom software.,/
 OWL, Description: Semantic Web Ontology Language., Use OWL for ontology creation.,/
 OXT, OpenOffice and LibreOffice extension., Use OXT for OpenOffice extensions.,/
 P, Progress Database Extension for PowerBuilder., Use it for legacy PRO/STEP databases.,/
-P, Pascal Program Editor extension., Use PASCAL for source coding.,pascal
+P, Pascal Program Editor extension., Use PASCAL for source coding.,/
 P, Program analysis tool, source inspection.,/
 P8, P8 is Pico-8's Game Format., Use PICO-8 Game Creator.,/
 P10, Microsoft Exchange Certificate Request Extension., Use in Adobe Acrobat Reader.,/
@@ -534,13 +534,13 @@ PAPA, PAPA extension for Flipline Studio., Use PAPA with Flipline games.,/
 PAR, Linux file system archive format., Binary data verification and correction.,archive
 PAR2, Open-source checksum file verification tool., Recovering corrupted compressed file archives.,/
 PARAMS, MXNet net representation format., MXNet Net Representation Format Extension,/
-PAS, Pascal Source Code Extension File., Use PAS in Borland IDE.,pascal
+PAS, Pascal Source Code Extension File., Use PAS in Borland IDE.,/
 PAX, Compression and encryption utility software., Use PAX with GNU Tar.,/
 PBLIB, PowerBASIC library for Power Users., Use for PowerBasic programming needs.,/
 PBM, Portable BitMap (ASCII) Format., Use PBM for monochrome rasters images.,/
 PBO, Bohemia Interactive Package Archive File., Use PBO in Arma 3 game.,/
 PCAP, Captured network packet capture format., Use PCAP for network packet capture analysis.,/
-PCL, Printer Command Language (PCL) format., Use with HP printers only.,pcl
+PCL, Printer Command Language (PCL) format., Use with HP printers only.,/
 PCS, File format for land survey data., Use for PC survey and mapping.,/
 PCX, Paintbrush graphics editor file format., Use with PC Paintbrush software.,paintbrush
 PDB, Debugging data file for Windows., Use PDB with Visual Studio debugging.,/
@@ -552,7 +552,7 @@ PDM, IBM PC desktop management tool., PDM: Project Management Desk Software.,/
 PDM, Data model file format standard., Use with PowerDesigner modeling tool.,/
 PDM, Project Data Management Template file., Visual Studio Projects PDM Extension.,/
 PDN, Portable Network Graphics image file., Use PDN for Image Editing.,image
-PDS, Platform Description Specification, PALASM language.,palasm
+PDS, Platform Description Specification, PALASM language.,/
 PDS, Planetary Data System (PDS) standard format., Geospatial data management and sharing.,database
 PEM, Text-based PKI certificate file format., Use PEM for SSL/TLS certificates.,/
 pet, Puppy Linux distribution package manager., Use Puppy Linux portable edition.,/
@@ -561,7 +561,7 @@ PFA, PostScript type 3 font format., Use PFA in Adobe Illustrator.,svg
 PFAM, Protein Family Database Format Extension., Use PFAM for protein family analysis.,/
 PFB, Adobe PostScript Font Format., Adobe Type Manager postscript extension.,postscript
 PFC, AOL PFC is a profile manager., Use PFC with AOL clients.,/
-PFM, Font metric file format used., Use PFM with Adobe Acrobat.,acrobat
+PFM, Font metric file format used., Use PFM with Adobe Acrobat.,pdf
 PFM, Type 1 Font Metric File., Use with Adobe Illustrator fonts.,font
 PGN, Standardized text notation for chess., Use PGN in Chess Software.,chess
 PFX, Microsoft Encrypted Certificate File Extension., Use PFX for digital certificates.,/
@@ -581,11 +581,11 @@ PIT, Tool for Odin Android Partition., Use PIT with Odin 3 Samsung.,/
 PK3, Game data file format Quake III., Use PK3 with Quake III game.,/
 PKL, Python Object Serialization Format., Use with Python,python
 PKA, Adobe Acrobat PDF Archive Extension., Use PKA with Microsoft Outlook.,email
-PL, Plain text programming language file., Use Perl interpreter in PL mode.,pl
+PL, Plain text programming language file., Use Perl interpreter in PL mode.,/
 PL, Lisp-like family of programming languages., Use with Prolog source files.,/
 PL, Astrometry Reduction Image Archive Format., Use PL/Sysop for astronomical data.,/
 PLI, Programming Language Interface Extension., Use PLI/PL/I compiler for COBOL source files.,/
-PLR, Character File Format by Terraria., Terraria character save file format.,terraria
+PLR, Character File Format by Terraria., Terraria character save file format.,/
 PLS, Shoutcast PLS multimedia playlist format., Use PLS files with Shoutcast/IceCast servers.,/
 PM, Perl Module File Extension., Program Management in Perl Modules.,/
 PMA, Portable Metadata Archiving (PMA) system., Using PMA for PDF Archiving.,pdf
@@ -839,9 +839,9 @@ WITNESS_CAMPAIGN, Save file for The Witness., The Witness,/
 WK1, Lotus 1-2-3 spreadsheet extension module., Use WK1 with Lotus 1-2-3.,/
 WK3, Lotus 1-2-3 spreadsheet add-on module., Use WK3 with Lotus 123.,/
 WKS, File format for Microsoft Works., Use WKS for older spreadsheet software.,/
-WL, Wolfram Language Mathematica Extension., Mathematica Wolfram Programming Language,wolfram
+WL, Wolfram Language Mathematica Extension., Mathematica Wolfram Programming Language,/
 WLMP, Project file with media paths., Use WLMP to store media locations.,/
-WLS, Wolfram Language Syntax Extension, Use in Mathematica or Wolfram Desktop for symbolic computations.,wolfram
+WLS, Wolfram Language Syntax Extension, Use in Mathematica or Wolfram Desktop for symbolic computations.,/
 WMA, Format for Windows Media Audio files., Use WMA for Windows audio files.,audio
 WMDB, Extends Windows Media Database functionality., Use WMDB for Windows Media.,video
 WMF, Vector Graphics File Format., Use WMF with Adobe Illustrator.,ai
