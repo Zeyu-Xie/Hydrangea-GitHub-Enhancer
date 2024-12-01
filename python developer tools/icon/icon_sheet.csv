@@ -6,7 +6,7 @@ ext.,description,used by,icon
 3GX, Luma3DS plugin for Nintendo 3DS., Use for 3DS console hacking.,nintendo
 3MF, Open standard for 3D printing., Use 3MF for additive manufacturing.,3d
 7z, Seven-Zip archive file format., Use 7-Zip for ZIP archives.,archive
-4TH, Forth programming language and compiler., Install 4th for Forth programming.,forth
+4TH, Forth programming language and compiler., Install 4th for Forth programming.,/
 A, Universal Archive File Format (.ar)., Use 'ar' for Unix archive files.,archive
 AAC, Format for high-quality audio compression., Use AAC on Apple devices.,audio
 ACCDB, Microsoft Office Access Database Extension., Use ACCDB for Microsoft Access.,database
@@ -259,8 +259,8 @@ FRAG, Small executable fragment file., Use FRAG on MOVPKG files.,/
 FRM, FRM is MySQL database metadata file., Use FRM for MySQL metadata.,database
 Frq7, Frequency response analysis software., I couldn't find information about that.,/
 FS, F# programming language compiler extension., F# compiler development and editing.,/
-FS, Forth source code file extension., Use for Forth Development Systems.,forth
-FTH, Forth is an interpreted programming language., Use FTH for Forth source files.,forth
+FS, Forth source code file extension., Use for Forth Development Systems.,/
+FTH, Forth is an interpreted programming language., Use FTH for Forth source files.,/
 G4, Grammar for ANTLR4 language model., Use for ANTLR4 grammar validation.,/
 G6, Graph data storage format G6., Graph6 (G6) for graph data.,image
 GB, Format for molecular biology data., Use in bioinformatics database workbench.,database
@@ -441,7 +441,7 @@ MPC, Lossless audio compression format., Play Musepack audio files online.,audio
 MPD, MPCD: LDraw Multi-Part Data File Extension., Use MPD with LDraw models.,/
 MPEG, Digital multimedia container format standard., Use with multimedia content files.,video
 MPG, MPEG Audio Layer 3 compression., Use with video encoding software.,video
-MPS, Mathematical Programming System Format., Use MPS for Linear Programming.,mathematical
+MPS, Mathematical Programming System Format., Use MPS for Linear Programming.,/
 MSC, Microsoft Management Console (MMC) extension., Use MSC for management consoles.,/
 MSAV, Mini-map file format specification., Use MSAV for MineSweeper maps.,map
 MSDL, Language for describing MUSE scenes., Use MSDL for Manchester scene modeling.,/
