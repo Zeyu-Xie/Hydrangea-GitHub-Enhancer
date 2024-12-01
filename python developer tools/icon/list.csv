@@ -264,7 +264,7 @@ FTH, Forth is an interpreted programming language., Use FTH for Forth source fil
 G4, Grammar for ANTLR4 language model., Use for ANTLR4 grammar validation.,/
 G6, Graph data storage format G6., Graph6 (G6) for graph data.,image
 GB, Format for molecular biology data., Use in bioinformatics database workbench.,database
-GBK, GBK encoding for Chinese characters., Chinese input method for Windows.,gbk
+GBK, GBK encoding for Chinese characters., Chinese input method for Windows.,/
 GBR, Gerber format for PCB design., Eagle CAD/ CAM software uses GBR.,/
 GDF, Standard format for biomedical signals., Use GDF for biomedical signals.,/
 GDSCRIPT, Language for Godot game engine scripting., Use GDScript for Godot game development.,/
@@ -290,12 +290,12 @@ GRP, Data pack files for Duke Nukem 3D., DUKE NUKEM 3D game modding.,/
 GSF, Binary file format for bathymetry., Use GSF with ESRI ArcGIS.,/
 GTF, Gene Transfer Format specification standard., Use for gene sequence annotation.,/
 GV, Graph Visualization Tool with Graphviz., Use GV for graph visualization.,image
-GW, Leaded Crystal Graphics Format., LEDA programming language.,leda
+GW, Leaded Crystal Graphics Format., LEDA programming language.,/
 GXL, Graph Exchange Language (GXL) specification., Use GXL for graph data exchange.,image
 GZ, gzip compressed file format extension., Use GZ with gzip files.,archive
-H!, Flambeaux Help File Extension., Use with Flambeaux Help Display.,flambeaux
+H!, Flambeaux Help File Extension., Use with Flambeaux Help Display.,/
 H!, Help text for H! software., Use in Visual Basic for Help File.,basic
-H--, Sphinx Documentation Language Header Extension., Use with Sphinx documentation tools.,sphinx
+H--, Sphinx Documentation Language Header Extension., Use with Sphinx documentation tools.,/
 H, Extension for Watcom C compiler., Use H for Watcom Header.,c
 H++, A header file for H++., Use H++ for C/C++ headers.,cpp
 HA, Historical Archive File Extension., Use it for data archiving.,archive
@@ -337,7 +337,7 @@ IPTRACE, Captures dual-home network packet traces., Use IPTRACE for dual-home ca
 IRX, PS2 I/O library for executable extensions., Use IRX for PS2 I/O Communication.,/
 ISO, File system format standard., Create ISO images for CDs/dvds.,archive
 IT, Impulse Tracker music format., Use Impulse Tracker in chiptune.,/
-JL, Extension for Julia programming files., Use JL with Julia programming.,julia
+JL, Extension for Julia programming files., Use JL with Julia programming.,/
 J2C, JPEG 2000 Image Compression Format., Use J2C for JPEG 2000 processing.,image
 J2K, JPEG 2000 compression format., Adobe Photoshop supports J2K format.,image
 JAR, Java archive file format structure., Use JAR for Java archives.,archive
@@ -363,8 +363,8 @@ KML, Binary file format for Google Earth., Use KML for Google Earth.,/
 KMZ, File format for Google Earth data., Use KMZ with Google Earth.,/
 KO, Kernel Object file in Linux., Kernel Object (ko) Linux module.,/
 KRA, Krita image file extension., Use KRA with Krita software.,image
-KRABER, Kraber is a programming language., Use KRABER for Assembly Language.,kraber
-KSH, Bourne shell-like Unix scripting language., Use KornShell for scripting tasks.,ksh
+KRABER, Kraber is a programming language., Use KRABER for Assembly Language.,/
+KSH, Bourne shell-like Unix scripting language., Use KornShell for scripting tasks.,/
 KT, Kotlin source code file extension., Use in IntelliJ IDEA Kotlin plugin.,kotlin
 KV, Kivy Virtual Extensions Framework., Use KV for Kivy UI design.,kivy
 LABEL, Imports Dymo label files easily., Use LABEL with Dymo Desktop software.,/
@@ -376,7 +376,7 @@ LDT, Laboratory Data Terminal Extension (LDT)., Use LDT for German Lab Orders.,/
 LGR, Graph data format standard., Use LGR for graph data storage.,image
 LHA, Compressed archive format LZW compression., Use LHA for archiving data.,archive
 LISP, Programming language with prefix notation., Use for Machine Learning Programming.,lisp
-LL, LLVM Low-Level Language Assembler., Use for LLVM Assembly Language coding.,llvm
+LL, LLVM Low-Level Language Assembler., Use for LLVM Assembly Language coding.,/
 LM, Contains information for language models., Use in Windows file association.,/
 LMD, Molecular Biology Data Format., Use LMD for sequence alignment.,/
 LNK, Shortcut to local file location., Use on local files shortcuts.,/
@@ -408,7 +408,7 @@ MDF, Standardized database data file format., Use with Microsoft SQL Server.,dat
 MDF, Binary format for automotive measurements., Use MDF in CAD design tools.,cad
 MDI, Optical Character Recognition (OCR) tool., Adobe Acrobat Reader DC.,/
 MDG, Digital geometry programmable CAD format., Use MDG with Autodesk Maya.,map
-MDL, MathWorks Model-Based Development Tool., Use with Simulink Modeling Tools.,mathworks
+MDL, MathWorks Model-Based Development Tool., Use with Simulink Modeling Tools.,matlab
 MDS, Midi Sound Designer Extension., Use Musesinx with MIDI Session.,/
 MEX, MATLAB M-Files Extension Package., MATLAB MEX File Compiler Tool.,matlab
 MGF, Mathematica Graphics File Format., Use with Wolfram Mathematica graphics.,image
@@ -418,7 +418,7 @@ MID, MIDI music file format standard., Use MID with Winamp and music synthesis.,
 MKA, Matroska audio video container format., Matroska audio format converter.,video
 MKV, Open standard video container format., Use MKV with Matroska player.,video
 MM, Mediblob++ is a C/C++ debugger., Emacs with MM Source Mode.,/
-MML, Mathematical Markup Language format., Use MML with MathML rendering.,mathematical
+MML, Mathematical Markup Language format., Use MML with MathML rendering.,/
 MNT, Geospatial Map Representation Format Extension., Use MNT extension for 3D modeling.,map
 MO, Modelica model file format., Use MO with Modelica models.,/
 MOBI, Digital book format specification standard., Use with eReaders and eBooks.,book
@@ -444,7 +444,7 @@ MPG, MPEG Audio Layer 3 compression., Use with video encoding software.,video
 MPS, Mathematical Programming System Format., Use MPS for Linear Programming.,mathematical
 MSC, Microsoft Management Console (MMC) extension., Use MSC for management consoles.,/
 MSAV, Mini-map file format specification., Use MSAV for MineSweeper maps.,map
-MSDL, Language for describing MUSE scenes., Use MSDL for Manchester scene modeling.,msdl
+MSDL, Language for describing MUSE scenes., Use MSDL for Manchester scene modeling.,/
 MSF, Multiple Sequence Format specification., Use MSF for Multiple Sequence Alignment.,/
 MSI, Windows Installer Package Files (.msi), Use MSI for Windows Installers.,msi
 MSO, Metadata storage for Microsoft attachments., MSO Standalone add-in for Microsoft Word.,/
