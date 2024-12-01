@@ -274,6 +274,7 @@ GEOJSON, GeoJSON data format standard., Use with spatial data processing.,geojso
 GEOTIFF, Data format for geospatial imagery., Use with Geographic Information Systems (GIS).,map
 GGB, GeoGebra Interactive Math File Extension., Use GGB in GeoGebra environment.,geogebra
 GIF, Graphics Interchange Format extension., Use with old CompuServe systems.,image
+GITIGNORE, Git Ignore File Format., Use GITIGNORE for Git repositories.,git
 GM9, Scripting tool for GameMaker., GodMode9 Script Editor Extension.,/
 GMI, Gemtext markup language for Gemini., Use GMI for Gemini chat protocol.,text
 GMK, GameMaker Studio project file format., Use GMK with GameMaker Studio.,/

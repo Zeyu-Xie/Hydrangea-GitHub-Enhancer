@@ -108,5 +108,5 @@ def load_icon_dict():
 
 if __name__ == "__main__":
 
-    # process_source_icon()
+    process_source_icon()
     load_icon_dict()
