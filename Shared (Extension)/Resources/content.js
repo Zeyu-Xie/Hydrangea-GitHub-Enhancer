@@ -7,10 +7,11 @@ const config = {
 const getFileType = (fileName, isDir) => {
     
     if (isDir) {
-        return "."
+        return "FOLDER"
     }
     
-    const spec = ["DOCKERFILE", "LICENSE", "MAKEFILE"]
+//    const spec = ["DOCKERFILE", "LICENSE", "MAKEFILE"]
+    const spec = ["DOCKERFILE"]
     if (fileName.toUpperCase() in spec) {
         return fileName
     }

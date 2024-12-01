@@ -1,0 +1,3 @@
+name,description,used by,icon
+FOLDER, A structure for organizing files., operating systems,folder
+DOCKERFILE, A file that contains instructions for building a Docker image., Docker,docker
