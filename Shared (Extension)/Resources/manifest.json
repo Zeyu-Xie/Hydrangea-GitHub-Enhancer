@@ -33,17 +33,13 @@
     "permissions": [
         "storage",
         "activeTab"
-      ],
+    ],
     
     "host_permissions": [
         "*://*/*"
     ],
     
     "content_security_policy": {
-        "extension_pages": {
-          "script-src": "'self'",
-          "object-src": "'self'",
-          "connect-src": "'self'"
-        }
-      }
+        "extension_pages": "script-src 'self'; object-src 'self'; script-src-elem 'self' 'unsafe-inline' https://music.yandex.ru/;"
+    }
 }
